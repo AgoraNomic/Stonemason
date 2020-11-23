@@ -1,0 +1,32 @@
+The November Stone auction has ended. It began at 00:15:33 on 2020-11-12 and ended at 04:16:53 on 2020-11-23, four days after the final bid by Falsifian.
+
+There were three lots: [Power Stone], [Wealth Stone], [Concentration Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+[Power Stone] -> Murphy for 169 coins.
+[Wealth Stone] -> ATMunn for 169 coins.
+[Concentration Stone] -> Falsifian for 200 coins.
+
+Bid history:
+
+Date                 Player       Preferred Lot  Amount (coins)
+-------------------  ------       -------------  --------------
+2020-11-12 00:45:59  Shy Owl      Wealth          10
+2020-11-12 01:32:34  nix          Power           15
+2020-11-12 01:32:34  nix          Concentration   15
+2020-11-12 02:26:42  Jason        Concentration   20
+2020-11-12 02:45:08  Aris         Wealth          25
+2020-11-12 17:27:46  Falsifian    Wealth          50
+2020-11-12 17:27:46  Falsifian    Power           50
+2020-11-12 17:27:46  Falsifian    Concentration   50
+2020-11-12 17:58:37  ATMunn       Wealth          60
+2020-11-12 17:58:37  ATMunn       Power           40
+2020-11-12 17:58:37  ATMunn       Concentration   60
+2020-11-14 18:40:17  Falsifian    Wealth         100
+2020-11-14 18:40:17  Falsifian    Concentration  100
+2020-11-15 16:45:59  Murphy       Power          123
+2020-11-15 16:45:59  Murphy       Wealth         123
+2020-11-15 16:45:59  Murphy       Concentration  123
+2020-11-15 16:56:14  Falsifian    Concentration  200
+2020-11-16 01:06:37  ATMunn       Wealth         169
+2020-11-19 04:16:53  Falsifian    Wealth         101
