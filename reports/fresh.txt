@@ -6,10 +6,11 @@ Power          Agora      [Never]
 Wealth         Agora      [Never]
 Soul           Agora      [Never]
 Sabotage       Agora      [Never]
-Concentration  Falsifian  [Never]
+Concentration  Falsifian  2020-11-26
 Protection     Agora      [Never]
 
 History:
+2020-11-26 16:06:57  Falsifian wields Concentration Stone, specifying self.
 2020-11-26 03:33:46  Falsifian transfers Concentration stone from Agora after auction resolution.
 
 Summary of stone functions:
