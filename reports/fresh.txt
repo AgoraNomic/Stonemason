@@ -21,7 +21,3 @@ Sabotage: the AI of a specified AI-majority decision is increased by 1.
 Concentration: a specified player earns an extra Grant for eir Focus.
 Protection: a specified stone becomes immune (until the next Collection
 Notice).
-
-
-[Sorry for the barebones and ugly report, I'm in a bit of a rush and
-haven't yet contemplated how to make it pretty.]
