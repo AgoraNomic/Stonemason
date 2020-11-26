@@ -12,12 +12,20 @@ No Stones are immune.
 
 Summary of stone functions:
 
-Power: a specified player's strength is increased by 3 on a specified
-Agoran decision.
-Wealth: a specified player earns 5 boatloads of coins.
-Soul: a specified non-immune stone is stolen by the wielder, then the
-Soul Stone is transferred to the robbed player.
-Sabotage: the AI of a specified AI-majority decision is increased by 1.
-Concentration: a specified player earns an extra Grant for eir Focus.
-Protection: a specified stone becomes immune (until the next Collection
-Notice).
+Power          a specified player's strength is increased by 3 on a
+               specified Agoran decision.
+
+Wealth         a specified player earns 5 boatloads of coins.
+
+Soul           a specified non-immune stone is stolen by the
+               wielder, then the Soul Stone is transferred to the
+               robbed player.
+
+Sabotage       the AI of a specified AI-majority decision is
+               increased by 1.
+
+Concentration  a specified player earns an extra Grant for eir
+               Focus.
+
+Protection     a specified stone becomes immune (until the next
+               Collection Notice).
