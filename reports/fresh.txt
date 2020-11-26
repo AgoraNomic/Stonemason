@@ -1,13 +1,13 @@
 The ownership of stones is as follows:
 
-The Power Stone is owned by Agora.
-The Wealth Stone is owned by Agora.
-The Soul Stone is owned by Agora.
-The Sabotage Stone is owned by Agora.
-The Concentration Stone is owned by Agora.
-The Protection Stone is owned by Agora.
-
-No Stones are immune.
+Stone          Owner      Last Wielded  Immune?
+-------------  ---------  ------------  -------
+Power          Agora      [Never]
+Wealth         Agora      [Never]
+Soul           Agora      [Never]
+Sabotage       Agora      [Never]
+Concentration  Agora      [Never]
+Protection     Agora      [Never]
 
 
 Summary of stone functions:
