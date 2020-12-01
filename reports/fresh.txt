@@ -3,11 +3,11 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone          Owner      Last Wielded  Immune?
 -------------  ---------  ------------  -------
 Power          Murphy     [Never]
-Wealth         Agora      [Never]
-Soul           Agora      [Never]
-Sabotage       Agora      [Never]
+Wealth         Agora      [Never]       Agora
+Soul           Agora      [Never]       Agora
+Sabotage       Agora      [Never]       Agora
 Concentration  Falsifian  2020-11-26
-Protection     Agora      [Never]
+Protection     Agora      [Never]       Agora
 
 History:
 2020-11-27 18:16:18  Murphy transfers Power Stone from Agora from Agora after auction resolution.
