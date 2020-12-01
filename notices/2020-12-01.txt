@@ -1,0 +1,8 @@
+I hereby publish the following collection notice:
+
+All choices are made using AgoraBot in a public channel on the unofficial Discord. I affirm under penalty of No Faking that, to the best of my knowledge, the choices listed below had the probabilities listed below.
+
+Stone          Owner        Escape Risk  Escapes?
+-----          -----        -----------  --------
+Power          Murphy       40%          
+Concentration  Falsifian    60%          Escapes
