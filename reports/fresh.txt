@@ -6,10 +6,11 @@ Power          Murphy     [Never]
 Wealth         Agora      [Never]       Agora
 Soul           Agora      [Never]       Agora
 Sabotage       Agora      [Never]       Agora
-Concentration  Falsifian  2020-11-26
+Concentration  Agora      2020-11-26    Agora
 Protection     Agora      [Never]       Agora
 
 History:
+2020-12-01 20:32:23  Concentration stone is transferred from Falsifian to Agora per collection notice.
 2020-11-27 18:16:18  Murphy transfers Power Stone from Agora from Agora after auction resolution.
 2020-11-26 16:06:57  Falsifian wields Concentration Stone, specifying self.
 2020-11-26 03:33:46  Falsifian transfers Concentration stone from Agora after auction resolution.
