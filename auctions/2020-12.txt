@@ -1,0 +1,24 @@
+The December Stone auction has ended. It began at 16:56:39 on 2020-12-02 and ended at 23:06:21 on 2020-12-09, four days after the final bid by Murphy.
+
+There were three lots: [Protection Stone], [Sabotage Stone], [Wealth Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+[Protection Stone] -> Murphy for 135 coins.
+[Sabotage Stone]   -> Murphy for 130 coins.
+[Wealth Stone]     -> ATMunn for 169 coins.
+
+Bid history:
+
+Date                 Player       Preferred Lot  Amount (coins)
+-------------------  ------       -------------  --------------
+2020-12-02 17:00:26  ATMunn       Wealth         100
+2020-12-02 17:34:55  Aris         Protection     100
+2020-12-03 17:55:04  Jason        Wealth         101
+2020-12-03 18:59:49  ATMunn       Wealth         111
+2020-12-04 18:13:35  Falsifian    Sabotage         1
+2020-12-04 18:13:35  Falsifian    Wealth         150
+2020-12-04 18:34:59  ATMunn       Sabotage         2
+2020-12-04 18:34:59  ATMunn       Wealth         169
+2020-12-05 23:06:21  Murphy       Sabotage       130
+2020-12-05 23:06:21  Murphy       Protection     135
+2020-12-05 23:06:21  Murphy       Wealth         140
