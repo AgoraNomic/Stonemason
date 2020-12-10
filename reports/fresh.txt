@@ -18,19 +18,20 @@ History:
 Summary of stone functions:
 
 Power          a specified player's strength is increased by 3 on a
-               specified Agoran decision.
+               specified Agoran decision. Escape risk: 40%.
 
-Wealth         a specified player earns 5 boatloads of coins.
+Wealth         a specified player earns 5 boatloads of coins. Escape
+               risk: 50%.
 
 Soul           a specified non-immune stone is stolen by the
                wielder, then the Soul Stone is transferred to the
-               robbed player.
+               robbed player. Escape risk: 50%.
 
 Sabotage       the AI of a specified AI-majority decision is
-               increased by 1.
+               increased by 1. Escape risk: 80%.
 
 Concentration  a specified player earns an extra Grant for eir
-               Focus.
+               Focus. Escape risk: 60%.
 
 Protection     a specified stone becomes immune (until the next
-               Collection Notice).
+               Collection Notice). Escape risk: 70%.
