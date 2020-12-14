@@ -5,11 +5,13 @@ Stone          Owner      Last Wielded  Immune?
 Power          Murphy     [Never]
 Wealth         ATMunn     2020-12-10
 Soul           Agora      [Never]       Agora
-Sabotage       Agora      [Never]       Agora
+Sabotage       Murphy     [Never]
 Concentration  Agora      2020-11-26    Agora
-Protection     Agora      [Never]       Agora
+Protection     Murphy     [Never]
 
 History:
+2020-12-13 23:15:35  Murphy transfers Sabotage Stone from Agora after auction resolution.
+2020-12-13 23:15:35  Murphy transfers Protection Stone from Agora after auction resolution.
 2020-12-10 01:35:17  ATMunn wields Wealth Stone, specifying self.
 2020-12-10 01:30:18  ATMunn transfers Wealth Stone from Agora after auction resolution.
 2020-12-01 20:32:23  Concentration stone is transferred from Falsifian to Agora per collection notice.
