@@ -1,0 +1,18 @@
+The January Stone auction has ended. It began at 17:42:49 on 2021-01-06 and ended at 15:42:24 on 2021-01-11, four days after the final bid by ATMunn.
+
+There were three lots: [Soul Stone], [Protection Stone], [Concentration Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+[Soul Stone]          -> Falsifian for 30 coins.
+[Protection Stone]    -> Falsifian for 30 coins.
+[Concentration Stone] -> ATMunn for 100 coins.
+
+Bid history:
+
+Date                 Player       Preferred Lot  Amount (coins)
+-------------------  -----------  -------------  --------------
+2020-01-06 19:07:34  Jason        Concentration   10
+2020-01-06 21:12:18  Falsifian    Concentration   50
+2020-01-06 21:12:18  Falsifian    Soul            30
+2020-01-06 21:12:18  Falsifian    Protection      30
+2020-01-07 15:42:24  ATMunn       Concentration  100
