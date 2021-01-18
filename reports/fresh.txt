@@ -6,10 +6,11 @@ Power          Murphy     [Never]
 Wealth         Agora      2020-12-10    Agora
 Soul           Agora      [Never]       Agora
 Sabotage       Agora      [Never]       Agora
-Concentration  Agora      2020-11-26    Agora
+Concentration  ATMunn     2020-11-26
 Protection     Agora      [Never]       Agora
 
 History:
+2021-01-13 20:53:54  ATMunn transfers Concentration Stone from Agora after auction resolution.
 2021-01-02 02:58:24  Protection Stone is transferred from Murphy to Agora per collection notice.
 2021-01-02 02:58:24  Sabotage Stone is transferred from Murphy to Agora per collection notice.
 2021-01-02 02:58:24  Wealth Stone is transferred from ATMunn to Agora per collection notice.
