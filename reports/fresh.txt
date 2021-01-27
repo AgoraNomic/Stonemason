@@ -1,13 +1,13 @@
 THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
-Stone          Owner      Last Wielded  Immune?
--------------  ---------  ------------  -------
-Power          Murphy     [Never]
-Wealth         Agora      2020-12-10    Agora
-Soul           Falsifian  [Never]
-Sabotage       Agora      [Never]       Agora
-Concentration  ATMunn     2020-11-26
-Protection     Falsifian  [Never]
+Stone          Owner       Last Wielded  Immune?
+-------------  ---------   ------------  -------
+Power          Murphy      [Never]
+Wealth         Agora       2020-12-10    Agora
+Soul           Falsifian   [Never]
+Sabotage       Agora       [Never]       Agora
+Concentration  ATMunn      2020-11-26
+Protection     Falsifian   [Never]
 
 History:
 2021-01-17 00:15:02  Falsifian transfers Protection Stone from Agora after auction resolution.
