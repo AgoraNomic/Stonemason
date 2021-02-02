@@ -4,13 +4,15 @@ Stone          Owner       Last Wielded  Immune?
 -------------  ---------   ------------  -------
 Power          Murphy      [Never]
 Wealth         Agora       2020-12-10    Agora
-Soul           Cuddlebeam  2021-01-20
+Soul           Falsifian   2021-02-02
 Sabotage       Agora       [Never]       Agora
-Concentration  Falsifian   2021-01-18
+Concentration  Cuddlebeam  2021-01-18
 Protection     Falsifian   2021-01-31
 
 History:
 =======
+2021-02-02 20:20:34  Cuddlebeam transfers Soul Stone from self to Falsifian with Soul Stone.
+2021-02-02 20:20:34  Cuddlebeam transfers Concentration Stone from Falsifian to self with Soul Stone.
 2021-02-02 19:59:25  Protection Stone ceases being immune after Collection Notice.
 2021-01-31 20:59:37  Falsifian wields Protection Stone, specifying Protection Stone.
 2021-01-20 02:08:27  Falsifian transfers Soul Stone from self to Cuddlebeam with Soul Stone.
