@@ -7,10 +7,11 @@ Wealth         Agora       2020-12-10    Agora
 Soul           Cuddlebeam  2021-01-20
 Sabotage       Agora       [Never]       Agora
 Concentration  Falsifian   2021-01-18
-Protection     Falsifian   [Never]
+Protection     Falsifian   2021-01-31    Protection
 
 History:
 =======
+2021-01-31 20:59:37  Falsifian wields Protection Stone, specifying Protection Stone.
 2021-01-20 02:08:27  Falsifian transfers Soul Stone from self to Cuddlebeam with Soul Stone.
 2021-01-20 02:08:27  Falsifian transfers Concentration Stone from Cuddlebeam to self with Soul Stone.
 2021-01-18 21:42:15  Cuddlebeam wields Concentration Stone, specifying Gaelan.
