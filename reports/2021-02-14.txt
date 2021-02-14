@@ -1,0 +1,56 @@
+THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
+
+Stone          Owner       Last Wielded  Immune?
+-------------  ---------   ------------  -------
+Power          Murphy      [Never]
+Wealth         Agora       2020-12-10    Agora
+Soul           Falsifian   2021-02-02
+Sabotage       Agora       [Never]       Agora
+Concentration  Cuddlebeam  2021-01-18
+Protection     Falsifian   2021-01-31
+
+History:
+=======
+2021-02-02 20:20:34  Cuddlebeam transfers Soul Stone from self to Falsifian with Soul Stone.
+2021-02-02 20:20:34  Cuddlebeam transfers Concentration Stone from Falsifian to self with Soul Stone.
+2021-02-02 19:59:25  Protection Stone ceases being immune after Collection Notice.
+2021-01-31 20:59:37  Falsifian wields Protection Stone, specifying Protection Stone.
+2021-01-20 02:08:27  Falsifian transfers Soul Stone from self to Cuddlebeam with Soul Stone.
+2021-01-20 02:08:27  Falsifian transfers Concentration Stone from Cuddlebeam to self with Soul Stone.
+2021-01-18 21:42:15  Cuddlebeam wields Concentration Stone, specifying Gaelan.
+2021-01-18 21:04:55  ATMunn transfers Concentration Stone to Cuddlebeam.
+2021-01-17 00:15:02  Falsifian transfers Protection Stone from Agora after auction resolution.
+2021-01-17 00:15:02  Falsifian transfers Soul Stone from Agora after auction resolution.
+2021-01-13 20:53:54  ATMunn transfers Concentration Stone from Agora after auction resolution.
+2021-01-02 02:58:24  Protection Stone is transferred from Murphy to Agora per collection notice.
+2021-01-02 02:58:24  Sabotage Stone is transferred from Murphy to Agora per collection notice.
+2021-01-02 02:58:24  Wealth Stone is transferred from ATMunn to Agora per collection notice.
+2020-12-13 23:15:35  Murphy transfers Sabotage Stone from Agora after auction resolution.
+2020-12-13 23:15:35  Murphy transfers Protection Stone from Agora after auction resolution.
+2020-12-10 01:35:17  ATMunn wields Wealth Stone, specifying self.
+2020-12-10 01:30:18  ATMunn transfers Wealth Stone from Agora after auction resolution.
+2020-12-01 20:32:23  Concentration stone is transferred from Falsifian to Agora per collection notice.
+2020-11-27 18:16:18  Murphy transfers Power Stone from Agora from Agora after auction resolution.
+2020-11-26 16:06:57  Falsifian wields Concentration Stone, specifying self.
+2020-11-26 03:33:46  Falsifian transfers Concentration stone from Agora after auction resolution.
+
+Summary of stone functions:
+
+Power          a specified player's strength is increased by 3 on a
+               specified Agoran decision. Escape risk: 40%.
+
+Wealth         a specified player earns 5 boatloads of coins. Escape
+               risk: 50%.
+
+Soul           a specified non-immune stone is stolen by the
+               wielder, then the Soul Stone is transferred to the
+               robbed player. Escape risk: 50%.
+
+Sabotage       the AI of a specified AI-majority decision is
+               increased by 1. Escape risk: 80%.
+
+Concentration  a specified player earns an extra Grant for eir
+               Focus. Escape risk: 60%.
+
+Protection     a specified stone becomes immune (until the next
+               Collection Notice). Escape risk: 70%.
