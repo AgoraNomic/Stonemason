@@ -1,0 +1,20 @@
+The February Stone auction has ended. It began at 21:22:16 on 2021-02-08 and
+ended at 21:58:01 on 2021-02-12, four days after the final bid by Gaelan.
+
+There were two lots: [Wealth Stone], [Sabotage Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+[Wealth Stone]   -> Gaelan for 176 coins.
+[Sabotage Stone] -> ATMunn for 100 coins.
+
+Bid history:
+
+Date                 Player       Preferred Lot  Amount (coins)
+-------------------  -----------  -------------  --------------
+2021-02-08 21:25:52  ATMunn       Wealth          50
+2021-02-08 21:25:52  ATMunn       Sabotage        50
+2021-02-08 21:29:48  Jason        Wealth          55
+2021-02-08 21:34:36  CuddleBeam   Wealth         160
+2021-02-08 21:37:26  CuddleBeam   Sabotage        51
+2021-02-08 21:39:42  ATMunn       Sabotage       100
+2021-02-08 21:58:01  Gaelan       Wealth         176
