@@ -5,12 +5,13 @@ Stone          Owner       Last Wielded  Immune?
 Power          Murphy      [Never]
 Wealth         Gaelan      2021-02-15
 Soul           Cuddlebeam  2021-02-14
-Sabotage       Agora       [Never]       Agora
+Sabotage       ATMunn      [Never]
 Concentration  Jason       2021-02-14    Protection
 Protection     Falsifian   2021-02-14
 
 History:
 =======
+2021-02-21 23:07:15  ATMunn transfers Sabotage Stone from Agora after auction resolution.
 2021-02-15 02:54:17  Gaelan wields Wealth Stone, specifying self.
 2021-02-14 22:22:47  Gaelan wields Wealth Stone, specifying self.
 2021-02-14 22:22:47  Gaelan transfers Wealth Stone from Agora after auction resolution.
