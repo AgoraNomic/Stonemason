@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone          Owner       Last Wielded  Immune?
 -------------  ---------   ------------  -------
 Power          Murphy      [Never]
-Wealth         Agora       2020-12-10    Agora
+Wealth         Gaelan      2021-02-15
 Soul           Cuddlebeam  2021-02-14
 Sabotage       Agora       [Never]       Agora
 Concentration  Jason       2021-02-14    Protection
@@ -11,6 +11,9 @@ Protection     Falsifian   2021-02-14
 
 History:
 =======
+2021-02-15 02:54:17  Gaelan wields Wealth Stone, specifying self.
+2021-02-14 22:22:47  Gaelan wields Wealth Stone, specifying self.
+2021-02-14 22:22:47  Gaelan transfers Wealth Stone from Agora after auction resolution.
 2021-02-14 17:14:09  Jason wields Concentration Stone, specifying self.
 2021-02-14 17:14:09  Falsifian transfers Concentration Stone to Jason.
 2021-02-14 17:10:39  Falsifian wields Protection Stone, specifying Concentration Stone.
