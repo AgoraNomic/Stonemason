@@ -1,0 +1,14 @@
+I hereby publish the following collection notice:
+
+All choices are made using AgoraBot in a public channel on the unofficial Discord. I affirm under penalty of No Faking that, to the best of my knowledge, the choices listed below had the probabilities listed below.
+
+Stones that escape do so in the order they are listed below.
+
+Stone          Owner        Escape Risk  Escapes?
+-----          -----        -----------  --------
+Power          Murphy       40%          Escapes
+Wealth         Gaelan       50%          Escapes
+Soul           Cuddlebeam   50%
+Sabotage       ATMunn       80%          Escapes
+Concentration  Jason        60%          [Immune: Protection Stone]
+Protection     Falsifian    70%          Escapes
