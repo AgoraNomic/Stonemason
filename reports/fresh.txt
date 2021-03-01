@@ -6,11 +6,12 @@ Power          Agora       [Never]       Agora
 Wealth         Agora       2021-02-23    Agora
 Soul           Cuddlebeam  2021-02-14
 Sabotage       Agora       [Never]       Agora
-Concentration  Jason       2021-02-14
+Concentration  Jason       2021-03-01
 Protection     Agora       2021-02-14    Agora
 
 History:
 =======
+2021-03-01 16:23:14  Jason wields Concentration Stone, specifying self.
 2021-03-01 15:30:27  Concentration Stone ceases being immune after collection notice.
 2021-03-01 15:30:27  Protection Stone is transferred from Falsifian to Agora per collection notice.
 2021-03-01 15:30:27  Sabotage Stone is transferred from ATMunn to Agora per collection notice.
