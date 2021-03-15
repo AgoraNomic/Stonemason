@@ -1,0 +1,47 @@
+The March Stone auction has ended. It began at 01:39:35 on 2021-03-02 and
+ended at 23:30 on 2021-03-13, four days after the final bid by Jason.
+
+There were four lots: [Power Stone], [Wealth Stone], [Sabotage Stone],
+[Protection Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+
+[Power Stone]      -> Jason  for 105 coins.
+[Wealth Stone]     -> Gaelan for 111 coins.
+[Sabotage Stone]   -> G.     for  71 coins.
+[Protection Stone] -> Gaelan for 111 coins.
+
+Bid history:
+
+Date                 Player       Preferred Lot  Amount (coins)
+-------------------  -----------  -------------  --------------
+2021-03-02 01:40:56  Jason        Power           20
+2021-03-02 01:40:56  Jason        Wealth          20
+2021-03-02 01:40:56  Jason        Sabotage        20
+2021-03-02 01:40:56  Jason        Protection      20
+2021-03-02 01:56:22  Gaelan       Wealth          22
+2021-03-02 01:56:22  Gaelan       Protection      22
+2021-03-02 02:22:03  G.           Power           43
+2021-03-02 02:22:03  G.           Wealth          43
+2021-03-02 02:22:03  G.           Sabotage        43
+2021-03-02 02:22:03  G.           Protection      43
+2021-03-02 02:53:12  Jason        Power           45
+2021-03-02 02:53:12  Jason        Wealth          45
+2021-03-02 02:53:12  Jason        Sabotage        45
+2021-03-02 02:53:12  Jason        Protection      45
+2021-03-02 18:19:28  ATMunn       Wealth          90
+2021-03-02 18:37:44  ATMunn       Protection      90
+2021-03-02 18:56:40  G.           Power           73
+2021-03-02 19:07:59  Jason        Wealth          91
+2021-03-02 19:07:59  Jason        Protection      91
+2021-03-02 19:07:59  Jason        Power           75
+2021-03-02 19:20:31  ATMunn       Wealth         101
+2021-03-02 19:20:31  ATMunn       Protection     101
+2021-03-03 19:17:30  G.           Sabotage        71
+2021-03-04 03:11:36  Gaelan       Wealth         111
+2021-03-04 03:11:36  Gaelan       Protection     111
+2021-03-07 04:03:27  Jason        Power           75
+2021-03-07 18:54:23  G.           Power           83
+2021-03-08 05:02:07  Jason        Power           90
+2021-03-09 23:17:18  nix          Power          100
+2021-03-09 23:30:??  Jason        Power          105
