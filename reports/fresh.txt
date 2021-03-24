@@ -5,12 +5,13 @@ Stone          Owner       Last Wielded  Immune?
 Power          Agora       [Never]       Agora
 Wealth         Gaelan      2021-03-15    Protection
 Soul           Cuddlebeam  2021-02-14
-Sabotage       Agora       [Never]       Agora
+Sabotage       G.          [Never]
 Concentration  Jason       2021-03-01
 Protection     Gaelan      2021-03-15
 
 History:
 =======
+2021-03-15 20:15:07  G. transfers Sabotage Stone from Agora after auction resolution.
 2021-03-15 19:38:21  Gaelan wields Protection Stone, specifying Wealth Stone.
 2021-03-15 19:38:21  Gaelan wields Wealth Stone, specifying self.
 2021-03-15 19:38:21  Gaelan transfers Protection Stone from Agora after auction resolution.
