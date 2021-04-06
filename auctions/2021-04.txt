@@ -1,0 +1,24 @@
+The April Stone auction has ended. It began at 15:51:19 on 2021-04-01 and
+ended at 17:39:50 on 2021-04-05, four days after the final bid by G.
+
+There were three lots: [Soul Stone], [Sabotage Stone], [Concentration Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+
+[Soul Stone]          -> G. for 100000 coins
+[Sabotage Stone]      -> G. for 100000 coins
+[Concentration Stone] -> G. for 100000 coins
+
+Bid history:
+
+Date                 Player        Preferred Lot  Amount (coins)
+-------------------  -----------   -------------  --------------
+2021-04-01 15:52:50  Jason         Soul               10
+2021-04-01 15:52:50  Jason         Sabotage           10
+2021-04-01 15:52:50  Jason         Concentration      10
+2021-04-01 16:22:19  cuddlybanana  Soul               20
+2021-04-01 16:22:19  cuddlybanana  Sabotage           20
+2021-04-01 16:22:19  cuddlybanana  Concentration      20
+2021-04-01 17:39:50  G.            Soul           100000
+2021-04-01 17:39:50  G.            Sabotage       100000
+2021-04-01 17:39:50  G.            Concentration  100000
