@@ -9,6 +9,27 @@ Sabotage       Agora       2021-03-25    Agora
 Concentration  Agora       2021-03-01    Agora
 Protection     Gaelan      2021-04-04
 
+Summary of stone functions:
+
+Power          a specified player's strength is increased by 3 on a
+               specified Agoran decision. Escape risk: 40%.
+
+Wealth         a specified player earns 5 boatloads of coins. Escape
+               risk: 50%.
+
+Soul           a specified non-immune stone is stolen by the
+               wielder, then the Soul Stone is transferred to the
+               robbed player. Escape risk: 50%.
+
+Sabotage       the AI of a specified AI-majority decision is
+               increased by 1. Escape risk: 80%.
+
+Concentration  a specified player earns an extra Grant for eir
+               Focus. Escape risk: 60%.
+
+Protection     a specified stone becomes immune (until the next
+               Collection Notice). Escape risk: 70%.
+
 History:
 =======
 2021-04-04 01:37:08  Gaelan wields Protection Stone, specifying Wealth Stone.
@@ -64,24 +85,3 @@ History:
 2020-11-27 18:16:18  Murphy transfers Power Stone from Agora from Agora after auction resolution.
 2020-11-26 16:06:57  Falsifian wields Concentration Stone, specifying self.
 2020-11-26 03:33:46  Falsifian transfers Concentration stone from Agora after auction resolution.
-
-Summary of stone functions:
-
-Power          a specified player's strength is increased by 3 on a
-               specified Agoran decision. Escape risk: 40%.
-
-Wealth         a specified player earns 5 boatloads of coins. Escape
-               risk: 50%.
-
-Soul           a specified non-immune stone is stolen by the
-               wielder, then the Soul Stone is transferred to the
-               robbed player. Escape risk: 50%.
-
-Sabotage       the AI of a specified AI-majority decision is
-               increased by 1. Escape risk: 80%.
-
-Concentration  a specified player earns an extra Grant for eir
-               Focus. Escape risk: 60%.
-
-Protection     a specified stone becomes immune (until the next
-               Collection Notice). Escape risk: 70%.
