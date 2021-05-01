@@ -7,7 +7,7 @@ Wealth         Gaelan      2021-05-01
 Soul           Agora       2021-02-14    Agora
 Sabotage       Agora       2021-03-25    Agora
 Concentration  Agora       2021-03-01    Agora
-Protection     Agora       2021-04-04
+Protection     Agora       2021-04-04    Agora
 
 Summary of stone functions:
 
