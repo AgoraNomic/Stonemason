@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone          Owner       Last Wielded  Immune?
 -------------  ---------   ------------  -------
 Power          Jason       2021-04-01
-Wealth         Gaelan      2021-05-09
+Wealth         Gaelan      2021-05-17
 Soul           Agora       2021-02-14    Agora
 Sabotage       Agora       2021-03-25    Agora
 Concentration  Agora       2021-03-01    Agora
@@ -32,6 +32,7 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
+2021-05-17 16:15:52  Gaelan wields Wealth Stone, specifying self.
 2021-05-09 20:42:11  Gaelan wields Wealth Stone, specifying self.
 2021-05-01 10:05:32  Wealth Stone ceases being immune after collection notice.
 2021-05-01 10:05:32  Protection Stone is transferred from Gaelan to Agora per collection notice.
