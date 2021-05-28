@@ -2,12 +2,12 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone          Owner       Last Wielded  Immune?
 -------------  ---------   ------------  -------
-Power          Jason       2021-05-27
+Power          Falsifian   2021-05-27
 Wealth         Gaelan      2021-05-17
-Soul           Agora       2021-02-14    Agora
-Sabotage       Agora       2021-03-25    Agora
-Concentration  Agora       2021-03-01    Agora
-Protection     Agora       2021-04-04    Agora
+Soul           Jason       2021-02-14
+Sabotage       Jason       2021-03-25
+Concentration  Falsifian   2021-03-01
+Protection     Jason       2021-04-04
 
 Summary of stone functions:
 
@@ -32,6 +32,13 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
+2021-05-28 01:25:16  Jason transfers Concentration Stone to Falsifian.
+2021-05-28 01:25:16  Jason wields Concentration Stone, specifying self.
+2021-05-28 01:25:16  Jason transfers Power Stone to Falsifian.
+2021-05-28 01:25:16  Protection Stone is transferred to Jason from Agora in auction resolution.
+2021-05-28 01:25:16  Concentration Stone is transferred to Jason from Agora in auction resolution.
+2021-05-28 01:25:16  Sabotage Stone is transferred to Jason from Agora in auction resolution.
+2021-05-28 01:25:16  Soul Stone is transferred to Jason from Agora in auction resolution.
 2021-05-27 17:10:31  Jason wields Power Stone, specifying self.
 2021-05-23 15:26:30  Jason wields Power Stone, specifying self.
 2021-05-17 16:15:52  Gaelan wields Wealth Stone, specifying self.
