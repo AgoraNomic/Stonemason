@@ -1,0 +1,121 @@
+The April Stone auction has ended. It began at 16:10:27 on 2021-05-06 and
+the retrieval period started at 01:36:40 on 2021-05-24, four days after
+the final bid by Jason.
+
+There were four lots: [Soul Stone], [Sabotage Stone], [Concentration Stone],
+[Protection Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+
+[Soul Stone]          -> Jason for 1320 coins
+[Sabotage Stone]      -> Jason for  425 coins
+[Concentration Stone] -> Jason for  425 coins
+[Protection Stone]    -> Jason for  670 coins
+
+I destroy 1320 of Jason's coins and cause the Soul Stone to be transferred to em.
+I destroy 425 of Jason's coins and cause the Sabotage Stone to be transferred to em.
+I destroy 425 of Jason's coins and cause the Concentration Stone to be transferred to em.
+I destroy 670 of Jason's coins and cause the Protection Stone to be transferred to em.
+
+Bid history:
+
+Date                 Player            Preferred Lot  Amount (coins)
+-------------------  ----------------  -------------  --------------
+2021-05-06 16:11:37  Jason             Soul                       20
+2021-05-06 16:11:37  Jason             Sabotage                   20
+2021-05-06 16:11:37  Jason             Concentration              20
+2021-05-06 16:11:37  Jason             Protection                 20
+2021-05-09 20:49:53  seventeenMachine  Soul                       25
+2021-05-09 20:49:53  seventeenMachine  Sabotage                   25
+2021-05-09 20:49:53  seventeenMachine  Concentration              25
+2021-05-09 20:49:53  seventeenMachine  Protection                 25
+2021-05-09 20:54:34  Jason             Soul                       40
+2021-05-09 20:54:34  Jason             Sabotage                   40
+2021-05-09 20:54:34  Jason             Concentration              40
+2021-05-09 20:54:34  Jason             Protection                 40
+2021-05-10 02:14:37  seventeenMachine  Soul                       50
+2021-05-10 02:14:37  seventeenMachine  Protection                 50
+2021-05-10 03:01:46  Jason             Soul                       60
+2021-05-10 03:01:46  Jason             Protection                 60
+2021-05-10 17:32:10  seventeenMachine  Soul                       75
+2021-05-10 17:32:10  seventeenMachine  Protection                 75
+2021-05-10 17:55:44  Jason             Soul                       80
+2021-05-10 17:55:44  Jason             Protection                 80
+2021-05-10 22:32:02  Jason             Concentration              70
+2021-05-11 00:28:07  G.                Soul                       83
+2021-05-11 00:28:07  G.                Sabotage                   83
+2021-05-11 00:28:07  G.                Concentration              83
+2021-05-11 00:28:07  G.                Protection                 83
+2021-05-11 00:29:39  Jason             Soul                       85
+2021-05-11 00:29:39  Jason             Sabotage                   85
+2021-05-11 00:29:39  Jason             Concentration              85
+2021-05-11 00:29:39  Jason             Protection                 85
+2021-05-11 01:09:14  G.                Soul                      127
+2021-05-11 01:09:14  G.                Sabotage                  127
+2021-05-11 01:09:14  G.                Concentration             127
+2021-05-11 01:09:14  G.                Protection                127
+2021-05-11 01:19:13  Jason             Soul                      130
+2021-05-11 01:19:13  Jason             Sabotage                  130
+2021-05-11 01:19:13  Jason             Concentration             130
+2021-05-11 01:19:13  Jason             Protection                130
+2021-05-11 01:32:06  ATMunn            Soul                      131
+2021-05-11 01:32:06  ATMunn            Sabotage                  131
+2021-05-11 01:32:06  ATMunn            Concentration             131
+2021-05-11 01:32:06  ATMunn            Protection                131
+2021-05-11 02:33:37  Jason             Soul                      135
+2021-05-11 02:33:37  Jason             Sabotage                  135
+2021-05-11 02:33:37  Jason             Concentration             135
+2021-05-11 02:33:37  Jason             Protection                135
+2021-05-11 05:58:35  G.                Soul                      227
+2021-05-11 05:58:35  G.                Sabotage                  227
+2021-05-11 05:58:35  G.                Concentration             227
+2021-05-11 05:58:35  G.                Protection                227
+2021-05-11 12:51:11  Jason             Soul                      230
+2021-05-11 12:51:11  Jason             Sabotage                  230
+2021-05-11 12:51:11  Jason             Concentration             230
+2021-05-11 12:51:11  Jason             Protection                230
+2021-05-12 06:40:31  G.                Soul                      331
+2021-05-12 06:40:31  G.                Sabotage                  331
+2021-05-12 06:40:31  G.                Concentration             331
+2021-05-12 06:40:31  G.                Protection                331
+2021-05-12 07:24:02  Trigon            Concentration             350
+2021-05-12 14:32:37  Jason             Concentration             335
+2021-05-12 14:32:37  Jason             Soul                      355
+2021-05-12 14:32:37  Jason             Sabotage                  355
+2021-05-12 14:32:37  Jason             Protection                355
+2021-05-12 15:53:45  G.                Soul                      409
+2021-05-12 15:53:45  G.                Sabotage                  409
+2021-05-12 15:53:45  G.                Concentration             409
+2021-05-12 15:53:45  G.                Protection                409
+2021-05-12 15:58:46  Jason             Soul                      419
+2021-05-12 15:58:46  Jason             Sabotage                  419
+2021-05-12 15:58:46  Jason             Concentration             419
+2021-05-12 15:58:46  Jason             Protection                419
+2021-05-12 19:33:44  ATMunn            Soul                      421
+2021-05-12 19:33:44  ATMunn            Sabotage                  421
+2021-05-12 19:33:44  ATMunn            Concentration             421
+2021-05-12 19:33:44  ATMunn            Protection                421
+2021-05-12 19:40:02  Jason             Soul                      425
+2021-05-12 19:40:02  Jason             Sabotage                  425
+2021-05-12 19:40:02  Jason             Concentration             425
+2021-05-12 19:40:02  Jason             Protection                425
+2021-05-13 12:36:32  G.                Soul                      501
+2021-05-13 12:36:32  G.                Protection                501
+2021-05-13 13:43:36  Jason             Soul                      520
+2021-05-13 13:43:36  Jason             Protection                520
+2021-05-14 13:45:19  Falsifian         Soul                      600
+2021-05-14 13:51:39  Jason             Soul                      620
+2021-05-14 13:54:49  Falsifian         Protection                600
+2021-05-14 13:55:47  Jason             Protection                620
+2021-05-14 14:03:02  Falsifian         Soul                      850
+2021-05-14 14:05:31  Jason             Soul                      870
+2021-05-14 14:14:11  Falsifan          Soul                     1316
+2021-05-14 14:16:50  Jason             Soul                     1320
+2021-05-14 17:48:28  G.                Protection                631
+2021-05-14 18:01:42  Jason             Protection                650
+2021-05-16 13:34:41  Falsifan          Protection                651
+2021-05-16 14:07:53  Jason             Protection                660
+2021-05-17 12:13:38  Falsifian         Protection                661
+2021-05-17 13:43:30  Jason             Protection                665
+2021-05-20 01:33:47  Falsifian         Protection                666
+2021-05-20 01:36:40  Jason             Protection                670
