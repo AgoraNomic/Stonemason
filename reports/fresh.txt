@@ -2,12 +2,12 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone          Owner       Last Wielded  Immune?
 -------------  ---------   ------------  -------
-Power          Falsifian   2021-05-27
-Wealth         Gaelan      2021-05-17
-Soul           Falsifian   2021-02-14
-Sabotage       Falsifian   2021-03-25
-Concentration  Falsifian   2021-05-28
-Protection     Falsifian   2021-04-04
+Power          Agora       2021-05-27    Agora
+Wealth         Agora       2021-05-17    Agora
+Soul           Agora       2021-02-14    Agora
+Sabotage       Agora       2021-03-25    Agora
+Concentration  Agora       2021-05-28    Agora
+Protection     Agora       2021-04-04    Agora
 
 Summary of stone functions:
 
@@ -32,6 +32,7 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
+2021-05-30 15:25:14  Falsifian wields the Gauntlet. All stones are transferred to Agora.
 2021-05-29 00:14:31  Jason transfers Protection Stone to Falsifian.
 2021-05-29 00:14:31  Jason transfers Sabotage Stone to Falsifian.
 2021-05-29 00:14:31  Jason transfers Soul Stone to Falsifian.
