@@ -4,10 +4,10 @@ Stone          Owner       Last Wielded  Immune?
 -------------  ---------   ------------  -------
 Power          Falsifian   2021-05-27
 Wealth         Gaelan      2021-05-17
-Soul           Jason       2021-02-14
-Sabotage       Jason       2021-03-25
+Soul           Falsifian   2021-02-14
+Sabotage       Falsifian   2021-03-25
 Concentration  Falsifian   2021-05-28
-Protection     Jason       2021-04-04
+Protection     Falsifian   2021-04-04
 
 Summary of stone functions:
 
@@ -32,6 +32,9 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
+2021-05-29 00:14:31  Jason transfers Protection Stone to Falsifian.
+2021-05-29 00:14:31  Jason transfers Sabotage Stone to Falsifian.
+2021-05-29 00:14:31  Jason transfers Soul Stone to Falsifian.
 2021-05-28 01:25:16  Jason transfers Concentration Stone to Falsifian.
 2021-05-28 01:25:16  Jason wields Concentration Stone, specifying self.
 2021-05-28 01:25:16  Jason transfers Power Stone to Falsifian.
