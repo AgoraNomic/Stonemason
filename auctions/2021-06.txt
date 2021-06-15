@@ -1,0 +1,42 @@
+The June Stone auction has ended. It began at 03:40:41 on 2021-06-04 and
+the retrieval period started at 13:39:12 on 2021-06-08, four days after
+the final bid by G.
+
+There were four lots: [Power Stone], [Wealth Stone], [Concentration Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+
+[Power Stone]         -> G.    for 120 coins
+[Wealth Stone]        -> G.    for 350 coins
+[Concentration Stone] -> Jason for 160 coins
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 120 of G.'s coins and cause the Power Stone to be transferred to em.
+}
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 350 of G.'s coins and cause the Wealth Stone to be transferred to em.
+}
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 160 of Jason's coins and cause the Power Stone to be transferred to em.
+}
+
+Bid history:
+
+Date                 Player            Preferred Lot  Amount (coins)
+-------------------  ----------------  -------------  --------------
+2021-06-04 07:07:16  R. Lee            Wealth                    300
+2021-06-04 16:30:07  Jason             Power                      10
+2021-06-04 16:30:07  Jason             Concentration              10
+2021-06-04 16:57:33  G.                Power                     100
+2021-06-04 16:57:33  G.                Concentration             100
+2021-06-04 16:57:33  G.                Wealth                    350
+2021-06-04 16:59:08  Jason             Power                     110
+2021-06-04 16:59:08  Jason             Concentration             110
+2021-06-06 19:27:18  Trigon            Concentration             150
+2021-06-06 19:28:57  Jason             Concentration             160
+2021-06-08 13:39:12  G.                Power                     120
