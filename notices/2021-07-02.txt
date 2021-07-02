@@ -1,0 +1,14 @@
+I hereby publish the following collection notice:
+
+All choices are made using AgoraBot in a public channel on the unofficial Discord. I affirm under penalty of No Faking that, to the best of my knowledge, the choices listed below had the probabilities listed below.
+
+Stones that escape do so in the order they are listed below.
+
+Stone          Owner        Escape Risk  Escapes?
+-----          -----        -----------  --------
+Power          G.           40%
+Wealth         G.           50%
+Soul           Agora        50%          [Immune: Agora]
+Sabotage       Agora        80%          [Immune: Agora]
+Concentration  Jason        60%          Escapes
+Protection     Agora        70%          [Immune: Agora]
