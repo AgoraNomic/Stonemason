@@ -32,6 +32,7 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
+2021-06-28 15:45:19  G. wields Wealth Stone, specifying self.
 2021-06-21 02:03:01  G. wields Wealth Stone, specifying self.
 2021-06-21 02:03:01  G. wields Power Stone, specifying self.
 2021-06-17 13:32:19  Jason wields Concentration Stone, specifying self.
