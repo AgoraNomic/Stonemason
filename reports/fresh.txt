@@ -6,7 +6,7 @@ Power          G.          2021-06-21
 Wealth         G.          2021-06-21
 Soul           Agora       2021-02-14    Agora
 Sabotage       Agora       2021-03-25    Agora
-Concentration  Jason       2021-06-17
+Concentration  Agora       2021-06-17    Agora
 Protection     Agora       2021-04-04    Agora
 
 Summary of stone functions:
@@ -32,6 +32,7 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
+2021-07-02 19:14:16  Concentration Stone is transferred from Jason to Agora per collection notice.
 2021-06-28 15:45:19  G. wields Wealth Stone, specifying self.
 2021-06-21 02:03:01  G. wields Wealth Stone, specifying self.
 2021-06-21 02:03:01  G. wields Power Stone, specifying self.
