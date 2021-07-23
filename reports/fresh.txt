@@ -6,8 +6,8 @@ Power          G.          2021-06-21
 Wealth         G.          2021-07-21
 Soul           Agora       2021-02-14    Agora
 Sabotage       Jason       2021-03-25
-Concentration  R. Lee      2021-06-17
-Protection     Trigon      2021-04-04
+Concentration  R. Lee      2021-06-17    Protection
+Protection     Trigon      2021-07-21
 
 Summary of stone functions:
 
@@ -32,6 +32,7 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
+2021-07-21 22:53:35  Trigon wields Protection Stone, specifying Concentration Stone.
 2021-07-21 00:19:14  G. wields Wealth Stone, specifying self.
 2021-07-20 21:54:17  Protection Stone is transferred to Trigon from Agora in auction resolution.
 2021-07-20 21:54:17  Concentration Stone is transferred to R. Lee from Agora in auction resolution.
