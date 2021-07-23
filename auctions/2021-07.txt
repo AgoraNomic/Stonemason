@@ -1,0 +1,55 @@
+The July Stone auction has ended. It began at 16:07:51 on 2021-07-06 and
+the retrieval period started at 02:06:51 on 2021-07-15, four days after
+the final bid by R. Lee.
+
+There were three lots: [Sabotage Stone], [Concentration Stone], [Protection Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+
+[Sabotage Stone]      -> Jason  for 130 coins
+[Concentration Stone] -> R. Lee for 620 coins
+[Protection Stone]    -> Trigon for 200 coins
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 130 of Jason's coins and cause the Sabotage Stone to be transferred to em.
+}
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 620 of R. Lee's coins and cause the Concentration Stone to be transferred to em.
+}
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 200 of Trigon's coins and cause the Protection Stone to be transferred to em.
+}
+
+Bid history:
+
+Date                 Player            Preferred Lot  Amount (coins)
+-------------------  ----------------  -------------  --------------
+2021-07-06 16:10:13  Jason             Sabotage                   10
+2021-07-06 16:10:13  Jason             Concentration              10
+2021-07-06 16:10:13  Jason             Protection                 10
+2021-07-06 23:57:47  R. Lee            Concentration             300
+2021-07-07 00:46:37  Jason             Concentration             301
+2021-07-07 01:26:37  Trigon            Concentration             400
+2021-07-07 01:26:37  Trigon            Sabotage                   20
+2021-07-07 01:26:37  Trigon            Protection                 20
+2021-07-07 01:38:33  R. Lee            Concentration             400
+2021-07-07 02:37:36  Jason             Sabotage                   30
+2021-07-07 02:37:36  Jason             Protection                 30
+2021-07-07 02:48:10  G.                Protection                 75
+2021-07-07 02:59:54  Jason             Protection                 90
+2021-07-08 01:12:14  Falsifian         Sabotage                   50
+2021-07-08 14:39:55  G.                Protection                103
+2021-07-08 15:24:19  Jason             Protection                105
+2021-07-08 15:24:19  Jason             Sabotage                   60
+2021-07-09 21:42:28  G.                Protection                110
+2021-07-11 01:35:21  Jason             Protection                130
+2021-07-12 01:39:53  Trigon            Protection                200
+2021-07-12 01:39:53  Trigon            Concentration             500
+2021-07-12 01:53:55  R. Lee            Concentration             550
+2021-07-12 02:00:55  Trigon            Concentration             600
+2021-07-12 02:06:51  R. Lee            Concentration             620
