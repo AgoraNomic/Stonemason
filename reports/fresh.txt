@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone          Owner       Last Wielded  Immune?
 -------------  ---------   ------------  -------
 Power          Agora       2021-06-21    Agora
-Wealth         G.          2021-07-30
+Wealth         G.          2021-08-02
 Soul           Agora       2021-02-14    Agora
 Sabotage       Jason       2021-03-25
 Concentration  R. Lee      2021-08-01
@@ -32,6 +32,7 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
+2021-08-02 19:49:03  G. wields Wealth Stone, specifying self.
 2021-08-01 04:36:13  R. Lee wields Concentration Stone, specifying self.
 2021-08-01 01:05:34  Concentration Stone ceases being immune after collection notice.
 2021-08-01 01:05:34  Power Stone is transfered from G. to Agora per collection notice.
