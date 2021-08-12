@@ -1,0 +1,41 @@
+The August Stone auction has ended. It began at 20:13:12 on 2021-08-02 and
+the retrieval period started at 00:15:43 on 2021-08-10, four days after
+the final bid by Jason.
+
+There were two lots: [Power Stone], [Soul Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+
+[Power Stone] -> R. Lee for 800 coins
+[Soul Stone]  -> R. Lee for 800 coins
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 800 of R. Lee's coins and cause the Power Stone to be transferred to em.
+}
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 800 of R. Lee's coins and cause the Soul Stone to be transferred to em.
+}
+
+Bid history:
+
+Date                 Player            Preferred Lot  Amount (coins)
+-------------------  ----------------  -------------  --------------
+2021-08-02 20:14:17  Jason             Power            1
+2021-08-02 20:14:17  Jason             Soul             1
+2021-08-02 20:17:09  G.                Power          100
+2021-08-02 20:17:09  G.                Soul           300
+2021-08-02 20:20:42  Jason             Power          150
+2021-08-02 20:20:42  Jason             Soul           325
+2021-08-02 20:21:56  G.                Soul           401
+2021-08-02 20:58:48  R. Lee            Power          500
+2021-08-02 20:58:48  R. Lee            Soul           500
+2021-08-02 20:59:08  Jason             Soul           410
+2021-08-02 21:02:02  Jason             Power          510
+2021-08-02 21:02:02  Jason             Soul           510
+2021-08-02 21:24:32  ATMunn            Soul           600
+2021-08-02 23:33:59  R. Lee            Power          800
+2021-08-02 23:33:59  R. Lee            Soul           800
+2021-08-06 00:15:43  Jason             Soul           620
