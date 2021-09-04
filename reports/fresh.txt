@@ -32,7 +32,8 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
-2021-08-13 02:30:29  R. Lee Notices the Gauntlet, specifying R. Lee. All stones are transfered to Agora.
+2021-08-17 02:30:29  All stones are transfered to Agora after Gauntlet Noticing.
+2021-08-13 02:30:29  R. Lee Notices the Gauntlet, specifying R. Lee.
 2021-08-13 02:26:45  Jason transfers Sabotage Stone to R. Lee.
 2021-08-13 01:52:34  G. transfers Wealth Stone to R. Lee.
 2021-08-13 01:53:34  G. wields Wealth Stone, specifying self.
