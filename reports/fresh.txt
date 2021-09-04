@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone          Owner       Last Wielded  Immune?
 -------------  ---------   ------------  -------
 Power          R. Lee      2021-06-21
-Wealth         G.          2021-08-02
+Wealth         R. Lee      2021-08-13
 Soul           R. Lee      2021-02-14
 Sabotage       Jason       2021-03-25
 Concentration  R. Lee      2021-08-01
@@ -32,6 +32,8 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
+2021-08-13 01:52:34  G. transfers Wealth Stone to R. Lee.
+2021-08-13 01:53:34  G. wields Wealth Stone, specifying self.
 2021-08-12 23:50:18  Soul Stone is transferred to R. Lee from Agora in auction resolution.
 2021-08-12 23:50:18  Power Stone is transferred to R. Lee from Agora in auction resolution.
 2021-08-02 19:49:03  G. wields Wealth Stone, specifying self.
