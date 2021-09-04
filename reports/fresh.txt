@@ -2,12 +2,12 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone          Owner       Last Wielded  Immune?
 -------------  ---------   ------------  -------
-Power          R. Lee      2021-06-21
-Wealth         R. Lee      2021-08-13
-Soul           R. Lee      2021-02-14
-Sabotage       R. Lee      2021-03-25
-Concentration  R. Lee      2021-08-01
-Protection     Trigon      2021-07-21
+Power          Agora       2021-06-21    Agora
+Wealth         Agora       2021-08-13    Agora
+Soul           Agora       2021-02-14    Agora
+Sabotage       Agora       2021-03-25    Agora
+Concentration  Agora       2021-08-01    Agora
+Protection     Agora       2021-07-21    Agora
 
 Summary of stone functions:
 
@@ -32,6 +32,7 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
+2021-08-13 02:30:29  R. Lee Notices the Gauntlet, specifying R. Lee. All stones are transfered to Agora.
 2021-08-13 02:26:45  Jason transfers Sabotage Stone to R. Lee.
 2021-08-13 01:52:34  G. transfers Wealth Stone to R. Lee.
 2021-08-13 01:53:34  G. wields Wealth Stone, specifying self.
