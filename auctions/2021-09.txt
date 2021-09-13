@@ -1,0 +1,31 @@
+The September Stone auction is in its retrieval period. It began at 02:32:38 on 2021-09-06 and
+the retrieval period started at 02:01:28 on 2021-09-12, four days after the final bid by Jason.
+
+There were three lots: [Power Stone], [Wealth Stone], [Concentration Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+
+[Power Stone]         -> Jason for 600 coins
+[Wealth Stone]        -> ais523 for 656 coins
+[Concentration Stone] -> Jason for 600 coins
+
+Bid history:
+
+Date                 Player            Preferred Lot  Amount (coins)
+-------------------  ----------------  -------------  --------------
+2021-09-06 02:37:14  Jason             Power            1
+2021-09-06 02:37:14  Jason             Wealth           1
+2021-09-06 02:37:14  Jason             Concetration     1
+2021-09-06 03:34:41  R. Lee            Power          100
+2021-09-06 03:34:41  R. Lee            Wealth         100
+2021-09-06 03:34:41  R. Lee            Concentration  100
+2021-09-06 03:49:49  Jason             Power          150
+2021-09-06 03:49:49  Jason             Wealth         150
+2021-09-06 03:49:49  Jason             Concentration  150
+2021-09-06 03:59:10  G.                Power          500
+2021-09-06 03:59:10  G.                Wealth         500
+2021-09-06 03:59:10  G.                Concentration  500
+2021-09-06 07:55:36  ais523            Wealth         656
+2021-09-08 02:01:28  Jason             Power          600
+2021-09-08 02:01:28  Jason             Wealth         600
+2021-09-08 02:01:28  Jason             Concentration  600
