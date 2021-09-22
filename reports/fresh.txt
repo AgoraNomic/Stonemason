@@ -6,7 +6,7 @@ Power          Jason       2021-09-15
 Wealth         ais523      2021-09-15
 Soul           Agora       2021-02-14    Agora
 Sabotage       Agora       2021-03-25    Agora
-Concentration  Jason       2021-08-01
+Concentration  Jason       2021-09-20
 Protection     Agora       2021-07-21    Agora
 
 Summary of stone functions:
@@ -32,6 +32,7 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
+2021-09-20 21:15:06  Jason wields Concentration Stone, specifying self.
 2021-09-15 18:55:17  ais523 wields Wealth Stone, specifying self.
 2021-09-15 18:01:19  Jason wields Power Stone, specifying self.
 2021-09-15 18:00:14  Concentration Stone is transfered to Jason from Agora in auction resolution.
