@@ -3,11 +3,11 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone          Owner       Last Wielded  Immune?
 -------------  ---------   ------------  -------
 Power          Jason       2021-09-15
-Wealth         ais523      2021-10-02
+Wealth         ais523      2021-10-02    Protection
 Soul           Jason       2021-02-14
 Sabotage       Jason       2021-03-25
 Concentration  Jason       2021-09-20
-Protection     ais523      2021-07-21
+Protection     ais523      2021-10-02
 
 Summary of stone functions:
 
@@ -32,6 +32,7 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
+2021-10-02 22:50:43  ais523 wields Protection Stone, specifying Wealth Stone.
 2021-10-02 22:42:43  Protection Tone is transferred to ais523 from Agora in auction resolution.
 2021-10-02 21:00:26  Sabotage Stone is transferred to Jason from Agora in auction resolution.
 2021-10-02 21:00:26  Soul Stone is transferred to Jason from Agora in auction resolution.
