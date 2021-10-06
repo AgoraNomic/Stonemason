@@ -8,6 +8,10 @@ Soul           Jason       2021-02-14
 Sabotage       Jason       2021-10-04
 Concentration  Jason       2021-10-06
 Protection     ais523      2021-10-02
+Recursion      Agora                     Agora
+Hot Potato     Agora                     Agora
+Blank          Agora                     Agora
+Alchemy        Agora                     Agora
 
 Summary of stone functions:
 
