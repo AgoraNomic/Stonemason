@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone          Owner       Last Wielded  Immune?
 -------------  ---------   ------------  -------
 Power          Jason       2021-10-04
-Wealth         ais523      2021-10-02    Protection
+Wealth         ais523      2021-10-05    Protection
 Soul           Jason       2021-02-14
 Sabotage       Jason       2021-10-04
 Concentration  Jason       2021-09-20
@@ -32,6 +32,7 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
+2021-10-05 21:24:32  ais523 wields Wealth Stone, specifying self.
 2021-10-04 15:14:17  Jason wields Power Stone, specifying self.
 2021-10-04 15:08:48  Jason wields Sabotage Stone, specifying referendum on Proposal 8630.
 2021-10-02 22:50:43  ais523 wields Protection Stone, specifying Wealth Stone.
