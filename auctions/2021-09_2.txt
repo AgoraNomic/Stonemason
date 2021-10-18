@@ -1,0 +1,19 @@
+The Surprise Stone auction is in its retrieval period. It began at 02:23:19 on 2021-09-24 and
+the retrieval period started at 02:40:36 on 2021-09-28, four days after the final bid by ais523.
+
+There were three lots: [Soul Stone], [Sabotage Stone], [Protection Stone].
+
+This auction was a selective-bid auction. The awardees are as follows, assuming all bidders are funded:
+
+[Soul Stone]       -> Jason  for   1 coin
+[Sabotage Stone]   -> Jason  for   1 coin
+[Protection Stone] -> ais523 for 371 coins
+
+Bid history:
+
+Date                 Player            Preferred Lot  Amount (coins)
+-------------------  ----------------  -------------  --------------
+2021-09-24 02:33:56  Jason             Soul             1
+2021-09-24 02:33:56  Jason             Sabotage         1
+2021-09-24 02:33:56  Jason             Protection       1
+2021-09-24 02:40:36  ais523            Protection     371
