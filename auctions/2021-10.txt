@@ -1,0 +1,24 @@
+The October Stone auction's retrieval period has ended. The auction began at 18:17:29 on 2021-10-08 and
+the retrieval period started at 20:57:06 on 2021-10-14, four days after the final bid by Trigon.
+
+There were two lots: [Recursion Stone], [Alchemy Stone].
+
+This auction was a selective-bid auction. The awardees are as follows (assuming all funded):
+
+[Recursion Stone] -> Trigon  for 411 coins
+[Alchemy Stone]   -> Alchemy for 305 coins
+
+Bid history:
+
+Date                 Player            Preferred Lot  Amount (coins)
+-------------------  ----------------  -------------  --------------
+2021-10-08 18:18:21  Jason             Recursion        1
+2021-10-08 18:18:21  Jason             Alchemy          1
+2021-10-08 18:19:43  Trigon            Recursion      100
+2021-10-08 18:19:43  Trigon            Alchemy          2
+2021-10-08 18:20:00  nix               Recursion        0
+2021-10-08 18:20:00  nix               Alchemy          0
+2021-10-09 06:38:19  ais523            Recursion      310
+2021-10-09 06:38:19  ais523            Alchemy        205
+2021-10-10 20:57:06  Trigon            Recursion      411
+2021-10-10 20:57:06  Trigon            Alchemy        305
