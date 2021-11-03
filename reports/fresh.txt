@@ -8,7 +8,7 @@ Soul           Agora       2021-02-14    Agora
 Sabotage       Agora       2021-10-04    Agora
 Concentration  Jason       2021-10-06
 Protection     Agora       2021-10-02    Agora
-Recursion      Trigon
+Recursion      Trigon      2021-10-31
 Hot Potato     Agora                     Agora
 Blank          Agora                     Agora
 Alchemy        Trigon
@@ -37,6 +37,7 @@ Protection     a specified stone becomes immune (until the next
 History:
 =======
 2021-11-01 00:07:40  ais523 wields Wealth Stone, specifying self.
+2021-10-31 21:49:26  Trigon wields Recursion Stone, specifying Wealth Stone, specifying Jason.
 2021-10-25 00:07:21  ais523 wields Wealth Stone, specifying self.
 2021-10-20 20:12:26  ais523 wields Wealth Stone, specifying self.
 2021-10-18 20:55:11  Alchemy Stone is transferred to Trigon from Agora in auction resolution.
