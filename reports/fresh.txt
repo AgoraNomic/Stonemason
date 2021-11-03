@@ -8,10 +8,10 @@ Soul           Agora       2021-02-14    Agora
 Sabotage       Agora       2021-10-04    Agora
 Concentration  Jason       2021-10-06
 Protection     Agora       2021-10-02    Agora
-Recursion      Agora                     Agora
+Recursion      Trigon
 Hot Potato     Agora                     Agora
 Blank          Agora                     Agora
-Alchemy        Agora                     Agora
+Alchemy        Trigon
 
 Summary of stone functions:
 
@@ -36,6 +36,8 @@ Protection     a specified stone becomes immune (until the next
 
 History:
 =======
+2021-10-18 20:55:11  Alchemy Stone is transferred to Trigon from Agora in auction resolution.
+2021-10-18 20:55:11  Recursion Stone is transferred to Trigon from Agora in auction resolution.
 2021-10-12 13:48:48  ais523 wields Wealth Stone, specifying self.
 2021-10-06 23:27:13  Wealth Stone ceases being immunte after collection notice.
 2021-10-06 23:27:13  Protection Stone is transferred from ais523 to Agora per collection notice.
