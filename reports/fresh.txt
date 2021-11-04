@@ -34,6 +34,18 @@ Concentration  a specified player earns an extra Grant for eir
 Protection     a specified stone becomes immune (until the next
                Collection Notice). Escape risk: 70%.
 
+Recursion      can be wielded as any other stone. Escape risk: 70%.
+
+Hot Potato     gain 8 coins if transferred to a player who has not
+               owned the stone since the last time Agora owned it.
+               Escape risk: immune if wielded 3 or more times
+               since the last collection notice, else 100%.
+
+Blank          does nothing. Escape risk: 5%.
+
+Alchemy        pay four of your own cards to gain 7 products of
+               your choice. Escape risk: 70%.
+
 History:
 =======
 2021-11-01 00:07:40  ais523 wields Wealth Stone, specifying self.
