@@ -1,0 +1,20 @@
+The November Stone auction's retrieval period is ongoing. The auction began at 22:30:29 on 2021-11-07, and
+the retrieval period started at 00:42:48 on 2021-11-12, four days after the final bid by Jason.
+
+There were two lots: [Hot Potato Stone], [Power Stone].
+
+This auction was a selective-bid auction. The awardees are as follows (assuming all funded):
+
+[Hot Potato Stone] -> Jason for 150 coins
+[Power Stone]      -> Jason for 150 coins
+
+Bid history:
+
+Date                 Player            Preferred Lot  Amount (coins)
+-------------------  ----------------  -------------  --------------
+2021-11-08 00:28:43  Jason             Hot Potato       1
+2021-11-08 00:28:43  Jason             Power            1
+2021-11-08 00:30:34  G.                Hot Potato     100
+2021-11-08 00:30:34  G.                Power          100
+2021-11-08 00:42:48  Jason             Hot Potato     150
+2021-11-08 00:42:48  Jason             Power          150
