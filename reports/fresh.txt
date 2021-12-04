@@ -6,7 +6,7 @@ Power          Agora       2021-10-04    Agora
 Wealth         Agora       2021-11-01    Agora
 Soul           Agora       2021-02-14    Agora
 Sabotage       Agora       2021-10-04    Agora
-Concentration  Jason       2021-10-06
+Concentration  Jason       2021-11-04
 Protection     Agora       2021-10-02    Agora
 Recursion      Agora       2021-10-31    Agora
 Hot Potato     Agora                     Agora
@@ -51,6 +51,7 @@ History:
 2021-11-04 01:09:15  Alchemy Stone is transferred from Trigon to Agora per collection notice.
 2021-11-04 01:09:15  Recursion Stone is transferred from Trigon to Agora per collection notice.
 2021-11-04 01:09:15  Wealth Stone is transferred from ais523 to Agora per collection notice.
+2021-11-04 00:59:15  Jason wields Concentration Stone, specifying self.
 2021-11-01 00:07:40  ais523 wields Wealth Stone, specifying self.
 2021-10-31 21:49:26  Trigon wields Recursion Stone, specifying Wealth Stone, specifying Jason.
 2021-10-25 00:07:21  ais523 wields Wealth Stone, specifying self.
