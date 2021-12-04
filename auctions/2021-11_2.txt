@@ -1,0 +1,16 @@
+The second November Stone auction's retrieval period is ongoing. The auction began at 20:29:20 on 2021-11-28, and
+the retrieval period started at 03:33:04 on 2021-12-02, four days after the final bid by Jason.
+
+There were two lots: [Soul Stone], [Wealth Stone].
+
+This auction was a forward auction. The awardees are as follows (assuming all funded):
+
+1. [Soul Stone]        -> Jason for 200 coins
+2. [Wealth Stone]      -> G.    for 161 coins
+
+Bid history:
+
+Date                 Player            Amount (coins)
+-------------------  ----------------  --------------
+2021-11-28 20:31:54  G.                161
+2021-11-29 03:33:04  Jason             200
