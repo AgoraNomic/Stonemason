@@ -7,8 +7,8 @@ Wealth         G.          2021-12-08
 Soul           Jason       2021-02-14
 Sabotage       Agora       2021-10-04    Agora
 Concentration  Jason       2021-12-04
-Protection     Agora       2021-10-02    Agora
-Recursion      Agora       2021-10-31    Agora
+Protection     G.          2021-10-02
+Recursion      Jason       2021-10-31
 Hot Potato     Agora                     Agora
 Blank          Agora                     Agora
 Alchemy        Agora                     Agora
@@ -48,6 +48,8 @@ Alchemy        pay four of your own cards to gain 7 products of
 
 History:
 =======
+2021-12-17 04:19:59  Protection Stone is transferred to G. from Agora in auction resolution.
+2021-12-17 04:19:59  Recursion Stone is transferred to Jason from Agora in auction resolution.
 2021-12-08 21:12:02  G. wields Wealth Stone, specifying self.
 2021-12-08 18:10:01  Wealth Stone is transferred to G. from Agora in auction resolution.
 2021-12-08 18:10:01  Soul Stone is transferred to Jason from Agora in auction resolution.
