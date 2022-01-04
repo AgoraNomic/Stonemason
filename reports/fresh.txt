@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone          Owner       Last Wielded  Immune?
 -------------  ---------   ------------  -------
 Power          Agora       2021-10-04    Agora
-Wealth         G.          2021-12-08
+Wealth         G.          2021-12-17
 Soul           Jason       2021-02-14
 Sabotage       Agora       2021-10-04    Agora
 Concentration  Jason       2021-12-04
@@ -48,6 +48,7 @@ Alchemy        pay four of your own cards to gain 7 products of
 
 History:
 =======
+2021-12-17 17:32:23  G. wields Wealth Stone, specifying self.
 2021-12-17 04:19:59  Protection Stone is transferred to G. from Agora in auction resolution.
 2021-12-17 04:19:59  Recursion Stone is transferred to Jason from Agora in auction resolution.
 2021-12-08 21:12:02  G. wields Wealth Stone, specifying self.
