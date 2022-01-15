@@ -1,0 +1,18 @@
+The January Stone auction's retrieval period has ended. The auction began at 18:13:17 on 2022-01-06, and
+the retrieval period started at 05:27:34 on 2022-01-07, four days after the final bid by Trigon.
+
+There were two lots: [Alchemy Stone], [Blank Stone].
+
+This auction was a forward auction. The awardees are as follows (assuming all funded):
+
+[Alchemy Stone] -> Trigon for 500 coins
+[Blank Stone]   -> Trigon for 500 coins
+
+Bid history:
+
+Date                 Player            Preferred Lot  Amount (coins)
+-------------------  ----------------  -------------  --------------
+2022-01-06 19:29:32  Jason             Blank            1
+2022-01-06 19:29:32  Jason             Alchemy          1
+2022-01-07 05:27:34  Trigon            Blank          500
+2022-01-07 05:27:34  Trigon            Alchemy        500
