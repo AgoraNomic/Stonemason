@@ -3,7 +3,7 @@ the retrieval period started at 05:27:34 on 2022-01-07, four days after the fina
 
 There were two lots: [Alchemy Stone], [Blank Stone].
 
-This auction was a forward auction. The awardees are as follows (assuming all funded):
+This auction was a selective-bid auction. The awardees are as follows (assuming all funded):
 
 [Alchemy Stone] -> Trigon for 500 coins
 [Blank Stone]   -> Trigon for 500 coins
