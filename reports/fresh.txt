@@ -3,15 +3,15 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone          Owner       Last Wielded  Immune?
 -------------  ---------   ------------  -------
 Power          Agora       2021-10-04    Agora
-Wealth         G.          2022-02-04
+Wealth         Agora       2022-02-04    Agora
 Soul           Agora       2021-02-14    Agora
 Sabotage       Agora       2021-10-04    Agora
 Concentration  Agora       2021-01-04    Agora
-Protection     G.          2021-02-03    Protection
-Recursion      Jason       2022-02-03    Protection
+Protection     G.          2021-02-03
+Recursion      Jason       2022-02-03
 Hot Potato     Agora                     Agora
 Blank          Trigon
-Alchemy        Trigon
+Alchemy        Agora                     Agora
 
 Summary of stone functions:
 
@@ -48,6 +48,10 @@ Alchemy        pay four of your own cards to gain 7 products of
 
 History:
 =======
+2022-02-07 01:53:16  Recursion Stone ceases being immune after collection notice.
+2022-02-07 01:53:16  Protection Stone ceases being immune after collection notice.
+2022-02-07 01:53:16  Alchemy Stone is transferred from Trigon to Agora per collection notice.
+2022-02-07 01:53:16  Wealth Stone is transferred from G. to Agora per collection notice.
 2022-02-04 19:06:56  G. wields Wealth Stone, specifying self.
 2022-02-03 04:26:16  G. wields Protection Stone, specifying Protection Stone.
 2022-02-03 03:19:01  Jason wields Recursion Stone, specifying Protection Stone, specifying Recursion Stone.
