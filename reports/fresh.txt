@@ -48,8 +48,8 @@ Alchemy        pay four of your own cards to gain 7 products of
 
 History:
 =======
-2021-01-15 19:39:36  Alchemy Stone is transferred to Trigon from Agora in auction resolution.
-2021-01-15 19:39:36  Blank Stone is transferred to Trigon from Agora in auction resolution.
+2022-01-15 19:39:36  Alchemy Stone is transferred to Trigon from Agora in auction resolution.
+2022-01-15 19:39:36  Blank Stone is transferred to Trigon from Agora in auction resolution.
 2022-01-12 18:31:23  G. wields Wealth Stone, specifying self.
 2022-01-04 17:40:25  Recursion Stone ceases being immune after collection notice.
 2022-01-04 17:40:25  Protection Stone ceases being immune after collection notice.
