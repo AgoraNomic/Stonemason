@@ -7,7 +7,7 @@ Wealth         G.          2022-01-30
 Soul           Agora       2021-02-14    Agora
 Sabotage       Agora       2021-10-04    Agora
 Concentration  Agora       2021-01-04    Agora
-Protection     G.          2021-12-31
+Protection     G.          2021-02-03    Protection
 Recursion      Jason       2022-02-03    Protection
 Hot Potato     Agora                     Agora
 Blank          Trigon
@@ -48,6 +48,7 @@ Alchemy        pay four of your own cards to gain 7 products of
 
 History:
 =======
+2022-02-03 04:26:16  G. wields Protection Stone, specifying Protection Stone.
 2022-02-03 03:19:01  Jason wields Recursion Stone, specifying Protection Stone, specifying Recursion Stone.
 2022-01-30 22:34:39  G. wields Wealth Stone, specifying self.
 2022-01-23 20:28:24  G. wields Wealth Stone, specifying self.
