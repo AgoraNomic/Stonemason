@@ -1,0 +1,33 @@
+The February Stone auction's retrieval period has ended. The auction began at 19:39:48 on 2022-02-10, and
+the retrieval period started at 00:02:35 on 2022-02-16, four days after the final bid by Madrid.
+
+There were two lots: [Wealth Stone], [Power Stone].
+
+This auction was a selective-bid auction. The awardees are as follows (assuming all funded):
+
+[Wealth Stone] -> Secretsnail9 for 1450 coins
+[Power Stone]  -> Jason        for  676 coins
+
+Bid history:
+
+Date                 Player            Preferred Lot  Amount (coins)
+-------------------  ----------------  -------------  --------------
+2022-02-12 00:02:35  Madrid            Power            50
+2022-02-12 00:02:35  Madrid            Wealth           50
+2022-02-11 22:28:16  Jason             Power           676
+2022-02-11 20:53:18  G.                Power           625
+2022-02-11 05:03:39  Secretsnail9      Power           550
+2022-02-11 05:03:39  Secretsnail9      Wealth         1450
+2022-02-11 02:57:28  Jason             Wealth         1400
+2022-02-11 02:06:41  Jason             Power           500
+2022-02-11 00:33:07  G.                Power           400
+2022-02-10 22:42:28  Jason             Power           300
+2022-02-10 22:42:28  Secretsnail9      Wealth         1300
+2022-02-10 22:29:06  G.                Power           251
+2022-02-10 22:27:01  Trigon            Wealth         1200
+2022-02-10 22:06:08  Secretsnail9      Wealth         1100
+2022-02-10 21:08:57  ais523            Wealth         1067
+2022-02-10 21:01:06  Secretsnail9      Power            50
+2022-02-10 21:01:06  Secretsnail9      Wealth           50
+2022-02-10 20:30:51  Jason             Power             1
+2022-02-10 20:30:51  Jason             Wealth            1
