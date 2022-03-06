@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone          Owner            Last Wielded  Immune?
 -------------  ---------------  ------------  -------
 Power          Jason            2021-10-04
-Wealth         Secretstnail9    2022-02-21
+Wealth         Secretstnail9    2022-03-02
 Soul           Agora            2021-02-14    Agora
 Sabotage       Agora            2021-10-04    Agora
 Concentration  Agora            2021-01-04    Agora
@@ -52,6 +52,7 @@ History:
 2022-03-04 17:59:58  Power Stone ceases being immune after collection notice.
 2022-03-04 17:59:58  Recursion Stone is transferred from Jason to Agora per collection notice.
 2022-03-02 16:55:45  G. wields Protection Stone, specifying Protection Stone
+2022-03-02 01:12:07  Secretsnail9 wields Wealth Stone, specifying self.
 2022-03-02 00:17:12  Jason wields Recursion Stone as Protection Stone, specifying Power Stone.
 2022-02-21 15:23:28  Secretsnail9 wields Wealth Stone, specifying self.
 2022-02-20 23:42:37  Power Stone is transferred to Jason from Agora in auction resolution.
