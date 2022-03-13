@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone          Owner            Last Wielded  Immune?
 -------------  ---------------  ------------  -------
 Power          Jason            2021-10-04
-Wealth         Secretstnail9    2022-03-12
+Wealth         Secretsnail9     2022-03-12
 Soul           Agora            2021-02-14    Agora
 Sabotage       Agora            2021-10-04    Agora
 Concentration  Agora            2021-01-04    Agora
