@@ -36,10 +36,10 @@ Protection     a specified stone becomes immune (until the next
 
 Recursion      can be wielded as any other stone. Escape risk: 70%.
 
-Hot Potato     gain 8 coins if transferred to a player who has not
-               owned the stone since the last time Agora owned it.
-               Escape risk: immune if wielded 3 or more times
-               since the last collection notice, else 100%.
+Hot Potato     gain 8 boatloads of coins if transferred to a player who
+               has not owned the stone since the last time Agora owned
+               it.  Escape risk: immune if wielded 3 or more times since
+               the last collection notice, else 100%.
 
 Blank          does nothing. Escape risk: 5%.
 
