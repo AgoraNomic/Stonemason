@@ -11,7 +11,7 @@ Protection     G.               2021-03-02
 Recursion      Agora            2022-03-02    Agora
 Hot Potato     Jason
 Blank          Trigon
-Alchemy        Jason
+Alchemy        Jason            2022-03-27
 
 Summary of stone functions:
 
@@ -48,6 +48,7 @@ Alchemy        pay four of your own cards to gain 7 products of
 
 History:
 =======
+2022-03-27 01:39:29  Jason wields Alchemy Stone, specifying 1 win card, 3 legislative cards, and 7 winsomes.
 2022-03-24 22:22:46  Secretsnail9 wields Wealth Stone, specifying self.
 2022-03-18 03:34:21  Secretsnail9 wields Wealth Stone, specifying self.
 2022-03-16 22:03:17  Alchemy Stone is transferred to Jason from Agora in auction resolution.
