@@ -7,11 +7,11 @@ Wealth         Secretsnail9     2022-03-28
 Soul           Agora            2021-02-14    Agora
 Sabotage       Agora            2021-10-04    Agora
 Concentration  Agora            2021-01-04    Agora
-Protection     G.               2021-04-01    Protection
+Protection     G.               2021-04-01
 Recursion      Agora            2022-03-02    Agora
-Hot Potato     Gaelan           2022-03-16
+Hot Potato     Agora            2022-03-16    Agora
 Blank          Trigon
-Alchemy        Jason            2022-03-27
+Alchemy        Agora            2022-03-27    Agora
 
 Summary of stone functions:
 
@@ -48,6 +48,9 @@ Alchemy        pay four of your own cards to gain 7 products of
 
 History:
 =======
+2022-04-03 05:21:28  Protection Stone ceases being immune after collection notice.
+2022-04-03 05:21:28  Alchemy stone is transferred from Jason to Agora per collection notice.
+2022-04-03 05:21:28  Hot Potato stone is transferred from Gaelan to Agora per collection notice.
 2022-04-01 00:25:34  G. wields Protection Stone, specifying Protection Stone.
 2022-03-31 16:28:50  Jason wields Power Stone, specifying self.
 2022-03-28 20:08:21  Secretsnail9 wields Wealth Stone, specifying self.
