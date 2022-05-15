@@ -2,12 +2,12 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone          Owner            Last Wielded  Immune?
 -------------  ---------------  ------------  -------
-Power          Jason            2022-05-03
-Wealth         Secretsnail9     2022-05-03
+Power          Agora            2022-05-03    Agora
+Wealth         Agora            2022-05-03    Agora
 Soul           Agora            2021-02-14    Agora
 Sabotage       Agora            2021-10-04    Agora
 Concentration  Agora            2021-01-04    Agora
-Protection     G.               2021-05-01    Protection
+Protection     G.               2021-05-01
 Recursion      Agora            2022-03-02    Agora
 Hot Potato     Agora            2022-03-16    Agora
 Blank          Trigon
@@ -48,6 +48,9 @@ Alchemy        pay four of your own cards to gain 7 products of
 
 History:
 =======
+2022-05-03 23:25:04  Protection Stone ceases being immune after collection notice.
+2022-05-03 23:25:04  Wealth Stone is transferred from Jason to Agora per collection notice.
+2022-05-03 23:25:04  Power Stone is transferred from Jason to Agora per collection notice.
 2022-05-03 23:23:06  Jason wields Power Stone, specifying self.
 2022-05-03 00:08:13  Secretsnail9 wields Wealth Stone, specifying self.
 2022-05-01 15:51:23  G. wields Protection Stone, specifying Protection Stone.
