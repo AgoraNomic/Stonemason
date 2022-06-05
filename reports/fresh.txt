@@ -7,7 +7,7 @@ Wealth         Agora            2022-05-03    Agora
 Soul           Agora            2021-02-14    Agora
 Sabotage       Agora            2021-10-04    Agora
 Concentration  Agora            2021-01-04    Agora
-Protection     G.               2021-05-01
+Protection     G.               2021-06-02    Protection
 Recursion      Agora            2022-03-02    Agora
 Hot Potato     Agora            2022-03-16    Agora
 Blank          Trigon
@@ -48,6 +48,7 @@ Alchemy        pay four of your own cards to gain 7 products of
 
 History:
 =======
+2022-06-02 17:03:32  G. wields Protection Stone, specifying Protection Stone.
 2022-05-03 23:25:04  Protection Stone ceases being immune after collection notice.
 2022-05-03 23:25:04  Wealth Stone is transferred from Jason to Agora per collection notice.
 2022-05-03 23:25:04  Power Stone is transferred from Jason to Agora per collection notice.
