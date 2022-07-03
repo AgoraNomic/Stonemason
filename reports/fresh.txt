@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone          Owner            Last Wielded  Immune?
 -------------  ---------------  ------------  -------
 Power          Jason            2022-06-26
-Wealth         Jason            2022-07-02
+Wealth         Agora            2022-07-02    Agora
 Soul           Agora            2021-02-14    Agora
 Sabotage       Agora            2021-10-04    Agora
 Concentration  Agora            2021-01-04    Agora
@@ -48,6 +48,7 @@ Alchemy        pay four of your own cards to gain 7 products of
 
 History:
 =======
+2022-07-03 22:06:34  Wealth Stone is transferred from Jason to Agora per collection notice.
 2022-07-03 03:06:22  Jason wields Wealth Stone, specifying self.
 2022-07-02 04:36:12  G. wields Protection Stone, specifying Protection Stone.
 2022-06-26 02:42:14  Jason wields Power Stone, specifying self.
