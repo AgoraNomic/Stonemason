@@ -12,6 +12,7 @@ Recursion      Agora            2022-03-02    Agora
 Hot Potato     Agora            2022-03-16    Agora
 Blank          Trigon
 Alchemy        Agora            2022-03-27    Agora
+Tasty          Agora                          Agora
 
 Summary of stone functions:
 
@@ -45,6 +46,8 @@ Blank          does nothing. Escape risk: 5%.
 
 Alchemy        pay four of your own cards to gain 7 products of
                your choice. Escape risk: 70%.
+
+Tasty          transfer a bird to yourself. Escape risk: 70%.
 
 History:
 =======
