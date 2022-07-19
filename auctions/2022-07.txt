@@ -1,0 +1,50 @@
+The July Stone auction's bidding period has ended. The auction began at 15:22:56 on 2022-07-07, and
+the bidding period ended at 03:02:21 on 2022-07-11, four days after the final bid by Jason.
+
+There were two lots: [Recursion Stone], [Sabotage Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+
+[Recursion Stone] -> Murphy for 9001 coins
+[Sabotage Stone]  -> Murphy for 9001 coins
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 9001 of Murphy's coins.
+I cause the Recursion Stone to be transferred to Murphy.
+}
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 9001 of Murphy's coins.
+I cause the Sabotage Stone to be transferred to Murphy.
+}
+
+Bid history:
+
+Date                 Player            Preferred Lot  Amount (coins)
+-------------------  ----------------  -------------  --------------
+2022-07-11 03:02:21  Jason             Sabotage       1400
+2022-07-11 03:02:21  Jason             Recursion      1400
+2022-07-11 00:31:34  Murphy            Sabotage       9001
+2022-07-11 00:31:34  Murphy            Recursion      9001
+2022-07-10 23:05:24  Secretsnail9      Sabotage       1300
+2022-07-10 23:05:24  Secretsnail9      Recursion      1300
+2022-07-10 23:00:29  Jason             Sabotage       1200
+2022-07-10 23:00:29  Jason             Recursion      1200
+2022-07-10 21:28:52  Secretsnail9      Sabotage       1100
+2022-07-10 21:28:52  Secretsnail9      Recursion      1100
+2022-07-10 17:21:47  Jason             Sabotage        900
+2022-07-10 17:21:47  Jason             Recursion       900
+2022-07-10 02:00:06  Secretsnail9      Sabotage        700
+2022-07-10 02:00:06  Secretsnail9      Recursion       700
+2022-07-10 00:51:55  Jason             Sabotage        500
+2022-07-10 00:51:55  Jason             Recursion       500
+2022-07-09 15:57:58  Secretsnail9      Sabotage        300
+2022-07-09 15:57:58  Secretsnail9      Recursion       300
+2022-07-08 22:24:56  Jason             Sabotage        200
+2022-07-08 22:24:56  Jason             Recursion       200
+2022-07-07 22:43:20  Secretsnail9      Sabotage        100
+2022-07-07 22:43:20  Secretsnail9      Recursion       100
+2022-07-07 20:58:51  Jason             Sabotage          1
+2022-07-07 20:58:51  Jason             Recursion         1
