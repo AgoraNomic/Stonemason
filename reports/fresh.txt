@@ -7,7 +7,7 @@ Wealth         Agora            2022-07-02    Agora
 Soul           Agora            2021-02-14    Agora
 Sabotage       Murphy           2021-10-04
 Concentration  Agora            2021-01-04    Agora
-Protection     G.               2021-07-02    Protection
+Protection     G.               2021-07-02
 Recursion      Murphy           2022-03-02
 Hot Potato     Agora            2022-03-16    Agora
 Blank          Trigon
@@ -53,6 +53,7 @@ History:
 =======
 2022-07-19 03:19:30  Sabotage Stone is transferred to Murphy from Agora in auction resolution.
 2022-07-19 03:19:30  Recursion Stone is transferred to Murphy from Agora in auction resolution.
+2022-07-03 22:06:34  Protection Stone ceases being immune after collection notice.
 2022-07-03 22:06:34  Wealth Stone is transferred from Jason to Agora per collection notice.
 2022-07-03 03:06:22  Jason wields Wealth Stone, specifying self.
 2022-07-02 04:36:12  G. wields Protection Stone, specifying Protection Stone.
