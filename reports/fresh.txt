@@ -5,10 +5,10 @@ Stone          Owner            Last Wielded  Immune?
 Power          Jason            2022-07-31
 Wealth         Agora            2022-07-02    Agora
 Soul           Agora            2021-02-14    Agora
-Sabotage       Murphy           2021-10-04
+Sabotage       Agora            2021-10-04    Agora
 Concentration  Agora            2021-01-04    Agora
-Protection     G.               2021-08-01    Protection
-Recursion      Murphy           2022-07-24    Protection
+Protection     G.               2021-08-01
+Recursion      Murphy           2022-07-24
 Hot Potato     Agora            2022-03-16    Agora
 Blank          Trigon
 Alchemy        Agora            2022-03-27    Agora
@@ -51,6 +51,9 @@ Tasty          transfer a bird to yourself. Escape risk: 70%.
 
 History:
 =======
+2022-08-07 20:02:46  Recursion Stone ceases being immune after collection notice.
+2022-08-07 20:02:46  Protection Stone ceases being immune after collection notice.
+2022-08-07 20:02:46  Sabotage Stone is transferred from Murphy to Agora per collection notice.
 2022-08-01 01;11:33  G. wields Protection Stone, specifying Protection Stone.
 2022-07-31 20:54:55  Jason wields Power Stone, specifying self.
 2022-07-24 21:28:57  Murphy wields Recursion Stone, specifying Power Stone, specifying Recursion Stone.
