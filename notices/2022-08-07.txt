@@ -1,0 +1,18 @@
+I hereby publish the following collection notice:
+
+All choices are made using AgoraBot in a public channel on the unofficial Discord. I affirm under penalty of No Faking that, to the best of my knowledge, the choices listed below had the probabilities listed below.
+
+Stones that escape do so in the order they are listed below.
+
+Stone          Owner         Escape Risk  Choices  Escapes?
+-----          ------        -----------  -------  --------
+Power          Jason          40%         NE
+Wealth         Agora          50%         [Immune: Agora]
+Soul           Agora          50%         [Immune: Agora]
+Sabotage       Murphy         80%         NE/E     Escapes
+Concentration  Agora          60%         [Immune: Agora]
+Protection     G.             70%         [Immune: Protection]
+Recursion      Murphy          80%        [Immune: Protection]
+Hot Potato     Agora         100%         [Immune: Agora]
+Blank          Trigon          5%         NE/NE
+Alchemy        Agora          70%         [Immune: Agora]
