@@ -8,7 +8,7 @@ Soul           Agora            2021-02-14    Agora
 Sabotage       Murphy           2021-10-04
 Concentration  Agora            2021-01-04    Agora
 Protection     G.               2021-07-02
-Recursion      Murphy           2022-03-02
+Recursion      Murphy           2022-07-24    Protection
 Hot Potato     Agora            2022-03-16    Agora
 Blank          Trigon
 Alchemy        Agora            2022-03-27    Agora
@@ -52,6 +52,7 @@ Tasty          transfer a bird to yourself. Escape risk: 70%.
 History:
 =======
 2022-07-31 20:54:55  Jason wields Power Stone, specifying self.
+2022-07-24 21:28:57  Murphy wields Recursion Stone, specifying Power Stone, specifying Recursion Stone.
 2022-07-19 03:19:30  Sabotage Stone is transferred to Murphy from Agora in auction resolution.
 2022-07-19 03:19:30  Recursion Stone is transferred to Murphy from Agora in auction resolution.
 2022-07-03 22:06:34  Protection Stone ceases being immune after collection notice.
