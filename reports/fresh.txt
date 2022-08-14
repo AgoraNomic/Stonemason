@@ -9,10 +9,10 @@ Sabotage       Agora            2021-10-04    Agora
 Concentration  Agora            2021-01-04    Agora
 Protection     G.               2021-08-01
 Recursion      Murphy           2022-07-24
-Hot Potato     Agora            2022-03-16    Agora
+Hot Potato     Secretsnail9     2022-03-16
 Blank          Trigon
 Alchemy        Agora            2022-03-27    Agora
-Tasty          Agora                          Agora
+Tasty          Secretsnail9
 
 Summary of stone functions:
 
@@ -51,6 +51,8 @@ Tasty          transfer a bird to yourself. Escape risk: 70%.
 
 History:
 =======
+2022-08-14 19:41:57  Hot Potato Stone is transferred to Secretsnail9 from Agora in auction resolution.
+2022-08-14 19:41:57  Tasty Stone is transferred to Secretsnail9 from Agora in auction resolution.
 2022-08-07 20:02:46  Recursion Stone ceases being immune after collection notice.
 2022-08-07 20:02:46  Protection Stone ceases being immune after collection notice.
 2022-08-07 20:02:46  Sabotage Stone is transferred from Murphy to Agora per collection notice.
