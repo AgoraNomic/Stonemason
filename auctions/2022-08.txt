@@ -1,0 +1,28 @@
+The August Stone auction's bidding period has ended. The auction began at 22:04:59 on 2022-08-07, and
+the bidding period ended at 22:25:58 on 2022-08-11, four days after the final bid by Secretsnail9.
+
+There were two lots: [Tasty Stone], [Hot Potato Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+
+[Tasty Stone]      -> Secretsnail9 for  300 coins
+[Hot Potato Stone] -> Secretsnail9 for 1440 coins
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 300 of Secretsnail9's coins.
+I cause the Tasty Stone to be transferred to Secretsnail9.
+}
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 1440 of Secretsnail9's coins.
+I cause the Hot Potato Stone to be transferred to Secretsnail9.
+}
+
+Bid history:
+
+Date                 Player            Preferred Lot  Amount (coins)
+-------------------  ----------------  -------------  --------------
+2022-08-07 22:25:58  Secretsnail9      Hot Potato     1440
+2022-08-07 22:25:58  Secretsnail9      Tasty           300
