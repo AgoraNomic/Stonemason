@@ -1,0 +1,286 @@
+THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
+REVISION 1
+
+Stone          Owner            Last Wielded  Immune?
+-------------  ---------------  ------------  -------
+Power          Jason            2022-08-31
+Wealth         Agora            2022-07-02    Agora
+Soul           Agora            2021-02-14    Agora
+Sabotage       Agora            2021-10-04    Agora
+Protection     G.               2021-09-01
+Recursion      Agora            2022-07-24    Agora
+Hot Potato     Agora            2022-09-03    Agora
+Blank          Trigon
+Alchemy        Agora            2022-03-27    Agora
+Tasty          Secretsnail9     2022-08-14
+Jockey         Agora                          Agora
+
+Summary of stone functions:
+
+Power          a specified player's strength is increased by 3 on a
+               specified Agoran decision. Escape risk: 40%.
+
+Wealth         a specified player earns 5 boatloads of coins. Escape
+               risk: 50%.
+
+Soul           a specified non-immune stone is stolen by the
+               wielder, then the Soul Stone is transferred to the
+               robbed player. Escape risk: 50%.
+
+Sabotage       the AI of a specified AI-majority decision is
+               increased by 1. Escape risk: 80%.
+
+Protection     a specified stone becomes immune (until the next
+               Collection Notice). Escape risk: 70%.
+
+Recursion      can be wielded as any other stone. Escape risk: 70%.
+
+Hot Potato     gain 8 boatloads of coins if transferred to a player who
+               has not owned the stone since the last time Agora owned
+               it.  Escape risk: immune if wielded 3 or more times since
+               the last collection notice, else 100%.
+
+Blank          does nothing. Escape risk: 5%.
+
+Alchemy        pay four of your own cards to gain 7 products of
+               your choice. Escape risk: 70%.
+
+Tasty          transfer a bird to yourself. Escape risk: 70%.
+
+Jockey         a specified Running horse's Race Position is increased by
+               1. Escape Risk: 60%.
+
+History:
+=======
+2022-09-03 21:01:34  Protection Stone ceases being immune after collection notice.
+2022-09-03 21:01:34  Hot Potato Stone is transferred from Secretsnail9 to Agora per collection notice.
+2022-09-03 21:01:34  Recursion Stone is transferred from Murphy to Agora per collection notice.
+2022-09-03 08:16:43  Hot Potato Stone is transferred to Secretsnail9 from Agora due to Bowerbird.
+2022-09-03 08:16:43  Secretsnail9 transfers Hot Potato Stone to juan.
+2022-09-03 08:16:43  Secretsnail9 wields Hot Potato Stone.
+2022-09-01 00:31:19  G. wields Protection Stone, specifying Protection Stone.
+2022-08-31 22:39:35  Jason wields Power Stone, specifying self.
+2022-08-30 03:44:33  Jockey Stone created by Proposal 8842.
+2022-08-30 03:44:33  Concentration Stone destroyed by Proposal 8842.
+2022-08-14 23:07:49  Secretsnail9 wields Tasty Stone, specifying Raven.
+2022-08-14 19:41:57  Hot Potato Stone is transferred to Secretsnail9 from Agora in auction resolution.
+2022-08-14 19:41:57  Tasty Stone is transferred to Secretsnail9 from Agora in auction resolution.
+2022-08-07 20:02:46  Recursion Stone ceases being immune after collection notice.
+2022-08-07 20:02:46  Protection Stone ceases being immune after collection notice.
+2022-08-07 20:02:46  Sabotage Stone is transferred from Murphy to Agora per collection notice.
+2022-08-01 01;11:33  G. wields Protection Stone, specifying Protection Stone.
+2022-07-31 20:54:55  Jason wields Power Stone, specifying self.
+2022-07-24 21:28:57  Murphy wields Recursion Stone, specifying Power Stone, specifying Recursion Stone.
+2022-07-19 03:19:30  Sabotage Stone is transferred to Murphy from Agora in auction resolution.
+2022-07-19 03:19:30  Recursion Stone is transferred to Murphy from Agora in auction resolution.
+2022-07-03 22:06:34  Protection Stone ceases being immune after collection notice.
+2022-07-03 22:06:34  Wealth Stone is transferred from Jason to Agora per collection notice.
+2022-07-03 03:06:22  Jason wields Wealth Stone, specifying self.
+2022-07-02 04:36:12  G. wields Protection Stone, specifying Protection Stone.
+2022-06-26 02:42:14  Jason wields Power Stone, specifying self.
+2022-06-26 02:42:14  Jason wields Wealth Stone, specifying self.
+2022-06-19 18:17:35  Jason wields Power Stone, specifying self.
+2022-06-19 18:17:35  Jason wields Wealth Stone, specifying self.
+2022-06-18 17:20:38  Power Stone is transferred to Jason from Agora in auction resolution.
+2022-06-18 17:20:38  Wealth Stone is transferred to Jason from Agora in auction resolution.
+2022-06-05 17:46:42  Protection Stone ceases being immune after collection notice.
+2022-06-02 17:03:32  G. wields Protection Stone, specifying Protection Stone.
+2022-05-03 23:25:04  Protection Stone ceases being immune after collection notice.
+2022-05-03 23:25:04  Wealth Stone is transferred from Jason to Agora per collection notice.
+2022-05-03 23:25:04  Power Stone is transferred from Jason to Agora per collection notice.
+2022-05-03 23:23:06  Jason wields Power Stone, specifying self.
+2022-05-03 00:08:13  Secretsnail9 wields Wealth Stone, specifying self.
+2022-05-01 15:51:23  G. wields Protection Stone, specifying Protection Stone.
+2022-05-01 00:16:02  Secretsnail9 wields Wealth Stone, specifying self.
+2022-04-24 23:44:23  Secretsnail9 wields Wealth Stone, specifying self.
+2022-04-23 21:36:05  Jason wields Power Stone, specifying self.
+2022-04-10 07:03:31  Secretsnail9 wields Wealth Stone, specifying self.
+2022-04-03 05:21:28  Protection Stone ceases being immune after collection notice.
+2022-04-03 05:21:28  Alchemy stone is transferred from Jason to Agora per collection notice.
+2022-04-03 05:21:28  Hot Potato stone is transferred from Gaelan to Agora per collection notice.
+2022-04-01 00:25:34  G. wields Protection Stone, specifying Protection Stone.
+2022-03-31 16:28:50  Jason wields Power Stone, specifying self.
+2022-03-28 20:08:21  Secretsnail9 wields Wealth Stone, specifying self.
+2022-03-27 01:46:56  Jason wields Power Stone, specifying self.
+2022-03-27 01:39:29  Jason wields Alchemy Stone, specifying 1 win card, 3 legislative cards, and 7 winsomes.
+2022-03-24 22:22:46  Secretsnail9 wields Wealth Stone, specifying self.
+2022-03-18 03:34:21  Secretsnail9 wields Wealth Stone, specifying self.
+2022-03-16 22:08:10  Jason transfers Hot Potato stone to Gaelan.
+2022-03-16 22:08:10  Jason wields Hot Potato stone.
+2022-03-16 22:03:17  Alchemy Stone is transferred to Jason from Agora in auction resolution.
+2022-03-16 22:03:17  Hot Potato Stone is transferred to Jason from Agora in auction resolution.
+2022-03-12 01:58:38  Secretsnail9 wields Wealth Stone, specifying self.
+2022-03-08 23:15:29  Jason wields Power Stone, specifying self.
+2022-03-04 17:59:58  Protection Stone ceases being immune after collection notice.
+2022-03-04 17:59:58  Power Stone ceases being immune after collection notice.
+2022-03-04 17:59:58  Recursion Stone is transferred from Jason to Agora per collection notice.
+2022-03-02 16:55:45  G. wields Protection Stone, specifying Protection Stone
+2022-03-02 01:12:07  Secretsnail9 wields Wealth Stone, specifying self.
+2022-03-02 00:17:12  Jason wields Recursion Stone as Protection Stone, specifying Power Stone.
+2022-02-21 15:23:28  Secretsnail9 wields Wealth Stone, specifying self.
+2022-02-20 23:42:37  Power Stone is transferred to Jason from Agora in auction resolution.
+2022-02-20 23:42:37  Wealth Stone is transferred to Secretsnail9 from Agora in auction resolution.
+2022-02-07 01:53:16  Recursion Stone ceases being immune after collection notice.
+2022-02-07 01:53:16  Protection Stone ceases being immune after collection notice.
+2022-02-07 01:53:16  Alchemy Stone is transferred from Trigon to Agora per collection notice.
+2022-02-07 01:53:16  Wealth Stone is transferred from G. to Agora per collection notice.
+2022-02-04 19:06:56  G. wields Wealth Stone, specifying self.
+2022-02-03 04:26:16  G. wields Protection Stone, specifying Protection Stone.
+2022-02-03 03:19:01  Jason wields Recursion Stone, specifying Protection Stone, specifying Recursion Stone.
+2022-01-30 22:34:39  G. wields Wealth Stone, specifying self.
+2022-01-23 20:28:24  G. wields Wealth Stone, specifying self.
+2022-01-15 19:39:36  Alchemy Stone is transferred to Trigon from Agora in auction resolution.
+2022-01-15 19:39:36  Blank Stone is transferred to Trigon from Agora in auction resolution.
+2022-01-12 18:31:23  G. wields Wealth Stone, specifying self.
+2022-01-04 17:40:25  Recursion Stone ceases being immune after collection notice.
+2022-01-04 17:40:25  Protection Stone ceases being immune after collection notice.
+2022-01-04 17:40:25  Concentration Stone is transferred from Jason to Agora per collection notice.
+2022-01-04 17:40:25  Soul Stone is transferred from Jason to Agora per collection notice.
+2022-01-04 03:00:28  Jason wields Concentration Stone, specifying self.
+2022-01-02 04:36:12  Jason wields Recursion Stone, specifying Protection Stone, specifying Recursion Stone.
+2021-12-31 23:51:52  G. wields Protection Stone, specifying Protection Stone.
+2021-12-31 23:51:52  G. wields Wealth Stone, specifying self.
+2021-12-17 17:32:23  G. wields Wealth Stone, specifying self.
+2021-12-17 04:19:59  Protection Stone is transferred to G. from Agora in auction resolution.
+2021-12-17 04:19:59  Recursion Stone is transferred to Jason from Agora in auction resolution.
+2021-12-08 21:12:02  G. wields Wealth Stone, specifying self.
+2021-12-08 18:10:01  Wealth Stone is transferred to G. from Agora in auction resolution.
+2021-12-08 18:10:01  Soul Stone is transferred to Jason from Agora in auction resolution.
+2021-12-04 03:16:26  Jason wields Concentration Stone, specifying self.
+2021-11-04 01:09:15  Alchemy Stone is transferred from Trigon to Agora per collection notice.
+2021-11-04 01:09:15  Recursion Stone is transferred from Trigon to Agora per collection notice.
+2021-11-04 01:09:15  Wealth Stone is transferred from ais523 to Agora per collection notice.
+2021-11-04 00:59:15  Jason wields Concentration Stone, specifying self.
+2021-11-01 00:07:40  ais523 wields Wealth Stone, specifying self.
+2021-10-31 21:49:26  Trigon wields Recursion Stone, specifying Wealth Stone, specifying Jason.
+2021-10-25 00:07:21  ais523 wields Wealth Stone, specifying self.
+2021-10-20 20:12:26  ais523 wields Wealth Stone, specifying self.
+2021-10-18 20:55:11  Alchemy Stone is transferred to Trigon from Agora in auction resolution.
+2021-10-18 20:55:11  Recursion Stone is transferred to Trigon from Agora in auction resolution.
+2021-10-12 13:48:48  ais523 wields Wealth Stone, specifying self.
+2021-10-06 23:27:13  Wealth Stone ceases being immunte after collection notice.
+2021-10-06 23:27:13  Protection Stone is transferred from ais523 to Agora per collection notice.
+2021-10-06 23:27:13  Sabotage Stone is transferred from Jason to Agora per collection notice.
+2021-10-06 23:27:13  Soul Stone is transferred from Jason to Agora per collection notice.
+2021-10-06 23:27:13  Power Stone is transferred from Jason to Agora per collection notice.
+2021-10-06 14:16:08  Jason wields Concentration Stone, specifying self.
+2021-10-05 21:24:32  ais523 wields Wealth Stone, specifying self.
+2021-10-04 15:14:17  Jason wields Power Stone, specifying self.
+2021-10-04 15:08:48  Jason wields Sabotage Stone, specifying referendum on Proposal 8630.
+2021-10-02 22:50:43  ais523 wields Protection Stone, specifying Wealth Stone.
+2021-10-02 22:42:43  Protection Tone is transferred to ais523 from Agora in auction resolution.
+2021-10-02 21:00:26  Sabotage Stone is transferred to Jason from Agora in auction resolution.
+2021-10-02 21:00:26  Soul Stone is transferred to Jason from Agora in auction resolution.
+2021-10-02 20:12:23  ais523 wields Wealth Stone, specifying self.
+2021-09-22 17:52:56  ais523 wields Wealth Stone, specifying self.
+2021-09-20 21:15:06  Jason wields Concentration Stone, specifying self.
+2021-09-15 18:55:17  ais523 wields Wealth Stone, specifying self.
+2021-09-15 18:01:19  Jason wields Power Stone, specifying self.
+2021-09-15 18:00:14  Concentration Stone is transfered to Jason from Agora in auction resolution.
+2021-09-15 18:00:14  Wealth Stone is transfered to ais523 from Agora in auction resolution.
+2021-09-15 18:00:14  Power Stone is transfered to Jason from Agora in auction resolution.
+2021-08-17 02:30:29  All stones are transfered to Agora after Gauntlet Noticing.
+2021-08-13 02:30:29  R. Lee Notices the Gauntlet, specifying R. Lee.
+2021-08-13 02:26:45  Jason transfers Sabotage Stone to R. Lee.
+2021-08-13 01:52:34  G. transfers Wealth Stone to R. Lee.
+2021-08-13 01:53:34  G. wields Wealth Stone, specifying self.
+2021-08-12 23:50:18  Soul Stone is transferred to R. Lee from Agora in auction resolution.
+2021-08-12 23:50:18  Power Stone is transferred to R. Lee from Agora in auction resolution.
+2021-08-02 19:49:03  G. wields Wealth Stone, specifying self.
+2021-08-01 04:36:13  R. Lee wields Concentration Stone, specifying self.
+2021-08-01 01:05:34  Concentration Stone ceases being immune after collection notice.
+2021-08-01 01:05:34  Power Stone is transfered from G. to Agora per collection notice.
+2021-07-30 17:51:06  G. wields Wealth Stone, specifying self.
+2021-07-21 22:53:35  Trigon wields Protection Stone, specifying Concentration Stone.
+2021-07-21 00:19:14  G. wields Wealth Stone, specifying self.
+2021-07-20 23:24:42  R. Lee wields Concentration Stone, specifying self.
+2021-07-20 21:54:17  Protection Stone is transferred to Trigon from Agora in auction resolution.
+2021-07-20 21:54:17  Concentration Stone is transferred to R. Lee from Agora in auction resolution.
+2021-07-20 21:54:17  Sabotage Stone is transferred to Jason from Agora in auction resolution.
+2021-07-13 20:24:09  G. wields Wealth Stone, specifying self.
+2021-07-07 02:20:43  G. wields Wealth Stone, specifying self.
+2021-07-02 19:14:16  Concentration Stone is transferred from Jason to Agora per collection notice.
+2021-06-28 15:45:19  G. wields Wealth Stone, specifying self.
+2021-06-21 02:03:01  G. wields Wealth Stone, specifying self.
+2021-06-21 02:03:01  G. wields Power Stone, specifying self.
+2021-06-17 13:32:19  Jason wields Concentration Stone, specifying self.
+2021-06-15 23:14:06  G. wields Wealth Stone, specifying self.
+2021-06-15 23:14:06  G. wields Power Stone, specifying self.
+2021-06-15 21:59:28  Concentration Stone is transferred to Jason from Agora in auction resolution.
+2021-06-15 21:59:28  Wealth Stone is transferred to G. from Agora in auction resolution.
+2021-06-15 21:59:28  Power Stone is transferred to G. from Agora in auction resolution.
+2021-05-30 15:25:14  Falsifian wields the Gauntlet. All stones are transferred to Agora.
+2021-05-29 00:14:31  Jason transfers Protection Stone to Falsifian.
+2021-05-29 00:14:31  Jason transfers Sabotage Stone to Falsifian.
+2021-05-29 00:14:31  Jason transfers Soul Stone to Falsifian.
+2021-05-28 01:25:16  Jason transfers Concentration Stone to Falsifian.
+2021-05-28 01:25:16  Jason wields Concentration Stone, specifying self.
+2021-05-28 01:25:16  Jason transfers Power Stone to Falsifian.
+2021-05-28 01:25:16  Protection Stone is transferred to Jason from Agora in auction resolution.
+2021-05-28 01:25:16  Concentration Stone is transferred to Jason from Agora in auction resolution.
+2021-05-28 01:25:16  Sabotage Stone is transferred to Jason from Agora in auction resolution.
+2021-05-28 01:25:16  Soul Stone is transferred to Jason from Agora in auction resolution.
+2021-05-27 17:10:31  Jason wields Power Stone, specifying self.
+2021-05-23 15:26:30  Jason wields Power Stone, specifying self.
+2021-05-17 16:15:52  Gaelan wields Wealth Stone, specifying self.
+2021-05-12 17:44:58  Jason wields Power Stone, specifying self.
+2021-05-09 20:42:11  Gaelan wields Wealth Stone, specifying self.
+2021-05-01 10:05:32  Wealth Stone ceases being immune after collection notice.
+2021-05-01 10:05:32  Protection Stone is transferred from Gaelan to Agora per collection notice.
+2021-05-01 06:55:02  Gaelan wields Wealth Stone, specifying self.
+2021-04-19 07:02:57  Gaelan wields Wealth Stone, specifying self.
+2021-04-12 00:18:14  Gaelan wields Wealth Stone, specifying self.
+2021-04-11 23:52:10  Gaelan wields Wealth Stone, specifying self.
+2021-04-04 01:37:08  Gaelan wields Protection Stone, specifying Wealth Stone.
+2021-04-04 01:37:08  Gaelan wields Wealth Stone, specifying self.
+2021-04-01 15:38:10  Jason wields Power Stone, specifying self.
+2021-04-01 15:12:35  Wealth Stone ceases being immune after collection notice.
+2021-04-01 15:12:35  Concentration Stone is transferred from Jason to Agora per collection notice.
+2021-04-01 15:12:35  Sabotage Stone is transferred from G. to Agora per collection notice.
+2021-04-01 15:12:35  Soul Stone is transferred from Cuddlebeam to Agora per collection notice.
+2021-03-25 18:27:27  G. wields Sabotage Stone, specifying referendum on Proposal 8552.
+2021-03-23 21:19:37  Jason wields Power Stone, specifying self.
+2021-03-15 20:17:51  Jason transfers Power Stone from Agora after auction resolution.
+2021-03-15 20:15:07  G. transfers Sabotage Stone from Agora after auction resolution.
+2021-03-15 19:38:21  Gaelan wields Protection Stone, specifying Wealth Stone.
+2021-03-15 19:38:21  Gaelan wields Wealth Stone, specifying self.
+2021-03-15 19:38:21  Gaelan transfers Protection Stone from Agora after auction resolution.
+2021-03-15 19:38:21  Gaelan transfers Wealth Stone from Agora after auction resolution.
+2021-03-01 16:23:14  Jason wields Concentration Stone, specifying self.
+2021-03-01 15:30:27  Concentration Stone ceases being immune after collection notice.
+2021-03-01 15:30:27  Protection Stone is transferred from Falsifian to Agora per collection notice.
+2021-03-01 15:30:27  Sabotage Stone is transferred from ATMunn to Agora per collection notice.
+2021-03-01 15:30:27  Wealth Stone is transferred from Gaelan to Agora per collection notice.
+2021-03-01 15:30:27  Power Stone is transferred from Murphy to Agora per collection notice.
+2021-02-23 07:47:20  Gaelan wields Wealth Stone, specifying self.
+2021-02-21 23:07:15  ATMunn transfers Sabotage Stone from Agora after auction resolution.
+2021-02-15 02:54:17  Gaelan wields Wealth Stone, specifying self.
+2021-02-14 22:22:47  Gaelan wields Wealth Stone, specifying self.
+2021-02-14 22:22:47  Gaelan transfers Wealth Stone from Agora after auction resolution.
+2021-02-14 17:14:09  Jason wields Concentration Stone, specifying self.
+2021-02-14 17:14:09  Falsifian transfers Concentration Stone to Jason.
+2021-02-14 17:10:39  Falsifian wields Protection Stone, specifying Concentration Stone.
+2021-02-14 17:05:32  Falsifian transfers Soul Stone from self to Cuddlebeam with Soul Stone.
+2021-02-14 17:05:32  Falsifian transfers Concentration Stone from Cuddlebeam to self with Soul Stone.
+2021-02-02 20:20:34  Cuddlebeam transfers Soul Stone from self to Falsifian with Soul Stone.
+2021-02-02 20:20:34  Cuddlebeam transfers Concentration Stone from Falsifian to self with Soul Stone.
+2021-02-02 19:59:25  Protection Stone ceases being immune after Collection Notice.
+2021-01-31 20:59:37  Falsifian wields Protection Stone, specifying Protection Stone.
+2021-01-20 02:08:27  Falsifian transfers Soul Stone from self to Cuddlebeam with Soul Stone.
+2021-01-20 02:08:27  Falsifian transfers Concentration Stone from Cuddlebeam to self with Soul Stone.
+2021-01-18 21:42:15  Cuddlebeam wields Concentration Stone, specifying Gaelan.
+2021-01-18 21:04:55  ATMunn transfers Concentration Stone to Cuddlebeam.
+2021-01-17 00:15:02  Falsifian transfers Protection Stone from Agora after auction resolution.
+2021-01-17 00:15:02  Falsifian transfers Soul Stone from Agora after auction resolution.
+2021-01-13 20:53:54  ATMunn transfers Concentration Stone from Agora after auction resolution.
+2021-01-02 02:58:24  Protection Stone is transferred from Murphy to Agora per collection notice.
+2021-01-02 02:58:24  Sabotage Stone is transferred from Murphy to Agora per collection notice.
+2021-01-02 02:58:24  Wealth Stone is transferred from ATMunn to Agora per collection notice.
+2020-12-13 23:15:35  Murphy transfers Sabotage Stone from Agora after auction resolution.
+2020-12-13 23:15:35  Murphy transfers Protection Stone from Agora after auction resolution.
+2020-12-10 01:35:17  ATMunn wields Wealth Stone, specifying self.
+2020-12-10 01:30:18  ATMunn transfers Wealth Stone from Agora after auction resolution.
+2020-12-01 20:32:23  Concentration stone is transferred from Falsifian to Agora per collection notice.
+2020-11-27 18:16:18  Murphy transfers Power Stone from Agora from Agora after auction resolution.
+2020-11-26 16:06:57  Falsifian wields Concentration Stone, specifying self.
+2020-11-26 03:33:46  Falsifian transfers Concentration stone from Agora after auction resolution.
