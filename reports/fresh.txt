@@ -7,7 +7,7 @@ Wealth         Agora            2022-07-02    Agora
 Soul           Agora            2021-02-14    Agora
 Sabotage       Agora            2021-10-04    Agora
 Concentration  Agora            2021-01-04    Agora
-Protection     G.               2021-08-01
+Protection     G.               2021-09-01    Protection
 Recursion      Murphy           2022-07-24
 Hot Potato     Secretsnail9     2022-03-16
 Blank          Trigon
@@ -51,6 +51,7 @@ Tasty          transfer a bird to yourself. Escape risk: 70%.
 
 History:
 =======
+2022-09-01 00:31:19  G. wields Protection Stone, specifying Protection Stone.
 2022-08-31 22:39:35  Jason wields Power Stone, specifying self.
 2022-08-14 23:07:49  Secretsnail9 wields Tasty Stone, specifying Raven.
 2022-08-14 19:41:57  Hot Potato Stone is transferred to Secretsnail9 from Agora in auction resolution.
