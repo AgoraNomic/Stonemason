@@ -1,0 +1,28 @@
+The September Stone auction's bidding period has ended. The auction began at 21:09:50 on 2022-09-04, and
+the bidding period ended at 21:10:47 on 2022-09-08, four days after the final bid by Jason.
+
+There were two lots: [Wealth Stone], [Sabotage Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+
+[Wealth Stone]   -> Jason for 1 coin
+[Sabotage Stone] -> Jason for 1 coin
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 1 of Jason's coins.
+I cause the Wealth Stone to be transferred to Jason.
+}
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 1 of Jason's coins.
+I cause the Sabotage Stone to be transferred to Jason.
+}
+
+Bid history:
+
+Date                 Player            Preferred Lot  Amount (coins)
+-------------------  ----------------  -------------  --------------
+2022-09-04 21:10:47  Jason             Sabotage          1
+2022-09-04 21:10:47  Jason             Wealth            1
