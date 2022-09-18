@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone          Owner            Last Wielded  Immune?
 -------------  ---------------  ------------  -------
 Power          Jason            2022-08-31
-Wealth         Jason            2022-09-11
+Wealth         Jason            2022-09-18
 Soul           Agora            2021-02-14    Agora
 Sabotage       Jason            2021-10-04
 Protection     G.               2021-09-01
@@ -51,6 +51,7 @@ Jockey         a specified Running horse's Race Position is increased by
 
 History:
 =======
+2022-09-18 18:22:29  Jason wields Wealth Stone, specifying self.
 2022-09-11 22:19:33  Jason wields Wealth Stone, specifying self.
 2022-09-11 21:54:00  Sabotage Stone is transferred to Jason from Agora in auction resolution.
 2022-09-11 21:54:00  Wealth Stone is transferred to Jason from Agora in auction resolution.
