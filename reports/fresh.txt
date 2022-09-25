@@ -5,7 +5,7 @@ Stone          Owner            Last Wielded  Immune?
 Power          Jason            2022-09-25
 Wealth         Jason            2022-09-25
 Soul           Agora            2021-02-14    Agora
-Sabotage       Jason            2021-10-04
+Sabotage       Jason            2022-09-25
 Protection     G.               2021-09-01
 Recursion      Agora            2022-07-24    Agora
 Hot Potato     Agora            2022-09-03    Agora
@@ -51,6 +51,7 @@ Jockey         a specified Running horse's Race Position is increased by
 
 History:
 =======
+2022-09-25 05:56:52  Jason wields the Sabotage Stone, specifying referendum on Proposal 8557.
 2022-09-25 05:56:52  Jason wields the Wealth Stone, specifying self.
 2022-09-25 05:56:52  Jason wields the Power Stone, specifying self.
 2022-09-18 18:22:29  Jason wields Wealth Stone, specifying self.
