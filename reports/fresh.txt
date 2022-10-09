@@ -3,15 +3,15 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone          Owner            Last Wielded  Immune?
 -------------  ---------------  ------------  -------
 Power          Jason            2022-10-02
-Wealth         Jason            2022-10-02
+Wealth         Agora            2022-10-02    Agora
 Soul           Agora            2021-02-14    Agora
-Sabotage       Jason            2022-09-25
-Protection     G.               2021-10-02    Protection
+Sabotage       Agora            2022-09-25    Agora
+Protection     G.               2021-10-02
 Recursion      Agora            2022-07-24    Agora
 Hot Potato     Agora            2022-09-03    Agora
 Blank          Trigon
 Alchemy        Agora            2022-03-27    Agora
-Tasty          Secretsnail9     2022-08-14
+Tasty          Agora            2022-08-14    Agora
 Jockey         Agora                          Agora
 
 Summary of stone functions:
@@ -51,6 +51,10 @@ Jockey         a specified Running horse's Race Position is increased by
 
 History:
 =======
+2022-10-05 03:58:08  Protection Stone ceases being immune after collection notice.
+2022-10-05 03:58:08  Tasty Stone is transferred from Jason to Secretsnail9 per collection notice.
+2022-10-05 03:58:08  Sabotage Stone is transferred from Jason to Agora per collection notice.
+2022-10-05 03:58:08  Wealth Stone is transferred from Jason to Agora per collection notice.
 2022-10-02 23:07:35  G. wields Protection Stone, specifying Protection Stone.
 2022-10-02 22:39:35  Jason wields Power Stone, specifying self.
 2022-10-02 22:39:35  Jason wields Wealth Stone, specifying self.
