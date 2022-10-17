@@ -1,0 +1,40 @@
+The October Stone auction's bidding period has ended. The auction began at 04:15:00 on 2022-10-09, and
+the bidding period ended at 22:08:01 on 2022-10-15, four days after the final bid by snail.
+
+There were two lots: [Jockey Stone], [Recursion Stone].
+
+This auction was a selective-bid auction. The awardees are as follows:
+
+[Jockey Stone]    -> snail for 122 coins
+[Recursion Stone] -> snail for 122 coins
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 122 of snail's coins.
+I cause the Jockey Stone to be transferred to snail.
+}
+
+I perform the following actions if and only if they all succeed:
+{
+I destroy 122 of snail's coins.
+I cause the Recursion Stone to be transferred to snail.
+}
+
+Bid history:
+
+Date                 Player            Preferred Lot  Amount (coins)
+-------------------  ----------------  -------------  --------------
+2022-10-11 22:08:01  snail             Recursion       122
+2022-10-11 22:08:01  snail             Jockey          122
+2022-10-11 20:13:25  Jason             Recursion       101
+2022-10-11 20:13:25  Jason             Jockey          101
+2022-10-09 22:31:26  Jason             Recursion       100
+2022-10-09 22:31:26  Jason             Jockey          100
+2022-10-09 21:22:51  snail             Recursion        80
+2022-10-09 21:22:51  snail             Jockey           80
+2022-10-09 21:18:48  Murphy            Recursion        50
+2022-10-09 21:18:48  Murphy            Jockey           50
+2022-10-09 04:28:39  snail             Recursion        20
+2022-10-09 04:28:39  snail             Jockey           20
+2022-10-09 04:16:10  Jason             Recursion         1
+2022-10-09 04:16:10  Jason             Jockey            1
