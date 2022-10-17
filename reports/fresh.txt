@@ -7,12 +7,12 @@ Wealth         Agora            2022-10-02    Agora
 Soul           Agora            2021-02-14    Agora
 Sabotage       Agora            2022-09-25    Agora
 Protection     G.               2021-10-02
-Recursion      Secretsnail9     2022-07-24
+Recursion      snail            2022-07-24
 Hot Potato     Agora            2022-09-03    Agora
 Blank          Trigon
 Alchemy        Agora            2022-03-27    Agora
 Tasty          Agora            2022-08-14    Agora
-Jockey         Secretsnail9
+Jockey         snail
 
 Summary of stone functions:
 
@@ -51,10 +51,10 @@ Jockey         a specified Running horse's Race Position is increased by
 
 History:
 =======
-2022-10-17 03:00:08  Recursion Stone is transferred to Secretsnail9 from Agora in auction resolution.
-2022-10-17 03:00:08  Jockey Stone is transferred to Secretsnail9 from Agora in auction resolution.
+2022-10-17 03:00:08  Recursion Stone is transferred to snail from Agora in auction resolution.
+2022-10-17 03:00:08  Jockey Stone is transferred to snail from Agora in auction resolution.
 2022-10-05 03:58:08  Protection Stone ceases being immune after collection notice.
-2022-10-05 03:58:08  Tasty Stone is transferred from Jason to Secretsnail9 per collection notice.
+2022-10-05 03:58:08  Tasty Stone is transferred from Jason to snail per collection notice.
 2022-10-05 03:58:08  Sabotage Stone is transferred from Jason to Agora per collection notice.
 2022-10-05 03:58:08  Wealth Stone is transferred from Jason to Agora per collection notice.
 2022-10-02 23:07:35  G. wields Protection Stone, specifying Protection Stone.
@@ -68,18 +68,18 @@ History:
 2022-09-11 21:54:00  Sabotage Stone is transferred to Jason from Agora in auction resolution.
 2022-09-11 21:54:00  Wealth Stone is transferred to Jason from Agora in auction resolution.
 2022-09-03 21:01:34  Protection Stone ceases being immune after collection notice.
-2022-09-03 21:01:34  Hot Potato Stone is transferred from Secretsnail9 to Agora per collection notice.
+2022-09-03 21:01:34  Hot Potato Stone is transferred from snail to Agora per collection notice.
 2022-09-03 21:01:34  Recursion Stone is transferred from Murphy to Agora per collection notice.
-2022-09-03 08:16:43  Hot Potato Stone is transferred to Secretsnail9 from Agora due to Bowerbird.
-2022-09-03 08:16:43  Secretsnail9 transfers Hot Potato Stone to juan.
-2022-09-03 08:16:43  Secretsnail9 wields Hot Potato Stone.
+2022-09-03 08:16:43  Hot Potato Stone is transferred to snail from Agora due to Bowerbird.
+2022-09-03 08:16:43  snail transfers Hot Potato Stone to juan.
+2022-09-03 08:16:43  snail wields Hot Potato Stone.
 2022-09-01 00:31:19  G. wields Protection Stone, specifying Protection Stone.
 2022-08-31 22:39:35  Jason wields Power Stone, specifying self.
 2022-08-30 03:44:33  Jockey Stone created by Proposal 8842.
 2022-08-30 03:44:33  Concentration Stone destroyed by Proposal 8842.
-2022-08-14 23:07:49  Secretsnail9 wields Tasty Stone, specifying Raven.
-2022-08-14 19:41:57  Hot Potato Stone is transferred to Secretsnail9 from Agora in auction resolution.
-2022-08-14 19:41:57  Tasty Stone is transferred to Secretsnail9 from Agora in auction resolution.
+2022-08-14 23:07:49  snail wields Tasty Stone, specifying Raven.
+2022-08-14 19:41:57  Hot Potato Stone is transferred to snail from Agora in auction resolution.
+2022-08-14 19:41:57  Tasty Stone is transferred to snail from Agora in auction resolution.
 2022-08-07 20:02:46  Recursion Stone ceases being immune after collection notice.
 2022-08-07 20:02:46  Protection Stone ceases being immune after collection notice.
 2022-08-07 20:02:46  Sabotage Stone is transferred from Murphy to Agora per collection notice.
@@ -104,37 +104,37 @@ History:
 2022-05-03 23:25:04  Wealth Stone is transferred from Jason to Agora per collection notice.
 2022-05-03 23:25:04  Power Stone is transferred from Jason to Agora per collection notice.
 2022-05-03 23:23:06  Jason wields Power Stone, specifying self.
-2022-05-03 00:08:13  Secretsnail9 wields Wealth Stone, specifying self.
+2022-05-03 00:08:13  snail wields Wealth Stone, specifying self.
 2022-05-01 15:51:23  G. wields Protection Stone, specifying Protection Stone.
-2022-05-01 00:16:02  Secretsnail9 wields Wealth Stone, specifying self.
-2022-04-24 23:44:23  Secretsnail9 wields Wealth Stone, specifying self.
+2022-05-01 00:16:02  snail wields Wealth Stone, specifying self.
+2022-04-24 23:44:23  snail wields Wealth Stone, specifying self.
 2022-04-23 21:36:05  Jason wields Power Stone, specifying self.
-2022-04-10 07:03:31  Secretsnail9 wields Wealth Stone, specifying self.
+2022-04-10 07:03:31  snail wields Wealth Stone, specifying self.
 2022-04-03 05:21:28  Protection Stone ceases being immune after collection notice.
 2022-04-03 05:21:28  Alchemy stone is transferred from Jason to Agora per collection notice.
 2022-04-03 05:21:28  Hot Potato stone is transferred from Gaelan to Agora per collection notice.
 2022-04-01 00:25:34  G. wields Protection Stone, specifying Protection Stone.
 2022-03-31 16:28:50  Jason wields Power Stone, specifying self.
-2022-03-28 20:08:21  Secretsnail9 wields Wealth Stone, specifying self.
+2022-03-28 20:08:21  snail wields Wealth Stone, specifying self.
 2022-03-27 01:46:56  Jason wields Power Stone, specifying self.
 2022-03-27 01:39:29  Jason wields Alchemy Stone, specifying 1 win card, 3 legislative cards, and 7 winsomes.
-2022-03-24 22:22:46  Secretsnail9 wields Wealth Stone, specifying self.
-2022-03-18 03:34:21  Secretsnail9 wields Wealth Stone, specifying self.
+2022-03-24 22:22:46  snail wields Wealth Stone, specifying self.
+2022-03-18 03:34:21  snail wields Wealth Stone, specifying self.
 2022-03-16 22:08:10  Jason transfers Hot Potato stone to Gaelan.
 2022-03-16 22:08:10  Jason wields Hot Potato stone.
 2022-03-16 22:03:17  Alchemy Stone is transferred to Jason from Agora in auction resolution.
 2022-03-16 22:03:17  Hot Potato Stone is transferred to Jason from Agora in auction resolution.
-2022-03-12 01:58:38  Secretsnail9 wields Wealth Stone, specifying self.
+2022-03-12 01:58:38  snail wields Wealth Stone, specifying self.
 2022-03-08 23:15:29  Jason wields Power Stone, specifying self.
 2022-03-04 17:59:58  Protection Stone ceases being immune after collection notice.
 2022-03-04 17:59:58  Power Stone ceases being immune after collection notice.
 2022-03-04 17:59:58  Recursion Stone is transferred from Jason to Agora per collection notice.
 2022-03-02 16:55:45  G. wields Protection Stone, specifying Protection Stone
-2022-03-02 01:12:07  Secretsnail9 wields Wealth Stone, specifying self.
+2022-03-02 01:12:07  snail wields Wealth Stone, specifying self.
 2022-03-02 00:17:12  Jason wields Recursion Stone as Protection Stone, specifying Power Stone.
-2022-02-21 15:23:28  Secretsnail9 wields Wealth Stone, specifying self.
+2022-02-21 15:23:28  snail wields Wealth Stone, specifying self.
 2022-02-20 23:42:37  Power Stone is transferred to Jason from Agora in auction resolution.
-2022-02-20 23:42:37  Wealth Stone is transferred to Secretsnail9 from Agora in auction resolution.
+2022-02-20 23:42:37  Wealth Stone is transferred to snail from Agora in auction resolution.
 2022-02-07 01:53:16  Recursion Stone ceases being immune after collection notice.
 2022-02-07 01:53:16  Protection Stone ceases being immune after collection notice.
 2022-02-07 01:53:16  Alchemy Stone is transferred from Trigon to Agora per collection notice.
