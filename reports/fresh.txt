@@ -9,7 +9,7 @@ Sabotage       Agora            2022-09-25    Agora
 Protection     G.               2021-10-02
 Recursion      snail            2022-11-06
 Hot Potato     Agora            2022-09-03    Agora
-Blank          Trigon
+Blank          Agora                          Agora
 Alchemy        Agora            2022-03-27    Agora
 Tasty          Agora            2022-08-14    Agora
 Jockey         snail            2022-11-06
@@ -53,6 +53,7 @@ History:
 =======
 2022-11-06 20:10:22  snail wields Recursion Stone, specifying Jockey Stone, specifying Fargo.
 2022-11-06 20:10:22  snail wields Jockey Stone, specifying Fargo.
+2022-10-31 12:38:35  Blank Stone is transferred from Trigon to Agora after deregistration.
 2022-10-17 03:00:08  Recursion Stone is transferred to snail from Agora in auction resolution.
 2022-10-17 03:00:08  Jockey Stone is transferred to snail from Agora in auction resolution.
 2022-10-05 03:58:08  Protection Stone ceases being immune after collection notice.
