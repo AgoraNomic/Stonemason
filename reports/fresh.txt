@@ -2,17 +2,17 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone          Owner            Last Wielded  Immune?
 -------------  ---------------  ------------  -------
-Power          Jason            2022-10-02
+Power          Agora            2022-10-02    Agora
 Wealth         Agora            2022-10-02    Agora
 Soul           Agora            2021-02-14    Agora
 Sabotage       Agora            2022-09-25    Agora
 Protection     G.               2021-10-02
-Recursion      snail            2022-11-06
+Recursion      Agora            2022-11-06    Agora
 Hot Potato     Agora            2022-09-03    Agora
 Blank          Agora                          Agora
 Alchemy        Agora            2022-03-27    Agora
 Tasty          Agora            2022-08-14    Agora
-Jockey         snail            2022-11-06
+Jockey         Agora            2022-11-06    Agora
 
 Summary of stone functions:
 
@@ -51,6 +51,9 @@ Jockey         a specified Running horse's Race Position is increased by
 
 History:
 =======
+2022-11-07 02:56:14  Jockey Stone is transferred from snail to Agora per collection notice.
+2022-11-07 02:56:14  Recursion Stone is transferred from snail to Agora per collection notice.
+2022-11-07 02:56:14  Power Stone is transferred from Jason to Agora per collection notice.
 2022-11-06 20:10:22  snail wields Recursion Stone, specifying Jockey Stone, specifying Fargo.
 2022-11-06 20:10:22  snail wields Jockey Stone, specifying Fargo.
 2022-10-31 12:38:35  Blank Stone is transferred from Trigon to Agora after deregistration.
