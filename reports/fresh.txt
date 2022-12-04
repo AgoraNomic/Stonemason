@@ -6,7 +6,7 @@ Power          Agora            2022-10-02    Agora
 Wealth         Agora            2022-10-02    Agora
 Soul           Agora            2021-02-14    Agora
 Sabotage       Agora            2022-09-25    Agora
-Protection     G.               2021-11-30    Protection
+Protection     G.               2021-11-30
 Recursion      Agora            2022-11-06    Agora
 Hot Potato     Agora            2022-09-03    Agora
 Blank          Agora                          Agora
@@ -51,6 +51,7 @@ Jockey         a specified Running horse's Race Position is increased by
 
 History:
 =======
+2022-12-04 20:12:05  Protection Stone ceases being immune after collection notice.
 2022-11-30 17:41:19  G. wields Protection Stone, specifying Protection Stone.
 2022-11-07 02:56:14  Jockey Stone is transferred from snail to Agora per collection notice.
 2022-11-07 02:56:14  Recursion Stone is transferred from snail to Agora per collection notice.
