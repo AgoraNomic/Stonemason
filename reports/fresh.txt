@@ -1,58 +1,59 @@
 THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
-Stone          Owner            Last Wielded  Immune?
--------------  ---------------  ------------  -------
-Power          Agora            2022-10-02    Agora
-Wealth         Agora            2022-10-02    Agora
-Soul           Agora            2021-02-14    Agora
-Sabotage       Agora            2022-09-25    Agora
-Protection     G.               2021-11-30
-Recursion      Agora            2022-11-06    Agora
-Hot Potato     Agora            2022-09-03    Agora
-Blank          Agora                          Agora
-Alchemy        Agora            2022-03-27    Agora
-Tasty          Agora            2022-08-14    Agora
-Jockey         Agora            2022-11-06    Agora
+Stone            Owner            Last Wielded  Immune?
+-------------    ---------------  ------------  -------
+Power            Agora            2022-10-02    Agora
+Soul             Agora            2021-02-14    Agora
+Sabotage         Agora            2022-09-25    Agora
+Jockey           Agora            2022-11-06    Agora
+Protection       G.               2021-11-30
+Recursion        Agora            2022-11-06    Agora
+Hot Potato       Agora            2022-09-03    Agora
+Blank            Agora                          Agora
+Mason's          Janet
+Anti-Equatorial  Agora                          Agora
+Score            Agora                          Agora
 
 Summary of stone functions:
 
-Power          a specified player's strength is increased by 3 on a
-               specified Agoran decision. Escape risk: 40%.
+Power            A specified player's strength is increased by 3 on a
+                 specified Agoran decision.
 
-Wealth         a specified player earns 5 boatloads of coins. Escape
-               risk: 50%.
+Soul             A specified non-immune stone is stolen by the
+                 wielder, then the Soul Stone is transferred to the
+                 robbed player.
 
-Soul           a specified non-immune stone is stolen by the
-               wielder, then the Soul Stone is transferred to the
-               robbed player. Escape risk: 50%.
+Sabotage         The AI of a specified AI-majority decision is
+                 increased by 1.
 
-Sabotage       the AI of a specified AI-majority decision is
-               increased by 1. Escape risk: 80%.
+Jockey           A specified Running horse's Race Position is increased by
+                 1.
 
-Protection     a specified stone becomes immune (until the next
-               Collection Notice). Escape risk: 70%.
+Protection       A specified stone becomes immune (until the next
+                 Collection Notice).
 
-Recursion      can be wielded as any other stone. Escape risk: 70%.
+Recursion        Can be wielded as any other stone.
 
-Hot Potato     gain 8 boatloads of coins if transferred to a player who
-               has not owned the stone since the last time Agora owned
-               it.  Escape risk: immune if wielded 3 or more times since
-               the last collection notice, else 100%.
+Hot Potato       Gain 8 boatloads of coins if transferred to a player who
+                 has not owned the stone since the last time Agora owned
+                 it.
 
-Blank          does nothing. Escape risk: 5%.
+Blank            Does nothing.
 
-Alchemy        pay four of your own cards to gain 7 products of
-               your choice. Escape risk: 70%.
+Mason's          If owned by Agora, automatically transferred to Stonemason.
+                 Never escapes.
 
-Tasty          transfer a bird to yourself. Escape risk: 70%.
+Anti-Equatorial  Steals the mossiest stone, then increases its own mossiness
+                 by one.
 
-Jockey         a specified Running horse's Race Position is increased by
-               1. Escape Risk: 60%.
+Score            A specified player's score is increased by 3.
 
 History:
 =======
 2022-12-04 20:12:05  Protection Stone ceases being immune after collection notice.
 2022-11-30 17:41:19  G. wields Protection Stone, specifying Protection Stone.
+2022-11-26 19:33:45  Mason's Stone is automatically transferred from Agora to Janet.
+2022-11-26 19:33:45  P8867 takes effect, changing the set of Stones.
 2022-11-07 02:56:14  Jockey Stone is transferred from snail to Agora per collection notice.
 2022-11-07 02:56:14  Recursion Stone is transferred from snail to Agora per collection notice.
 2022-11-07 02:56:14  Power Stone is transferred from Janet to Agora per collection notice.
