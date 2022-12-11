@@ -1,5 +1,8 @@
 THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
+REVISION 1 OF REPORT DATED 2O22-12-04
+ACCURATE AS OF NOW
+
 Stone            Owner            Last Wielded  Immune?
 -------------    ---------------  ------------  -------
 Power            Agora            2022-10-02    Agora
