@@ -1,18 +1,18 @@
 THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
-Stone            Owner            Last Wielded  Immune?
--------------    ---------------  ------------  -------
-Power            Agora            2022-10-02    Agora
-Soul             Agora            2021-02-14    Agora
-Sabotage         Agora            2022-09-25    Agora
-Jockey           Agora            2022-11-06    Agora
-Protection       G.               2021-11-30
-Recursion        Agora            2022-11-06    Agora
-Hot Potato       Agora            2022-09-03    Agora
-Blank            Agora                          Agora
-Mason's          Janet
-Anti-Equatorial  Agora                          Agora
-Score            Agora                          Agora
+Stone            Mossiness  Owner            Last Wielded  Immune?
+-------------    ---------  ---------------  ------------  -------
+Power                    1  Agora            2022-10-02    Agora
+Soul                     1  Agora            2021-02-14    Agora
+Sabotage                 1  Agora            2022-09-25    Agora
+Jockey                   1  Agora            2022-11-06    Agora
+Protection               1  G.               2021-11-30
+Recursion                1  Agora            2022-11-06    Agora
+Hot Potato               1  Agora            2022-09-03    Agora
+Blank                    1  Agora                          Agora
+Mason's                  1  Janet
+Anti-Equatorial          1  Agora                          Agora
+Score                    1  Agora                          Agora
 
 Summary of stone functions:
 
@@ -51,9 +51,10 @@ Score            A specified player's score is increased by 3.
 History:
 =======
 2022-12-04 20:12:05  Protection Stone ceases being immune after collection notice.
+2022-12-04 20:12:05  Collection notice.
 2022-11-30 17:41:19  G. wields Protection Stone, specifying Protection Stone.
 2022-11-26 19:33:45  Mason's Stone is automatically transferred from Agora to Janet.
-2022-11-26 19:33:45  P8867 takes effect, changing the set of Stones.
+2022-11-26 19:33:45  P8867 takes effect, changing the set of Stones, and setting all Mossiness values to 0.
 2022-11-07 02:56:14  Jockey Stone is transferred from snail to Agora per collection notice.
 2022-11-07 02:56:14  Recursion Stone is transferred from snail to Agora per collection notice.
 2022-11-07 02:56:14  Power Stone is transferred from Janet to Agora per collection notice.
