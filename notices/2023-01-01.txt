@@ -1,0 +1,27 @@
+I hereby publish the following collection notice:
+
+All random choices are made using AgoraBot in a public channel on the unofficial Discord. I affirm under penalty of No Faking that, to the best of my knowledge, the choices listed below had the probabilities listed below.
+
+Stones that escape do so in the order they are listed below.
+
+Escape Minimum: 5
+
+Stone            Owner            Smoothness   Mossiness  Slipperiness  Escape Eligible?
+-------------    ---------------  ----------   ---------  ------------  ----------------
+Power            Agora                     2           1             3  [Immune: Agora]
+Soul             Agora                     3           1             4  [Immune: Agora]
+Sabotage         Agora                     4           1             5  [Immune: Agora]
+Jockey           Agora                     3           1             4  [Immune: Agora]
+Protection       G.                        4           1             5  [Immune: Protection]
+Recursion        Agora                     4           1             5  [Immune: Agora]
+Hot Potato       Shy Owl                   5           0             5  YES
+Blank            Agora                     0           1             1  [Immune: Agora]
+Mason's          Janet                     0           0             0  NO
+Anti-Equatorial  Agora                     5           1             6  [Immune: Agora]
+Score            Agora                     3           1             4  [Immune: Agora]
+
+The following stones are hereby transferred to Agora:
+
+From Shy Owl: Hot Potato Stone
+
+The mossiness of each other Stone is incremented by 1.
