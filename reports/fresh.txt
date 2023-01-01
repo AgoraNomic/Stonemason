@@ -10,7 +10,7 @@ Protection               1  G.               2021-11-30
 Recursion                1  Agora            2022-11-06    Agora
 Hot Potato               0  Shy Owl          2022-12-19
 Blank                    1  Agora                          Agora
-Mason's                  1  Janet
+Mason's                  0  Janet
 Anti-Equatorial          1  Agora                          Agora
 Score                    1  Agora                          Agora
 
@@ -53,6 +53,7 @@ History:
 2022-12-19 03:04:05  snail wields Hot Potato Stone, transferring it to Shy Owl, and resetting mossiness.
 2022-12-19 03:04:05  snail transfers Hot Potato Stone from Agora to self, resetting mossiness.
 2022-12-04 20:12:05  Protection Stone ceases being immune after collection notice.
+2022-12-04 20:12:05  Mason's Stone's mossiness automatically reset to 0.
 2022-12-04 20:12:05  Collection notice.
 2022-11-30 17:41:19  G. wields Protection Stone, specifying Protection Stone.
 2022-11-26 19:33:45  Mason's Stone is automatically transferred from Agora to Janet.
