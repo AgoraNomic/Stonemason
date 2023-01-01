@@ -2,17 +2,17 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
-Power                    1  Agora            2022-10-02    Agora
-Soul                     1  Agora            2021-02-14    Agora
-Sabotage                 1  Agora            2022-09-25    Agora
-Jockey                   1  Agora            2022-11-06    Agora
-Protection               1  G.               2021-12-29    Protection
-Recursion                1  Agora            2022-11-06    Agora
-Hot Potato               0  Shy Owl          2022-12-19
-Blank                    1  Agora                          Agora
+Power                    2  Agora            2022-10-02    Agora
+Soul                     2  Agora            2021-02-14    Agora
+Sabotage                 2  Agora            2022-09-25    Agora
+Jockey                   2  Agora            2022-11-06    Agora
+Protection               2  G.               2021-12-29
+Recursion                2  Agora            2022-11-06    Agora
+Hot Potato               0  Agora            2022-12-19    Agora
+Blank                    2  Agora                          Agora
 Mason's                  0  Janet
-Anti-Equatorial          1  Agora                          Agora
-Score                    1  Agora                          Agora
+Anti-Equatorial          2  Agora                          Agora
+Score                    2  Agora                          Agora
 
 Summary of stone functions:
 
@@ -50,6 +50,10 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-01-01 21:30:15  Protection Stone ceaess being immune after collection notice.
+2023-01-01 21:30:15  Hot Potato Stone is transferred from Shy Owl to Agora per collection notice.
+2023-01-01 21:30:15  Mason's Stone's mossiness automatically reset to 0.
+2023-01-01 21:30:15  Collection notice.
 2022-12-29 23:02:40  G. wields Protection Stone, specifying Protection Stone.
 2022-12-19 03:04:05  snail wields Hot Potato Stone, transferring it to Shy Owl, and resetting mossiness.
 2022-12-19 03:04:05  snail transfers Hot Potato Stone from Agora to self, resetting mossiness.
