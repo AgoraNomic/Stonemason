@@ -5,7 +5,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 Power                    2  Agora            2022-10-02    Agora
 Soul                     2  Agora            2021-02-14    Agora
 Sabotage                 2  Agora            2022-09-25    Agora
-Jockey                   0  Murphy           2022-11-06
+Jockey                   0  Murphy           2023-01-22
 Protection               2  G.               2021-12-29
 Recursion                0  Murphy           2022-11-06
 Hot Potato               0  Agora            2022-12-19    Agora
@@ -50,6 +50,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-01-22 17:50:04  Murphy wields Jockey Stone, specifying Rupert.
 2023-01-22 17:50:04  Murphy transfers Recursion Stone from Agora to self, resetting mossiness.
 2023-01-22 17:50:04  Murphy transfers Jockey Stone from Agora to self, resetting mossiness.
 2023-01-16 05:29:53  snail wields Anti-Equatorial Stone. (No effect per CFJ 4003.)
