@@ -11,7 +11,7 @@ Recursion                2  Agora            2022-11-06    Agora
 Hot Potato               0  Agora            2022-12-19    Agora
 Blank                    2  Agora                          Agora
 Mason's                  0  Janet
-Anti-Equatorial          2  Agora                          Agora
+Anti-Equatorial          0  snail
 Score                    0  snail            2023-01-16
 
 Summary of stone functions:
@@ -50,6 +50,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-01-16 05:29:53  snail transfers Anti-Equatorial Stone from Agora to self, resetting mossiness.
 2023-01-16 01:21:34  snail wields Score Stone.
 2023-01-09 05:29:53  snail wields Score Stone.
 2023-01-09 05:29:53  snail transfers Score Stone from Agora to self, resetting mossiness.
