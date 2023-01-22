@@ -50,6 +50,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-01-16 05:29:53  snail wields Anti-Equatorial Stone. (No effect per CFJ 4003.)
 2023-01-16 05:29:53  snail transfers Anti-Equatorial Stone from Agora to self, resetting mossiness.
 2023-01-16 01:21:34  snail wields Score Stone.
 2023-01-09 05:29:53  snail wields Score Stone.
