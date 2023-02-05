@@ -10,7 +10,7 @@ Protection               2  snail            2023-02-01    Protection
 Recursion                0  Murphy           2023-01-22
 Hot Potato               0  Agora            2022-12-19    Agora
 Blank                    0  Murphy
-Anti-Equatorial          0  snail            2023-02-02
+Anti-Equatorial          1  snail            2023-02-02
 Score                    0  snail            2023-01-30
 
 Summary of stone functions:
@@ -47,7 +47,7 @@ Score            A specified player's score is increased by 3.
 History:
 =======
 2023-02-04 23:04:311 P8886 takes effect, repealing Mason's Stone.
-2023-02-02 07:56:68  snail wields Anti-Equatorial Stone, causing Protection Stone to be transferred to snail.
+2023-02-02 07:56:68  snail wields Anti-Equatorial Stone, causing Protection Stone to be transferred to snail, and increasing Mossiness by 1.
 2023-02-02 07:56:68  Sabotage Stone is transferred to snail with Soul Stone.
 2023-02-02 07:56:68  Soul Stone is transferred to Agora with Soul Stone.
 2023-02-02 07:56:68  snail wields Soul Stone, specifying Sabotage Stone.
