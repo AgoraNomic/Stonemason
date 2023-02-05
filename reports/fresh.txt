@@ -3,8 +3,8 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
 Power                    0  snail            2023-01-29
-Soul                     0  snail            2021-02-14
-Sabotage                 2  Agora            2022-09-25    Agora
+Soul                     0  Agora            2023-02-02    Agora
+Sabotage                 0  snail            2022-09-25
 Jockey                   0  Murphy           2023-01-22
 Protection               2  G.               2023-02-01    Protection
 Recursion                0  Murphy           2023-01-22
@@ -50,6 +50,9 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-02-02 07:56:68  Sabotage Stone is transferred to snail with Soul Stone.
+2023-02-02 07:56:68  Soul Stone is transferred to Agora with Soul Stone.
+2023-02-02 07:56:68  snail wields Soul Stone, specifying Sabotage Stone.
 2023-02-02 07:52:15  Murphy transfers Blank Stone from Agora to self, resetting mossiness.
 2023-02-01 15:01:56  G. wields Protection Stone, specifying Protection Stone.
 2023-01-30 00:27:36  snail wields Score Stone.
