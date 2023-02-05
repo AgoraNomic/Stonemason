@@ -6,7 +6,7 @@ Power                    0  snail            2023-01-29
 Soul                     0  snail            2021-02-14
 Sabotage                 2  Agora            2022-09-25    Agora
 Jockey                   0  Murphy           2023-01-22
-Protection               2  G.               2021-12-29
+Protection               2  G.               2023-02-01    Protection
 Recursion                0  Murphy           2023-01-22
 Hot Potato               0  Agora            2022-12-19    Agora
 Blank                    2  Agora                          Agora
@@ -50,6 +50,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-02-01 15:01:56  G. wields Protection Stone, specifying Protection Stone.
 2023-01-30 00:27:36  snail wields Score Stone.
 2023-01-30 00:27:36  snail transfers Soul Stone from Agora to self, resetting mossiness.
 2023-01-29 20:42:48  snail wields Score Stone.
