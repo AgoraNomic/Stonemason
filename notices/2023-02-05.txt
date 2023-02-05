@@ -1,0 +1,26 @@
+I hereby publish the following collection notice:
+
+All random choices are made using AgoraBot in a public channel on the unofficial Discord. I affirm under penalty of No Faking that, to the best of my knowledge, the choices listed below had the probabilities listed below.
+
+Stones that escape do so in the order they are listed below.
+
+Escape Minimum: 6
+
+Stone            Owner            Smoothness   Mossiness  Slipperiness  Escape Eligible?
+-------------    ---------------  ----------   ---------  ------------  ----------------
+Power            snail                     2           0             2  NO
+Soul             Agora                     3           0             3  NO
+Sabotage         snail                     4           0             4  NO
+Jockey           Murphy                    3           0             3  NO
+Protection       snail                     4           2             6  [Immune: Protection]
+Recursion        Murphy                    4           0             4  NO
+Hot Potato       Agora                     5           0             5  NO
+Blank            Murphy                    0           0             0  NO
+Anti-Equatorial  snail                     5           1             6  YES
+Score            snail                     3           0             3  NO
+
+The following stones are hereby transferred to Agora:
+
+From snail: Anti-Equatorial Stone
+
+The mossiness of each other Stone is incremented by 1.
