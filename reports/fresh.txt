@@ -9,7 +9,7 @@ Jockey                   0  Murphy           2023-01-22
 Protection               2  G.               2023-02-01    Protection
 Recursion                0  Murphy           2023-01-22
 Hot Potato               0  Agora            2022-12-19    Agora
-Blank                    2  Agora                          Agora
+Blank                    0  Murphy
 Mason's                  0  Janet
 Anti-Equatorial          0  snail
 Score                    0  snail            2023-01-30
@@ -50,6 +50,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-02-02 07:52:15  Murphy transfers Blank Stone from Agora to self, resetting mossiness.
 2023-02-01 15:01:56  G. wields Protection Stone, specifying Protection Stone.
 2023-01-30 00:27:36  snail wields Score Stone.
 2023-01-30 00:27:36  snail transfers Soul Stone from Agora to self, resetting mossiness.
