@@ -2,16 +2,16 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
-Power                    0  snail            2023-01-29
-Soul                     0  Agora            2023-02-02
-Sabotage                 0  snail            2022-09-25
-Jockey                   0  Murphy           2023-01-22
-Protection               2  snail            2023-02-01    Protection
-Recursion                0  Murphy           2023-01-22
-Hot Potato               0  Agora            2022-12-19
-Blank                    0  Murphy
-Anti-Equatorial          1  snail            2023-02-02
-Score                    0  snail            2023-01-30
+Power                    1  snail            2023-01-29
+Soul                     1  Agora            2023-02-02
+Sabotage                 1  snail            2022-09-25
+Jockey                   1  Murphy           2023-01-22
+Protection               3  snail            2023-02-01    Protection
+Recursion                1  Murphy           2023-01-22
+Hot Potato               1  Agora            2022-12-19
+Blank                    1  Murphy
+Anti-Equatorial          0  Agora            2023-02-02
+Score                    1  snail            2023-01-30
 
 Summary of stone functions:
 
@@ -46,6 +46,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-02-05 22:26:01  Anti-Equatorial Stone is transferred from snail to Agora per collection notice, resetting mossiness.
 2023-02-04 23:04:31  P8886 takes effect, repealing Mason's Stone.
 2023-02-02 07:56:68  snail wields Anti-Equatorial Stone, causing Protection Stone to be transferred to snail, and increasing Mossiness by 1.
 2023-02-02 07:56:68  Sabotage Stone is transferred to snail with Soul Stone.
