@@ -4,7 +4,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
 Power                    1  snail            2023-02-05
 Soul                     0  Murphy           2023-02-02
-Sabotage                 1  Murphy           2022-09-25
+Sabotage                 1  snail            2022-09-25
 Jockey                   1  Murphy           2023-01-22
 Protection               3  snail            2023-02-01    Protection
 Recursion                1  Murphy           2023-01-22
@@ -46,6 +46,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-02-06 03:01:31  Murphy transfers Sabotage Stone to snail.
 2023-02-06 03:01:31  Murphy transfers Score Stone to snail.
 2023-02-06 03:01:31  Murphy transfers Power Stone to snail.
 2023-02-06 02:52:13  snail Notices the Rock Garden.
