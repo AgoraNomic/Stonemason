@@ -7,7 +7,7 @@ Soul                     0  Murphy           2023-02-02
 Sabotage                 1  snail            2023-02-07
 Jockey                   1  Murphy           2023-01-22
 Protection               3  snail            2023-02-01    Protection
-Recursion                1  Murphy           2023-01-22
+Recursion                1  Murphy           2023-02-08
 Hot Potato               0  Murphy           2023-02-06
 Blank                    1  Murphy
 Anti-Equatorial          0  Agora            2023-02-02
@@ -46,6 +46,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-02-08 01:56:46  Murphy wields Recusion Stone, specifying Power Stone, specifying self.
 2023-02-07 21:13:08  snail wields Sabotage Stone, specifying referendum on P8899.
 2023-02-06 03:25:00  snail wields the Score Stone, specifying self.
 2023-02-06 03:25:00  snail wields the Power Stone, specifying self.
