@@ -49,6 +49,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-02-26 06:47:38  Janet reaches for Power Stone.
 2023-02-20 00:03:55  snail reaches for Power Stone.
 2023-02-20 00:03:55  snail wields Score Stone, specifying self.
 2023-02-20 00:00:00  snail gathers the Score Stone.
