@@ -49,6 +49,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-02-19 05:59:30  Janet reaches for Power Stone.
 2023-02-19 05:59:30  Janet wields Score Stone, specifying self.
 2023-02-19 05:59:30  Janet transfers Score Stone from Agora to self with Dream of Gardens, resetting mossiness.
 2023-02-19 05:59:30  Hot Potato Stone is transferred to Aspen with Hot Potato Stone.
