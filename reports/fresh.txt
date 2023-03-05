@@ -53,6 +53,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-02-27 20:01:42  snail reaches for Soul Stone.
 2023-02-27 00:00:00  snail gathers the Power Stone.
 2023-02-26 06:47:38  Janet transfers Power Stone from Agora to self with Dream of Gardens, resetting mossiness.
 2023-02-26 06:47:38  Janet reaches for Power Stone.
