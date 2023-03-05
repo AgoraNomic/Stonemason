@@ -53,6 +53,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-03 05:01:43  Janet reaches for Soul Stone.
 2023-03-03 05:01:43  Janet transfers Protection Stone from AGora to self with Dream of Gardens, resetting mossiness.
 2023-03-02 06:16:36  snail wields Score Stone, specifying self.
 2023-02-27 20:01:42  snail reaches for Soul Stone.
