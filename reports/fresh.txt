@@ -5,7 +5,7 @@ effect (i.e. that CFJ 4010 will be judged FALSE).
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
-Power                    0  Janet            2023-02-06
+Power                    0  snail            2023-02-06
 Soul                     0  Agora            2023-02-19
 Sabotage                 0  Agora            2023-02-07
 Jockey                   0  Agora            2023-02-08
@@ -53,6 +53,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-02-27 00:00:00  snail gathers the Power Stone.
 2023-02-26 06:47:38  Janet transfers Power Stone from Agora to self with Dream of Gardens, resetting mossiness.
 2023-02-26 06:47:38  Janet reaches for Power Stone.
 2023-02-20 00:03:55  snail reaches for Power Stone.
