@@ -1,8 +1,5 @@
 THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
-DISCLAIMER: This assumes that P8898 did not update the Dream of Gardens
-effect (i.e. that CFJ 4010 will be judged FALSE).
-
 Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
 Power                    0  snail            2023-02-06
