@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
 Power                    0  snail            2023-02-06
-Soul                     0  Agora            2023-02-19
+Soul                     0  Janet            2023-02-19
 Sabotage                 0  Agora            2023-02-07
 Jockey                   0  Agora            2023-02-08
 Protection               0  Janet            2023-02-01    Protection
@@ -50,6 +50,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-06 00:00:00  Janet gathers the Soul Stone.
 2023-03-03 05:01:43  Janet reaches for Soul Stone.
 2023-03-03 05:01:43  Janet transfers Protection Stone from AGora to self with Dream of Gardens, resetting mossiness.
 2023-03-02 06:16:36  snail wields Score Stone, specifying self.
