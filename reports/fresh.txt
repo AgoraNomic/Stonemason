@@ -11,7 +11,7 @@ Recursion                0  Agora            2023-02-08
 Hot Potato               0  Aspen            2023-03-06
 Blank                    0  Agora 
 Anti-Equatorial          0  Agora            2023-02-02
-Score                    0  snail            2023-03-02
+Score                    0  snail            2023-03-06
 
 Player           Base Rockiness
 ---------------  --------------
@@ -50,6 +50,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-06 01:03:08  snail wields Score Stone, specifying self.
 2023-03-06 01:03:08  snail wields Power Stone, specifying self.
 2023-03-06 00:00:00  Janet reaches for Anti-Equatorial Stone.
 2023-03-06 00:00:00  Hot Potato Stone is transferred from Janet to Aspen with Hot Potato Stone.
