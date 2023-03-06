@@ -2,16 +2,16 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
-Power                    0  snail            2023-03-06
-Soul                     0  Aspen            2023-02-19
-Sabotage                 0  Agora            2023-02-07
-Jockey                   0  Agora            2023-02-08
-Protection               0  Janet            2023-02-01    Protection
-Recursion                0  Agora            2023-02-08
-Hot Potato               0  Aspen            2023-03-06
-Blank                    0  Agora 
-Anti-Equatorial          0  Agora            2023-02-02
-Score                    0  snail            2023-03-06
+Power                    1  snail            2023-03-06
+Soul                     1  Aspen            2023-02-19
+Sabotage                 1  Agora            2023-02-07
+Jockey                   1  Agora            2023-02-08
+Protection               1  Janet            2023-02-01    Protection
+Recursion                1  Agora            2023-02-08
+Hot Potato               0  Agora            2023-03-06    Agora
+Blank                    1  Agora 
+Anti-Equatorial          1  Agora            2023-02-02
+Score                    1  snail            2023-03-06
 
 Player           Base Rockiness
 ---------------  --------------
@@ -50,6 +50,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-06 02:44:48  Hot Potato Stone is transferred from Aspen to Agora per collection notice, resetting mossiness.
 2023-03-06 01:03:08  snail reaches for Jockey Stone.
 2023-03-06 01:03:08  snail wields Score Stone, specifying self.
 2023-03-06 01:03:08  snail wields Power Stone, specifying self.
