@@ -50,6 +50,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-06 00:00:00  Janet reaches for Anti-Equatorial Stone.
 2023-03-06 00:00:00  Hot Potato Stone is transferred from Janet to Aspen with Hot Potato Stone.
 2023-03-06 00:00:00  Janet wields Hot Potato Stone, specifying Aspen.
 2023-03-06 00:00:00  Soul Stone is transferred from Janet to Aspen with Soul Stone.
