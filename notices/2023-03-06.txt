@@ -1,0 +1,26 @@
+I hereby publish the following collection notice:
+
+All random choices are made using AgoraBot in a public channel on the unofficial Discord. I affirm under penalty of No Faking that, to the best of my knowledge, the choices listed below had the probabilities listed below.
+
+Stones that escape do so in the order they are listed below.
+
+Escape Minimum: 5
+
+Stone            Owner            Smoothness   Mossiness  Slipperiness  Escape Eligible?
+-------------    ---------------  ----------   ---------  ------------  ----------------
+Power            snail                     2           0             2  NO
+Soul             Aspen                     3           0             3  NO
+Sabotage         Agora                     4           0             4  [Immune: Agora]
+Jockey           Agora                     3           0             3  [Immune: Agora]
+Protection       Janet                     4           0             4  [Immune: Protection]
+Recursion        Agora                     4           0             4  [Immune: Agora]
+Hot Potato       Aspen                     5           0             5  YES
+Blank            Agora                     0           0             0  [Immune: Agora]
+Anti-Equatorial  Agora                     5           0             5  [Immune: Agora]
+Score            snail                     3           0             3  NO
+
+The following stones are hereby transferred to Agora:
+
+From Aspen: Hot Potato Stone.
+
+The mossiness of each other Stone is incremented by 1.
