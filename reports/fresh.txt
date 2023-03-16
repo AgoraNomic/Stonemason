@@ -17,6 +17,10 @@ Player           Base Rockiness
 ---------------  --------------
 [All players have the default Base Rockiness.]
 
+Player           Reached For      Time
+---------------  ---------------  -------------------
+[None this week.]
+
 Summary of stone functions:
 
 Power            A specified player's strength is increased by 3 on a
