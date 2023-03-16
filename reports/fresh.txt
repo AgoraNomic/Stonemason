@@ -2,7 +2,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
-Power                    1  snail            2023-03-15
+Power                    1  Janet            2023-03-15
 Soul                     1  Aspen            2023-02-19
 Sabotage                 1  Agora            2023-02-07    Agora
 Jockey                   1  Agora            2023-02-08    Agora
@@ -10,7 +10,7 @@ Protection               1  Janet            2023-02-01
 Recursion                1  Agora            2023-02-08    Agora
 Hot Potato               0  Agora            2023-03-06    Agora
 Blank                    1  Agora                          Agora
-Anti-Equatorial          1  Janet            2023-02-02
+Anti-Equatorial          1  Janet            2023-03-16
 Radiance                 0  Agora                          Agora
 
 Player           Base Rockiness
@@ -54,6 +54,8 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-16 03:26:14  Power Stone is transferred to Janet with Anti-Equatorial Stone.
+2023-03-16 03:26:14  Janet wields the Anti-Equatorial Stone, specifying Power Stone.
 2023-03-14 05:57:15  [snail attempts to wields Radiance Stone, specifying self.]
 2023-03-14 05:57:15  snail wields Power Stone.
 2023-03-14 05:57:15  [snail attempts to reach for Soul Stone.]
