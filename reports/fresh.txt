@@ -10,7 +10,7 @@ Protection               1  Janet            2023-02-01
 Recursion                1  Agora            2023-02-08    Agora
 Hot Potato               0  Agora            2023-03-06    Agora
 Blank                    1  Agora                          Agora
-Anti-Equatorial          1  Agora            2023-02-02    Agora
+Anti-Equatorial          1  Janet            2023-02-02
 Radiance                 1  Agora                          Agora
 
 Player           Base Rockiness
@@ -50,6 +50,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-13 00:00:00  Janet gathers Anti-Equatorial Stone.
 2023-03-12 03:28:19  Recalculation of immunity after P8920.
 2023-03-12 04:28:18  P8919 results in creation of Radiance Stone.
 2023-03-12 04:28:18  P8919 results in destruction of Score Stone.
