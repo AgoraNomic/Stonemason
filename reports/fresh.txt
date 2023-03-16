@@ -4,14 +4,14 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
 Power                    1  snail            2023-03-06
 Soul                     1  Aspen            2023-02-19
-Sabotage                 1  Agora            2023-02-07
-Jockey                   1  Agora            2023-02-08
-Protection               1  Janet            2023-02-01    Protection
-Recursion                1  Agora            2023-02-08
+Sabotage                 1  Agora            2023-02-07    Agora
+Jockey                   1  Agora            2023-02-08    Agora
+Protection               1  Janet            2023-02-01
+Recursion                1  Agora            2023-02-08    Agora
 Hot Potato               0  Agora            2023-03-06    Agora
-Blank                    1  Agora 
-Anti-Equatorial          1  Agora            2023-02-02
-Radiance                 1  Agora
+Blank                    1  Agora                          Agora
+Anti-Equatorial          1  Agora            2023-02-02    Agora
+Radiance                 1  Agora                          Agora
 
 Player           Base Rockiness
 ---------------  --------------
@@ -50,6 +50,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-12 03:28:19  Recalculation of immunity after P8920.
 2023-03-12 04:28:18  P8919 results in creation of Radiance Stone.
 2023-03-12 04:28:18  P8919 results in destruction of Score Stone.
 2023-03-06 02:44:48  Hot Potato Stone is transferred from Aspen to Agora per collection notice, resetting mossiness.
