@@ -61,6 +61,7 @@ History:
 2023-03-06 00:00:00  Hot Potato Stone is transferred from Aspen to Janet with Soul Stone.
 2023-03-06 00:00:00  Janet wields Soul Stone, specifying Hot Potato Stone.
 2023-03-06 00:00:00  Janet gathers the Soul Stone.
+2023-03-05 23:19:46  snail wields Power Stone.
 2023-03-03 05:01:43  Janet reaches for Soul Stone.
 2023-03-03 05:01:43  Janet transfers Protection Stone from AGora to self with Dream of Gardens, resetting mossiness.
 2023-03-02 06:16:36  snail wields Score Stone, specifying self.
