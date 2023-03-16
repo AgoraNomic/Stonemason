@@ -50,7 +50,9 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-14 05:57:15  [snail attempts to wields Radiance Stone, specifying self.]
 2023-03-14 05:57:15  snail wields Power Stone.
+2023-03-14 05:57:15  [snail attempts to reach for Soul Stone.]
 2023-03-13 00:00:00  Janet gathers Anti-Equatorial Stone.
 2023-03-12 04:28:19  Recalculation of immunity after P8920.
 2023-03-12 04:28:18  P8919 results in creation of Radiance Stone.
