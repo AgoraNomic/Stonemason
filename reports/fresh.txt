@@ -1,5 +1,9 @@
 THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
+DISCLAIMER: This report assumes that the Radiance Stone was newly
+created in the possession of Agora (i.e. that CFJ 4018 will be
+judged FALSE).
+
 Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
 Power                    1  Janet            2023-03-26
