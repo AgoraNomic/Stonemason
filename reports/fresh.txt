@@ -20,6 +20,7 @@ Player           Base Rockiness
 Player            Reached For      Time
 ----------------  ---------------  -------------------
 Yachay Wayllukuq  Radiance         2023-03-20 01:57:45
+4st               Sabotage         2023-03-21 17:05:00
 
 Summary of stone functions:
 
@@ -54,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-21 17:05:00  4st reaches for Power Stone.
 2023-03-21 17:00:27  [4st attempts to reach for Power Stone.]
 2023-03-20 01:57:45  Yachay Wayllukuq reaches for Radiance Stone.
 2023-03-20 00:00:00  snail gathers Recursion Stone.
