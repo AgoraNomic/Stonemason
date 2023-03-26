@@ -7,7 +7,7 @@ Soul                     1  Aspen            2023-02-19
 Sabotage                 1  Agora            2023-02-07    Agora
 Jockey                   1  Agora            2023-02-08    Agora
 Protection               1  Janet            2023-02-01
-Recursion                1  Agora            2023-02-08    Agora
+Recursion                1  snail            2023-02-08
 Hot Potato               0  Agora            2023-03-06    Agora
 Blank                    1  Agora                          Agora
 Anti-Equatorial          1  Janet            2023-03-16
@@ -19,9 +19,7 @@ Player           Base Rockiness
 
 Player           Reached For      Time
 ---------------  ---------------  -------------------
-Janet            Recursion        2023-03-16 03:26:14
-snail            Recursion        2023-03-19 22:11:01
-nix              Recursion        2023-03-19 22:21:25
+[None this week.]
 
 Summary of stone functions:
 
@@ -56,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-20 00:00:00  snail gathers Recursion Stone.
 2023-03-19 22:21:25  nix reaches for Recursion Stone.
 2023-03-19 22:11:01  snail reaches for Recursion Stone.
 2023-03-16 03:26:14  Janet reaches for Recursion Stone.
