@@ -20,6 +20,7 @@ Player           Base Rockiness
 Player           Reached For      Time
 ---------------  ---------------  -------------------
 Janet            Recursion        2023-03-16 03:26:14
+snail            Recursion        2023-03-19 22:11:01
 
 Summary of stone functions:
 
@@ -54,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-19 22:11:01  snail reaches for Recursion Stone.
 2023-03-16 03:26:14  Janet reaches for Recursion Stone.
 2023-03-16 03:26:14  Power Stone is transferred to Janet with Anti-Equatorial Stone.
 2023-03-16 03:26:14  Janet wields the Anti-Equatorial Stone, specifying Power Stone.
