@@ -17,9 +17,9 @@ Player           Base Rockiness
 ---------------  --------------
 [All players have the default Base Rockiness.]
 
-Player           Reached For      Time
----------------  ---------------  -------------------
-[None this week.]
+Player            Reached For      Time
+----------------  ---------------  -------------------
+Yachay Wayllukuq  Radiance         2023-03-20 01:57:45
 
 Summary of stone functions:
 
@@ -54,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-20 01:57:45  Yachay Wayllukuq reaches for Radiance Stone.
 2023-03-20 00:00:00  snail gathers Recursion Stone.
 2023-03-19 22:21:25  nix reaches for Recursion Stone.
 2023-03-19 22:11:01  snail reaches for Recursion Stone.
