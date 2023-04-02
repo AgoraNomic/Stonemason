@@ -4,7 +4,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
 Power                    1  Janet            2023-03-26
 Soul                     1  Aspen            2023-02-19
-Sabotage                 1  Agora            2023-02-07    Agora
+Sabotage                 0  4st              2023-02-07
 Jockey                   1  Agora            2023-02-08    Agora
 Protection               1  Janet            2023-02-01
 Recursion                0  nix              2023-02-08
@@ -19,8 +19,7 @@ Player           Base Rockiness
 
 Player            Reached For      Time
 ----------------  ---------------  -------------------
-4st               Sabotage         2023-03-21 17:05:00
-snail             Hot Potato       2023-03-24 09:59:51
+[None this week.]
 
 Summary of stone functions:
 
@@ -55,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-27 00:00:00  4st gathers Sabotage Stone.
 2023-03-26 07:12:22  Janet wields Power Stone, specifying self.
 2023-03-24 09:59:41  snail reaches for Hot Potato Stone.
 2023-03-21 17:05:00  4st reaches for Sabotage Stone.
