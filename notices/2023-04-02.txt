@@ -1,0 +1,30 @@
+I hereby publish the following collection notice:
+
+All random choices are made using AgoraBot in a public channel on the unofficial Discord. I affirm under penalty of No Faking that, to the best of my knowledge, the choices listed below had the probabilities listed below.
+
+Stones that escape do so in the order they are listed below.
+
+Escape Minimum: 2
+
+Stone            Owner            Smoothness   Mossiness  Slipperiness  Escape Eligible?
+-------------    ---------------  ----------   ---------  ------------  ----------------
+Power            Janet                     2           1             3  [Immune: Protection]
+Soul             Aspen                     3           1             4  YES
+Sabotage         4st                       4           0             4  YES
+Jockey           Agora                     3           1             4  [Immune: Agora]
+Protection       Janet                     4           1             5  YES
+Recursion        nix                       4           0             4  YES
+Hot Potato       Agora                     5           0             5  [Immune: Agora]
+Blank            Agora                     0           1             1  [Immune: Agora]
+Anti-Equatorial  Janet                     5           2             7  YES
+Radiance         snail                     3           0             3  YES
+
+The following stones are hereby transferred to Agora:
+
+Owned by 4st: Sabotage Stone.
+Owned by Aspen: Soul Stone.
+Owned by Janet: Anti-Equatorial Stone.
+Owned by nix: Recursion Stone.
+Owned by snail: Radiance Stone.
+
+The mossiness of each other Stone is incremented by 1.
