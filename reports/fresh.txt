@@ -19,7 +19,7 @@ Player           Base Rockiness
 
 Player            Reached For      Time
 ----------------  ---------------  -------------------
-[None this week.]
+nix               Hot Potato       2023-03-28 00:27:28
 
 Summary of stone functions:
 
@@ -54,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-03-28 00:27:28  nix reaches for Hot Potato Stone.
 2023-03-27 00:00:00  4st gathers Sabotage Stone.
 2023-03-26 07:12:22  Janet wields Power Stone, specifying self.
 2023-03-24 09:59:41  snail reaches for Hot Potato Stone.
