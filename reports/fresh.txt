@@ -1,9 +1,5 @@
 THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
-DISCLAIMER: This report assumes that the Radiance Stone was newly
-created in the possession of Agora (i.e. that CFJ 4018 will be
-judged FALSE).
-
 Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
 Power                    1  Janet            2023-03-26
@@ -11,11 +7,11 @@ Soul                     1  Aspen            2023-02-19
 Sabotage                 1  Agora            2023-02-07    Agora
 Jockey                   1  Agora            2023-02-08    Agora
 Protection               1  Janet            2023-02-01
-Recursion                0  snail            2023-02-08
+Recursion                0  nix              2023-02-08
 Hot Potato               0  Agora            2023-03-06    Agora
 Blank                    1  Agora                          Agora
 Anti-Equatorial          1  Janet            2023-03-16
-Radiance                 0  Agora                          Agora
+Radiance                 0  snail            2023-03-14
 
 Player           Base Rockiness
 ---------------  --------------
@@ -23,7 +19,6 @@ Player           Base Rockiness
 
 Player            Reached For      Time
 ----------------  ---------------  -------------------
-Yachay Wayllukuq  Radiance         2023-03-20 01:57:45
 4st               Sabotage         2023-03-21 17:05:00
 snail             Hot Potato       2023-03-24 09:59:51
 
@@ -64,20 +59,19 @@ History:
 2023-03-24 09:59:41  snail reaches for Hot Potato Stone.
 2023-03-21 17:05:00  4st reaches for Power Stone.
 2023-03-21 17:00:27  [4st attempts to reach for Power Stone.]
-2023-03-20 01:57:45  Yachay Wayllukuq reaches for Radiance Stone.
-2023-03-20 00:00:00  snail gathers Recursion Stone.
+2023-03-20 01:57:45  [Yachay Wayllukuq attempts to reach for Radiance Stone.]
+2023-03-20 00:00:00  nix gathers Recursion Stone.
 2023-03-19 22:21:25  nix reaches for Recursion Stone.
 2023-03-19 22:11:01  snail reaches for Recursion Stone.
 2023-03-16 03:26:14  Janet reaches for Recursion Stone.
 2023-03-16 03:26:14  Power Stone is transferred to Janet with Anti-Equatorial Stone.
 2023-03-16 03:26:14  Janet wields the Anti-Equatorial Stone, specifying Power Stone.
-2023-03-14 05:57:15  [snail attempts to wields Radiance Stone, specifying self.]
+2023-03-14 05:57:15  snail wields Radiance Stone, specifying self.
 2023-03-14 05:57:15  snail wields Power Stone.
 2023-03-14 05:57:15  [snail attempts to reach for Soul Stone.]
 2023-03-13 00:00:00  Janet gathers Anti-Equatorial Stone.
 2023-03-12 04:28:19  Recalculation of immunity after P8920.
-2023-03-12 04:28:18  P8919 results in creation of Radiance Stone.
-2023-03-12 04:28:18  P8919 results in destruction of Score Stone.
+2023-03-12 04:28:18  P8919 results in rename of Score Stone to Radiance Stone.
 2023-03-06 02:44:48  Hot Potato Stone is transferred from Aspen to Agora per collection notice, resetting mossiness.
 2023-03-06 01:03:08  snail reaches for Jockey Stone.
 2023-03-06 01:03:08  snail wields Score Stone, specifying self.
