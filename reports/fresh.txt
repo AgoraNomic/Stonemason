@@ -2,16 +2,16 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
-Power                    1  Janet            2023-04-02    Protection
-Soul                     1  Aspen            2023-02-19
-Sabotage                 0  4st              2023-02-07
-Jockey                   1  Agora            2023-02-08    Agora
-Protection               1  Janet            2023-04-02
-Recursion                0  nix              2023-02-08
-Hot Potato               0  Agora            2023-03-06    Agora
-Blank                    1  Agora                          Agora
-Anti-Equatorial          2  Janet            2023-04-03
-Radiance                 0  snail            2023-04-02
+Power                    2  Janet            2023-04-02
+Soul                     0  Agora            2023-02-19    Agora
+Sabotage                 0  Agora            2023-02-07    Agora
+Jockey                   2  Agora            2023-02-08    Agora
+Protection               2  Janet            2023-04-02
+Recursion                0  Agora            2023-02-08    Agora
+Hot Potato               1  Agora            2023-03-06    Agora
+Blank                    2  Agora                          Agora
+Anti-Equatorial          0  Agora            2023-04-03    Agora
+Radiance                 0  Agora            2023-04-02    Agora
 
 Player           Base Rockiness
 ---------------  --------------
@@ -55,6 +55,14 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-04-02 05:42:51  Power Stone ceases being immune after Collection Notice.
+2023-04-02 05:42:51  Mossiness of Power, Jockey, Protection, Hot Potato, Blank Stones is incremented per collection notice.
+2023-04-02 05:42:51  Radiance Stone is transferred from snail to Agora per collection notice, resetting mossiness.
+2023-04-02 05:42:51  Recursion Stone is transferred from nix to Agora per collection notice, resetting mossiness.
+2023-04-02 05:42:51  Anti-Equatorial Stone is transferred from Janet to Agora per collection notice, resetting mossiness.
+2023-04-02 05:42:51  Soul Stone is transferred from Aspen to Agora per collection notice, resetting mossiness.
+2023-04-02 05:42:51  Sabotage Stone is transferred from 4st to Agora per collection notice, resetting mossiness.
+2023-04-02 05:42:51  Collection notice.
 2023-04-02 05:42:17  snail wields Radiance Stone, specifying self.
 2023-04-02 05:14:43  Janet transfers Soul Stone to Aspen.
 2023-04-02 05:14:43  Soul Stone is transferred to Janet with Anti-Equatorial Stone.
