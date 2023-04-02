@@ -57,7 +57,7 @@ History:
 =======
 2023-03-26 07:12:22  Janet wields Power Stone, specifying self.
 2023-03-24 09:59:41  snail reaches for Hot Potato Stone.
-2023-03-21 17:05:00  4st reaches for Power Stone.
+2023-03-21 17:05:00  4st reaches for Sabotage Stone.
 2023-03-21 17:00:27  [4st attempts to reach for Power Stone.]
 2023-03-20 01:57:45  [Yachay Wayllukuq attempts to reach for Radiance Stone.]
 2023-03-20 00:00:00  nix gathers Recursion Stone.
