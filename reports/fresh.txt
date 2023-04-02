@@ -2,11 +2,11 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
-Power                    1  Janet            2023-04-02
+Power                    1  Janet            2023-04-02    Protection
 Soul                     1  Aspen            2023-02-19
 Sabotage                 0  4st              2023-02-07
 Jockey                   1  Agora            2023-02-08    Agora
-Protection               1  Janet            2023-02-01
+Protection               1  Janet            2023-04-02
 Recursion                0  nix              2023-02-08
 Hot Potato               0  Agora            2023-03-06    Agora
 Blank                    1  Agora                          Agora
@@ -55,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-04-02 05:14:43  Janet wields Protection Stone, specifying Power Stone.
 2023-04-02 05:14:43  Janet wields Power Stone, specifying self.
 2023-04-02 05:14:43  Janet reaches for Hot Potaton Stone.
 2023-03-28 00:27:28  nix reaches for Hot Potato Stone.
