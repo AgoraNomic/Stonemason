@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone            Mossiness  Owner            Last Wielded  Immune?
 -------------    ---------  ---------------  ------------  -------
 Power                    1  Janet            2023-04-02    Protection
-Soul                     1  Janet            2023-02-19
+Soul                     1  Aspen            2023-02-19
 Sabotage                 0  4st              2023-02-07
 Jockey                   1  Agora            2023-02-08    Agora
 Protection               1  Janet            2023-04-02
@@ -55,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-04-02 05:14:43  Janet transfers Soul Stone to Aspen.
 2023-04-02 05:14:43  Soul Stone is transferred to Janet with Anti-Equatorial Stone.
 2023-04-02 05:14:43  Janet wields Anti-Equatorial Stone, specifying Soul Stone.
 2023-04-02 05:14:43  Janet wields Protection Stone, specifying Power Stone.
