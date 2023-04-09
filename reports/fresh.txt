@@ -8,7 +8,7 @@ Sabotage                 0  Agora            2023-02-07    Agora
 Jockey                   2  Agora            2023-02-08    Agora
 Protection               2  Janet            2023-04-02
 Recursion                0  Agora            2023-02-08    Agora
-Hot Potato               1  Agora            2023-03-06    Agora
+Hot Potato               0  nix              2023-03-06
 Blank                    2  Agora                          Agora
 Anti-Equatorial          0  Agora            2023-04-03    Agora
 Radiance                 0  Agora            2023-04-02    Agora
@@ -19,8 +19,7 @@ Player           Base Rockiness
 
 Player            Reached For      Time
 ----------------  ---------------  -------------------
-nix               Hot Potato       2023-03-28 00:27:28
-Janet             Hot Potato       2023-04-02 05:14:43
+[None this week.]
 
 Summary of stone functions:
 
@@ -55,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-04-03 00:00:00  nix gathers Hot Potato Stone, resetting mossiness.
 2023-04-02 05:42:51  Power Stone ceases being immune after Collection Notice.
 2023-04-02 05:42:51  Mossiness of Power, Jockey, Protection, Hot Potato, Blank Stones is incremented per collection notice.
 2023-04-02 05:42:51  Radiance Stone is transferred from snail to Agora per collection notice, resetting mossiness.
