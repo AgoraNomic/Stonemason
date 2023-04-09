@@ -20,6 +20,7 @@ Player           Base Rockiness
 Player            Reached For      Time
 ----------------  ---------------  -------------------
 4st               Sabotage         2023-04-03 00:24:41
+nix               Recursion        2023-04-05 18:11:24
 
 Summary of stone functions:
 
@@ -54,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-04-05 18:11:24  nix reaches for Recursion Stone.
 2023-04-04 20:19:02  [snail attempts to wield Hot Potato Stone, specifying Yachay.]
 2023-04-03 00:24:41  4st reaches for Sabotage Stone.
 2023-04-03 00:00:00  nix gathers Hot Potato Stone, resetting mossiness.
