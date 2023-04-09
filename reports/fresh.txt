@@ -19,7 +19,7 @@ Player           Base Rockiness
 
 Player            Reached For      Time
 ----------------  ---------------  -------------------
-[None this week.]
+4st               Sabotage         2023-04-03 00:24:41
 
 Summary of stone functions:
 
@@ -54,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-04-03 00:24:41  4st reaches for Sabotage Stone.
 2023-04-03 00:00:00  nix gathers Hot Potato Stone, resetting mossiness.
 2023-04-02 05:42:51  Power Stone ceases being immune after Collection Notice.
 2023-04-02 05:42:51  Mossiness of Power, Jockey, Protection, Hot Potato, Blank Stones is incremented per collection notice.
