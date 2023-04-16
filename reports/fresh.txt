@@ -19,7 +19,7 @@ Player           Base Rockiness
 
 Player            Reached For      Time
 ----------------  ---------------  -------------------
-[None this week.]
+snail             Soul             2023-04-15 23:18:42
 
 Summary of stone functions:
 
@@ -54,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-04-15 23:18:42  snail reaches for Soul Stone.
 2023-04-10 00:00:00  4st gathers Sabotage Stone, resetting mossiness.
 2023-04-09 23:31:50  Janet wields Power Stone, specifying self.
 2023-04-05 18:11:24  nix reaches for Recursion Stone.
