@@ -19,7 +19,7 @@ Player           Base Rockiness
 
 Player            Reached For      Time
 ----------------  ---------------  -------------------
-[None this week.]
+snail             Jockey           2023-04-23 19:51:27
 
 Summary of stone functions:
 
@@ -54,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-04-23 19:51:27  snail reaches for Jockey Stone.
 2023-04-23 19:51:27  Hot Potato Stone is transferred from snail to Yachay Wayllukuq with Hot Potato Stone.
 2023-04-23 19:51:27  snail wields Hot Potato Stone, specifying Yachay Wallukuq.
 2023-04-23 19:51:27  Hot Potato Stone is transferred from nix to snail with Soul Stone.
