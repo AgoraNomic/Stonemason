@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
 Power                    2  Janet            2023-04-09
-Soul                     0  Agora            2023-02-19    Agora
+Soul                     0  snail            2023-02-19
 Sabotage                 0  4st              2023-02-07
 Jockey                   2  Agora            2023-02-08    Agora
 Protection               2  Janet            2023-04-02
@@ -19,8 +19,7 @@ Player           Base Rockiness
 
 Player            Reached For      Time
 ----------------  ---------------  -------------------
-snail             Soul             2023-04-15 23:18:42
-Yachay Wayllukuq  Soul             2023-04-15 23:31:21
+[None this week.]
 
 Summary of stone functions:
 
@@ -55,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-04-17 00:00:00  snail gathers Soul Stone, resetting mossiness.
 2023-04-15 23:36:23  [ais523 attempts to reach for Sabotage Stone.]
 2023-04-15 23:32:48  [Yachay Wayllukuq attempts to reach for Recursion Stone.]
 2023-04-15 23:31:21  Yachay Wayllukuq reaches for Soul Stone.
