@@ -2,7 +2,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    2  Janet            2023-04-23
+Power                    2  Janet            2023-04-30
 Soul                     0  nix              2023-04-23
 Sabotage                 0  4st              2023-02-07
 Jockey                   0  ais523           2023-02-08
@@ -55,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-04-30 23:23:21  Janet wields Power Stone, specifying self.
 2023-04-30 08:04:33  ais5623 reaches for Anti-Equatorial Stone.
 2023-04-30 08:04:33  [ais523 attempts to wield Recursion Stone, specifying Protection Stone, specifying Recursion Stone.]
 2023-04-29 23:58:00  snail transfers Jockey Stone to ais523.
