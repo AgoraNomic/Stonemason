@@ -20,6 +20,7 @@ Player           Base Rockiness
 Player            Reached For      Time
 ----------------  ---------------  -------------------
 snail             Radiance         2023-04-25 09:56:00
+ais523            Anti-Equatorial  2023-04-30 08:04:33
 
 Summary of stone functions:
 
@@ -54,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-04-30 08:04:33  ais5623 reaches for Anti-Equatorial Stone.
 2023-04-30 08:04:33  [ais523 attempts to wield Recursion Stone, specifying Protection Stone, specifying Recursion Stone.]
 2023-04-29 23:58:00  snail transfers Jockey Stone to ais523.
 2023-04-25 09:56:00  snail reaches for Radiance Stone.
