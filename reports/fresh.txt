@@ -5,7 +5,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 Power                    2  Janet            2023-04-23
 Soul                     0  nix              2023-04-23
 Sabotage                 0  4st              2023-02-07
-Jockey                   2  Agora            2023-02-08    Agora
+Jockey                   0  snail            2023-02-08
 Protection               2  Janet            2023-04-02
 Recursion                0  Agora            2023-02-08    Agora
 Hot Potato               0  Yachay Wallukuq  2023-04-23
@@ -19,8 +19,7 @@ Player           Base Rockiness
 
 Player            Reached For      Time
 ----------------  ---------------  -------------------
-snail             Jockey           2023-04-23 19:51:27
-ais523            Recursion        2023-04-23 23:40:23
+[None this week.]
 
 Summary of stone functions:
 
@@ -55,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-04-24 00:00:00  snail gathers Jockey Stone, resetting mossiness.
 2023-04-23 23:40:23  ais523 reaches for Recursion Stone.
 2023-04-23 22:11:02  Janet wields Power Stone, specifying self.
 2023-04-23 19:51:27  snail reaches for Jockey Stone.
