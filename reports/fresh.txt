@@ -54,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-04-30 08:04:33  [ais523 attempts to wield Recursion Stone, specifying Protection Stone, specifying Recursion Stone.]
 2023-04-29 23:58:00  snail transfers Jockey Stone to ais523.
 2023-04-25 09:56:00  snail reaches for Radiance Stone.
 2023-04-24 00:00:00  snail gathers Jockey Stone, resetting mossiness.
