@@ -19,7 +19,7 @@ Player           Base Rockiness
 
 Player            Reached For      Time
 ----------------  ---------------  -------------------
-[None this week.]
+snail             Radiance         2023-04-25 09:56:00
 
 Summary of stone functions:
 
@@ -54,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-04-25 09:56:00  snail reaches for Radiance Stone.
 2023-04-24 00:00:00  snail gathers Jockey Stone, resetting mossiness.
 2023-04-23 23:40:23  ais523 reaches for Recursion Stone.
 2023-04-23 22:11:02  Janet wields Power Stone, specifying self.
