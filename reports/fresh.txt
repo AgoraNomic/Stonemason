@@ -20,6 +20,7 @@ ais523                        1
 Player            Reached For      Time
 ----------------  ---------------  -------------------
 snail             Anti-Equatorial  2023-05-01 00:24:57
+ais523            Anti-Equatorial  2023-05-07 20:41:19
 
 Summary of stone functions:
 
@@ -54,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-07 20:41:19  aist523 reaches for Anti-Equatorial Stone.
 2023-05-04 03:15:24  Janet wields Power Stone, specifying self.
 2023-05-01 00:24:57  snail reaches for Anti-Equatorial Stone.
 2023-05-01 00:24:57  snail wields Radiance Stone, specifying self.
