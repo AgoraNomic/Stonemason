@@ -15,7 +15,7 @@ Radiance                 0  snail            2023-04-02
 
 Player           Base Rockiness
 ---------------  --------------
-[All players have the default Base Rockiness.]
+ais523                        1
 
 Player            Reached For      Time
 ----------------  ---------------  -------------------
@@ -54,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-01 00:00:00  Base Rockiness of ais523 increased by 1 due to Dream of Gardens.
 2023-05-01 00:00:00  snail gathers Radiance Stone, resetting mossiness.
 2023-04-30 23:23:21  Janet wields Power Stone, specifying self.
 2023-04-30 08:04:33  ais5623 reaches for Anti-Equatorial Stone.
