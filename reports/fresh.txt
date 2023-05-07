@@ -2,16 +2,16 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    2  Janet            2023-05-05    Protection
-Soul                     0  nix              2023-04-23
-Sabotage                 0  4st              2023-02-07
-Jockey                   0  ais523           2023-02-08
-Protection               2  Janet            2023-05-07
-Recursion                0  Agora            2023-02-08    Agora
-Hot Potato               0  Yachay Wallukuq  2023-04-23
-Blank                    2  Agora                          Agora
-Anti-Equatorial          0  Agora            2023-04-03    Agora
-Radiance                 0  snail            2023-05-01
+Power                    3  Janet            2023-05-05    Protection
+Soul                     1  nix              2023-04-23
+Sabotage                 0  Agora            2023-02-07    Agora
+Jockey                   1  ais523           2023-02-08
+Protection               0  Agora            2023-05-07    Agora
+Recursion                1  Agora            2023-02-08    Agora
+Hot Potato               0  Agora            2023-04-23    Agora
+Blank                    3  Agora                          Agora
+Anti-Equatorial          1  Agora            2023-04-03    Agora
+Radiance                 1  snail            2023-05-01
 
 Player           Base Rockiness
 ---------------  --------------
@@ -55,6 +55,11 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-07 22:28:24  Mossiness of Power, Soul, Jockey, Recursion, Blank, Anti-Equatorial, Radiance Stones is incremented per colection notice.
+2023-05-07 22:28:24  Protection Stone Stone is transferred from Janet to Agora per collection notice, resetting mossiness.
+2023-05-07 22:28:24  Hot Potato Stone Stone is transferred from Yahay Wayllukuq to Agora per collection notice, resetting mossiness.
+2023-05-07 22:28:24  Sabotage Stone Stone is transferred from 4st to Agora per collection notice, resetting mossiness.
+2023-05-07 22:28:24  Collection notice.
 2023-05-07 20:59:12  Janet wields Protection Stone, specifying Power Stone.
 2023-05-07 20:41:19  aist523 reaches for Anti-Equatorial Stone.
 2023-05-04 03:15:24  Janet wields Power Stone, specifying self.
