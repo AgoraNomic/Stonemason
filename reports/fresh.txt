@@ -11,7 +11,7 @@ Recursion                0  Agora            2023-02-08    Agora
 Hot Potato               0  Yachay Wallukuq  2023-04-23
 Blank                    2  Agora                          Agora
 Anti-Equatorial          0  Agora            2023-04-03    Agora
-Radiance                 0  Agora            2023-04-02    Agora
+Radiance                 0  snail            2023-04-02
 
 Player           Base Rockiness
 ---------------  --------------
@@ -19,8 +19,7 @@ Player           Base Rockiness
 
 Player            Reached For      Time
 ----------------  ---------------  -------------------
-snail             Radiance         2023-04-25 09:56:00
-ais523            Anti-Equatorial  2023-04-30 08:04:33
+[None this week.]
 
 Summary of stone functions:
 
@@ -55,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-01 00:00:00  snail gathers Radiance Stone, resetting mossiness.
 2023-04-30 23:23:21  Janet wields Power Stone, specifying self.
 2023-04-30 08:04:33  ais5623 reaches for Anti-Equatorial Stone.
 2023-04-30 08:04:33  [ais523 attempts to wield Recursion Stone, specifying Protection Stone, specifying Recursion Stone.]
