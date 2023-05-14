@@ -20,6 +20,7 @@ ais523                        1
 Player            Reached For      Time
 ----------------  ---------------  -------------------
 snail             Recursion        2023-05-08 07:44:26
+4st               Sabotage         2023-05-08 16:42:46
 
 Summary of stone functions:
 
@@ -54,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-08 16:42:46  4st reaches for Sabotage Stone.
 2023-05-08 07:44:26  snail reaches for Recursion Stone.
 2023-05-08 07:44:26  snail wields Radiance Stone, specifying self.
 2023-05-08 00:00:00  Base Rockiness of ais523 increased by 1 due to Dream of Gardens.
