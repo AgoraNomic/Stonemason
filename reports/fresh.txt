@@ -26,8 +26,8 @@ Yachay Wayllukuq  Anti-Equatorial  2023-05-08 22:08:27
 
 Summary of stone functions:
 
-Power            A specified player's strength is increased by 3 on a
-                 specified Agoran decision.
+Power            A specified player's strength is increased by 3 on referenda
+                 on ordinary proposals in their voting period.
 
 Soul             A specified non-immune stone is stolen by the
                  wielder, then the Soul Stone is transferred to the
@@ -36,17 +36,15 @@ Soul             A specified non-immune stone is stolen by the
 Sabotage         The AI of a specified AI-majority decision is
                  increased by 1.
 
-Jockey           A specified Running horse's Race Position is increased by
-                 1.
+Minty            A specified player gains a stamp of eir own type.
 
-Protection       A specified stone becomes immune (until the next
-                 Collection Notice).
+Protection       A specified stone becomes immune (until the next Collection
+                 Notice).
 
 Recursion        Can be wielded as any other stone.
 
-Hot Potato       Gain 8 boatloads of coins if transferred to a player who
-                 has not owned the stone since the last time Agora owned
-                 it.
+Hot Potato       Grants he wielder 8 radiance, then is transferred to another
+                 player.
 
 Blank            Does nothing.
 
