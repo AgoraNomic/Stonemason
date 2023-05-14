@@ -11,7 +11,7 @@ Recursion                1  Agora            2023-02-08    Agora
 Hot Potato               0  Agora            2023-04-23    Agora
 Blank                    3  Agora                          Agora
 Anti-Equatorial          0  ais523           2023-04-03
-Radiance                 1  snail            2023-05-01
+Radiance                 1  snail            2023-05-08
 
 Player           Base Rockiness
 ---------------  --------------
@@ -54,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-08 07:44:26  snail wields Radiance Stone, specifying self.
 2023-05-08 00:00:00  Base Rockiness of ais523 increased by 1 due to Dream of Gardens.
 2023-05-08 00:00:00  ais523 gathers Anti-Equatorial Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-05-07 22:28:24  Mossiness of Power, Soul, Jockey, Recursion, Blank, Anti-Equatorial, Radiance Stones is incremented per colection notice.
