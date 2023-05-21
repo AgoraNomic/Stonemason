@@ -15,7 +15,7 @@ Radiance                 1  snail            2023-05-08
 
 Player           Base Rockiness
 ---------------  --------------
-ais523                        1
+ais523                        2
 
 Player            Reached For      Time
 ----------------  ---------------  -------------------
@@ -52,6 +52,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-15 00:00:00  Base Rockiness of ais523 increased by 1 due to Dream of Gardens.
 2023-05-15 00:00:00  4st gathers Sabotage Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-05-12 05:18:12  P8964 results in destruction of Jockey Stone and creation of Minty Stone.
 2023-05-08 22:08:27  Yachay Wayllukuq reaches for Anti-Equatorial Stone.
