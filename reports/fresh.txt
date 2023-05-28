@@ -53,8 +53,8 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
-2023-05-15 03:01:23  Janet reaches for Recursion Stone.
-2023-05-15 03:01:23  Janet wields Power Stone, specifying self.
+2023-05-19 03:01:23  Janet reaches for Recursion Stone.
+2023-05-19 03:01:23  Janet wields Power Stone, specifying self.
 2023-05-15 00:33:29  snail reaches for Minty Stone.
 2023-05-15 00:33:29  snail wields Radiance Stone, specifying self.
 2023-05-15 00:00:00  Base Rockiness of ais523 increased by 1 due to Dream of Gardens.
