@@ -22,7 +22,7 @@ Yachay Wayllukuq               1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+Janet              Recursion        2023-05-22 00:00:00
 
 Summary of stone functions:
 
@@ -55,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-22 00:00:00  Janet reaches for Recursion Stone.
 2023-05-22 00:00:00  Base Rockiness of ais523, beokirby, snail, Yachay Wayllukuq increased by 1 due to Dream of Gardens.
 2023-05-22 00:00:00  ais523 gathers Blank Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-05-21 17:55:18  inalienableWright reaches for Hot Potato Stone.
