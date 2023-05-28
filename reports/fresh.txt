@@ -17,11 +17,12 @@ Player           Base Rockiness
 ---------------  --------------
 ais523                        2
 
-Player            Reached For      Time
-----------------  ---------------  -------------------
-snail             Minty            2023-05-15 00:33:29
-Janet             Recursion        2023-05-19 03:01:23
-ais523            Blank            2023-05-21 04:45:44
+Player             Reached For      Time
+-----------------  ---------------  -------------------
+snail              Minty            2023-05-15 00:33:29
+Janet              Recursion        2023-05-19 03:01:23
+ais523             Blank            2023-05-21 04:45:44
+inailenableWright  Hot Potato       2023-05-21 17:55:18
 
 Summary of stone functions:
 
@@ -54,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-21 17:55:18  inalienableWright reaches for Hot Potato Stone.
 2023-05-21 17:50:12  4st wields Sabotage Stone, specifying referendum on P8981.
 2023-05-21 04:45:44  ais523 reaches for Blank Stone.
 2023-05-19 03:01:23  Janet reaches for Recursion Stone.
