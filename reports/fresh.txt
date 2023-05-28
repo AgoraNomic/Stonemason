@@ -56,6 +56,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-22 00:01:00  [snail attempts to reach for the Hot Potato Stone.]
 2023-05-22 00:01:00  snail wields Radiance Stone.
 2023-05-22 00:01:00  snail reaches for Recursion Stone.
 2023-05-22 00:00:00  Janet reaches for Recursion Stone.
