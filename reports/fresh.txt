@@ -9,20 +9,17 @@ Minty                    0  Agora                          Agora
 Protection               0  Agora            2023-05-07    Agora
 Recursion                1  Agora            2023-02-08    Agora
 Hot Potato               0  Agora            2023-04-23    Agora
-Blank                    3  Agora                          Agora
+Blank                    0  ais523
 Anti-Equatorial          0  ais523           2023-04-03
 Radiance                 1  snail            2023-05-15
 
 Player           Base Rockiness
 ---------------  --------------
-ais523                        2
+[All players have the default Base Rockiness.]
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-snail              Minty            2023-05-15 00:33:29
-Janet              Recursion        2023-05-19 03:01:23
-ais523             Blank            2023-05-21 04:45:44
-inailenableWright  Hot Potato       2023-05-21 17:55:18
+[None this week.]
 
 Summary of stone functions:
 
@@ -55,6 +52,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-22 00:00:00  ais523 gathers Blank Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-05-21 17:55:18  inalienableWright reaches for Hot Potato Stone.
 2023-05-21 17:50:12  4st wields Sabotage Stone, specifying referendum on P8981.
 2023-05-21 04:45:44  ais523 reaches for Blank Stone.
