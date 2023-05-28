@@ -4,7 +4,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
 Power                    3  Janet            2023-05-15
 Soul                     1  nix              2023-04-23
-Sabotage                 0  4st              2023-02-07
+Sabotage                 0  4st              2023-05-21
 Minty                    0  Agora                          Agora
 Protection               0  Agora            2023-05-07    Agora
 Recursion                1  Agora            2023-02-08    Agora
@@ -54,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-21 17:50:12  4st wields Sabotage Stone, specifying referendum on P8981.
 2023-05-21 04:45:44  ais523 reaches for Blank Stone.
 2023-05-19 03:01:23  Janet reaches for Recursion Stone.
 2023-05-19 03:01:23  Janet wields Power Stone, specifying self.
