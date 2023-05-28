@@ -13,9 +13,12 @@ Blank                    0  ais523
 Anti-Equatorial          0  ais523           2023-04-03
 Radiance                 1  snail            2023-05-15
 
-Player           Base Rockiness
----------------  --------------
-[All players have the default Base Rockiness.]
+Player            Base Rockiness
+----------------  --------------
+ais523                         1
+beokirby                       1
+snail                          1
+Yachay Wayllukuq               1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -52,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-22 00:00:00  Base Rockiness of ais523, beokirby, snail, Yachay Wayllukuq increased by 1 due to Dream of Gardens.
 2023-05-22 00:00:00  ais523 gathers Blank Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-05-21 17:55:18  inalienableWright reaches for Hot Potato Stone.
 2023-05-21 17:50:12  4st wields Sabotage Stone, specifying referendum on P8981.
