@@ -2,16 +2,16 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    3  ais523           2023-05-28
-Soul                     1  nix              2023-04-23
-Sabotage                 0  4st              2023-05-21
-Minty                    0  Agora                          Agora
-Protection               0  Agora            2023-05-07    Agora
-Recursion                0  Beokirby         2023-02-08
-Hot Potato               0  Agora            2023-04-23    Agora
-Blank                    0  ais523           2023-05-28
-Anti-Equatorial          0  ais523           2023-05-28
-Radiance                 1  snail            2023-06-01
+Power                    4  ais523           2023-05-28
+Soul                     2  nix              2023-04-23
+Sabotage                 1  4st              2023-05-21
+Minty                    1  Agora                          Agora
+Protection               1  Agora            2023-05-07    Agora
+Recursion                1  Beokirby         2023-02-08
+Hot Potato               1  Agora            2023-04-23    Agora
+Blank                    1  ais523           2023-05-28
+Anti-Equatorial          0  Agora            2023-05-28    Agora
+Radiance                 2  snail            2023-06-01
 
 Player            Base Rockiness
 ----------------  --------------
@@ -56,6 +56,9 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-06-04 18:20:32  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Hot Potato, Blank, Radiance Stones incremented per collection notice.
+2023-06-04 18:20:32  Anti-Equatorial Stone is transferred from ais523 to Agora per collection notice, resetting mossiness.
+2023-06-04 18:20:32  Collection notice.
 2023-06-01 21:16:54  [snail attempts to wield Anti-Equatorial Stone.]
 2023-06-01 21:16:54  [snail attempts to wield Recursion Stone, specifying Soul Stone, specifying Anti-Equatorial Stone.]
 2023-06-01 21:16:54  snail reaches for Minty Stone.
