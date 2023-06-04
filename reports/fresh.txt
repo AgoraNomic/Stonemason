@@ -7,7 +7,7 @@ Soul                     1  nix              2023-04-23
 Sabotage                 0  4st              2023-05-21
 Minty                    0  Agora                          Agora
 Protection               0  Agora            2023-05-07    Agora
-Recursion                1  Agora            2023-02-08    Agora
+Recursion                0  Beokirby         2023-02-08
 Hot Potato               0  Agora            2023-04-23    Agora
 Blank                    0  ais523           2023-05-28
 Anti-Equatorial          0  ais523           2023-05-28
@@ -16,15 +16,12 @@ Radiance                 1  snail            2023-05-22
 Player            Base Rockiness
 ----------------  --------------
 ais523                         1
-beokirby                       1
 snail                          1
 Yachay Wayllukuq               1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-Janet              Recursion        2023-05-22 00:00:00
-snail              Recursion        2023-05-22 00:01:00
-Beokirby           Recursion        2023-05-28 21:53:36
+[None this week.]
 
 Summary of stone functions:
 
@@ -57,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-29 00:00:00  Beokirby gathers Recursion Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-05-28 22:30:54  ais523 wields Blank Stone.
 2023-05-28 22:30:54  ais523 wields Power Stone, specifying self.
 2023-05-28 22:30:54  Power Stone is transferred from Janet to ais523 with Anti-Equatorial Stone.
