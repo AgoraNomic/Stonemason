@@ -1,0 +1,26 @@
+I hereby publish the following collection notice:
+
+All random choices are made using AgoraBot in a public channel on the Discord discussion forum. I affirm under penalty of No Faking that, to the best of my knowledge, the choices listed below had the required probability distributions.
+
+Escape Minimum: 5
+
+Stone            Owner            Smoothness   Mossiness  Slipperiness  Escape Eligible?
+---------------  ---------------  ----------   ---------  ------------  ----------------
+Power            ais523                    2           3             5  YES
+Soul             nix                       3           1             4  NO
+Sabotage         4st                       4           0             4  NO
+Minty            Agora                     3           0             3  [Immune: Agora]
+Protection       Agora                     4           0             4  [Immune: Agora]
+Recursion        Beokirby                  4           0             4  NO
+Hot Potato       Agora                     5           0             5  [Immune: Agora]
+Blank            ais523                    0           0             0  NO
+Anti-Equatorial  ais523                    5           0             5  YES
+Radiance         snail                     3           1             4  NO
+
+Stones that escape do so in the order they are listed below.
+
+The following stones are hereby transferred to Agora:
+
+Owned by ais523: Anti-Equatorial
+
+The mossiness of each other Stone is incremented by 1.
