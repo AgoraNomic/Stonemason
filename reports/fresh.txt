@@ -2,7 +2,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    3  ais523           2023-05-15
+Power                    3  ais523           2023-05-28
 Soul                     1  nix              2023-04-23
 Sabotage                 0  4st              2023-05-21
 Minty                    0  Agora                          Agora
@@ -57,6 +57,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-28 22:30:54  ais523 wields Power Stone, specifying self.
 2023-05-28 22:30:54  Power Stone is transferred from Janet to ais523 with Anti-Equatorial Stone.
 2023-05-28 22:30:54  ais523 wields Anti-Equatorial Stone.
 2023-05-28 21:53:36  Beokirby reaches for the Recursion Stone.
