@@ -9,7 +9,7 @@ Minty                    0  Agora                          Agora
 Protection               0  Agora            2023-05-07    Agora
 Recursion                1  Agora            2023-02-08    Agora
 Hot Potato               0  Agora            2023-04-23    Agora
-Blank                    0  ais523
+Blank                    0  ais523           2023-05-28
 Anti-Equatorial          0  ais523           2023-05-28
 Radiance                 1  snail            2023-05-22
 
@@ -57,6 +57,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-28 22:30:54  ais523 wields Blank Stone.
 2023-05-28 22:30:54  ais523 wields Power Stone, specifying self.
 2023-05-28 22:30:54  Power Stone is transferred from Janet to ais523 with Anti-Equatorial Stone.
 2023-05-28 22:30:54  ais523 wields Anti-Equatorial Stone.
