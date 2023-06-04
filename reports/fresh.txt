@@ -22,7 +22,7 @@ beokirby                       1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+Janet              Minty            2023-05-29 00:00:07
 
 Summary of stone functions:
 
@@ -55,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-05-29 00:00:07  Janet reaches for Minty Stone.
 2023-05-29 00:00:00  Base Rockiness of ais523, beokirby, snail, Yachay Wayllukuq increased by 1 due to Dream of Gardens.
 2023-05-29 00:00:00  Beokirby gathers Recursion Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-05-28 22:30:54  ais523 wields Blank Stone.
