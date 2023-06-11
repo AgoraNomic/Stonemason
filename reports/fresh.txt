@@ -55,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-06-05 00:05:43  [Janet attempts to reach for Minty Stone.]
 2023-06-05 00:05:14  ais523 reaches for Protection Stone.
 2023-06-05 00:00:00  Base Rockiness of ais523, Beokirby, snail increased by 1 due to Dream of Gardens.
 2023-06-05 00:00:00  snail gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
