@@ -24,6 +24,7 @@ Player             Reached For      Time
 -----------------  ---------------  -------------------
 Janet              Minty            2023-05-29 00:00:07
 snail              Minty            2023-06-01 21:16:54
+Beokirby           Anti-Equatorial  2023-06-04 18:29:21
 
 Summary of stone functions:
 
@@ -56,6 +57,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-06-04 18:29:21  Beokirby reaches for Anti-Equatorial Stone.
 2023-06-04 18:20:32  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Hot Potato, Blank, Radiance Stones incremented per collection notice.
 2023-06-04 18:20:32  Anti-Equatorial Stone is transferred from ais523 to Agora per collection notice, resetting mossiness.
 2023-06-04 18:20:32  Collection notice.
