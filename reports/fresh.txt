@@ -4,10 +4,10 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
 Power                    4  ais523           2023-05-28
 Soul                     2  nix              2023-04-23
-Sabotage                 1  4st              2023-05-21
+Sabotage                 1  Beokirby         2023-05-21
 Minty                    1  Agora                          Agora
 Protection               1  Agora            2023-05-07    Agora
-Recursion                1  Beokirby         2023-02-08
+Recursion                1  4st              2023-06-04
 Hot Potato               1  Agora            2023-04-23    Agora
 Blank                    1  ais523           2023-05-28
 Anti-Equatorial          0  Agora            2023-05-28    Agora
@@ -57,6 +57,9 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-06-04 18:29:21  Recursion Stone transferred from Beokirby to 4st with Recursion Stone (as Soul Stone).
+2023-06-04 18:29:21  Sabotage Stone transferred from 4st to Beokirby with Recursion Stone (as Soul Stone).
+2023-06-04 18:29:21  Beokirby wields Recursion Stone, specifying Soul Stone, specifying Sabotage Stone.
 2023-06-04 18:29:21  Beokirby reaches for Anti-Equatorial Stone.
 2023-06-04 18:20:32  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Hot Potato, Blank, Radiance Stones incremented per collection notice.
 2023-06-04 18:20:32  Anti-Equatorial Stone is transferred from ais523 to Agora per collection notice, resetting mossiness.
