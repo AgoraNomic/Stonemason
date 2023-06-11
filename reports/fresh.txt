@@ -15,9 +15,10 @@ Radiance                 2  snail            2023-06-01
 
 Player            Base Rockiness
 ----------------  --------------
-ais523                         2
+ais523                         3
 Yachay Wayllukuq               2
-beokirby                       1
+Beokirby                       1
+snail                          1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -54,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-06-05 00:00:00  Base Rockiness of ais523, Beokirby, snail increased by 1 due to Dream of Gardens.
 2023-06-05 00:00:00  snail gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-06-04 18:29:21  Recursion Stone transferred from Beokirby to 4st with Recursion Stone (as Soul Stone).
 2023-06-04 18:29:21  Sabotage Stone transferred from 4st to Beokirby with Recursion Stone (as Soul Stone).
