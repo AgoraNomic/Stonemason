@@ -5,7 +5,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 Power                    4  ais523           2023-05-28
 Soul                     2  nix              2023-04-23
 Sabotage                 1  Beokirby         2023-05-21
-Minty                    1  Agora                          Agora
+Minty                    0  snail
 Protection               1  Agora            2023-05-07    Agora
 Recursion                1  4st              2023-06-04
 Hot Potato               1  Agora            2023-04-23    Agora
@@ -16,15 +16,12 @@ Radiance                 2  snail            2023-06-01
 Player            Base Rockiness
 ----------------  --------------
 ais523                         2
-snail                          2
 Yachay Wayllukuq               2
 beokirby                       1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-Janet              Minty            2023-05-29 00:00:07
-snail              Minty            2023-06-01 21:16:54
-Beokirby           Anti-Equatorial  2023-06-04 18:29:21
+[None this week.]
 
 Summary of stone functions:
 
@@ -57,6 +54,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-06-05 00:00:00  snail gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-06-04 18:29:21  Recursion Stone transferred from Beokirby to 4st with Recursion Stone (as Soul Stone).
 2023-06-04 18:29:21  Sabotage Stone transferred from 4st to Beokirby with Recursion Stone (as Soul Stone).
 2023-06-04 18:29:21  Beokirby wields Recursion Stone, specifying Soul Stone, specifying Sabotage Stone.
