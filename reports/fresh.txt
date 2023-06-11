@@ -2,28 +2,28 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    4  ais523           2023-05-28
+Power                    4  ais523           2023-06-04
 Soul                     2  nix              2023-04-23
 Sabotage                 1  Beokirby         2023-05-21
-Minty                    0  snail
+Minty                    1  Agora                          Agora
 Protection               1  Agora            2023-05-07    Agora
 Recursion                1  4st              2023-06-04
 Hot Potato               1  Agora            2023-04-23    Agora
-Blank                    1  ais523           2023-05-28
-Anti-Equatorial          0  Agora            2023-05-28    Agora
+Blank                    1  snail            2023-05-28
+Anti-Equatorial          0  ais523           2023-05-28
 Radiance                 2  snail            2023-06-01
 
 Player            Base Rockiness
 ----------------  --------------
-ais523                         3
+snail                          3
 Yachay Wayllukuq               2
 Beokirby                       1
-snail                          1
+ais523                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
 ais523             Protection       2023-06-05 00:05:14
-juan               Anti-Equatorial  2023-06-06 11:38:03
+Janet              Minty            2023-06-05 00:05:43
 
 Summary of stone functions:
 
@@ -56,11 +56,14 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
-2023-06-06 11;38:03  juan reaches for Anti-Equatorial Stone.
-2023-06-05 00:05:43  [Janet attempts to reach for Minty Stone.]
+2023-06-06 11:38:03  [juan attempts to reach for Anti-Equatorial Stone.]
+2023-06-05 00:05:43  Janet reaches for Minty Stone.
 2023-06-05 00:05:14  ais523 reaches for Protection Stone.
 2023-06-05 00:00:00  Base Rockiness of ais523, Beokirby, snail increased by 1 due to Dream of Gardens.
-2023-06-05 00:00:00  snail gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-06-05 00:00:00  ais523 gathers Anti-Equatorial Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-06-04 23:59:27  ais523 wields Power Stone, specifying self.
+2023-06-04 23:59:27  ais523 transfers Blank Stone to snail.
+2023-06-04 23:59:27  ais523 reaches for Anti-Equatorial Stone.
 2023-06-04 18:29:21  Recursion Stone transferred from Beokirby to 4st with Recursion Stone (as Soul Stone).
 2023-06-04 18:29:21  Sabotage Stone transferred from 4st to Beokirby with Recursion Stone (as Soul Stone).
 2023-06-04 18:29:21  Beokirby wields Recursion Stone, specifying Soul Stone, specifying Sabotage Stone.
