@@ -22,7 +22,7 @@ juan                           1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+Janet              Soul             2023-06-19 13:08:45
 
 Summary of stone functions:
 
@@ -55,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-06-19 13:08:45  Janet reaches for Soul Stone.
 2023-06-19 00:00:00  Base Rockiness of ais523, Beokirby, juan increased by 1 due to Dream of Gardens.
 2023-06-19 00:00:00  juan gathers Hot Potato Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-06-13 12:48:32  nix deregisters, resulting in Soul Stone being transferred to Agora.
