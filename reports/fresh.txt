@@ -16,8 +16,9 @@ Radiance                 2  snail            2023-06-11
 Player            Base Rockiness
 ----------------  --------------
 Yachay Wayllukuq               2
-Beokirby                       1
-ais523                         1
+Beokirby                       2
+ais523                         2
+juan                           1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -54,6 +55,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-06-12 00:00:00  Base Rockiness of ais523, Beokirby, juan increased by 1 due to Dream of Gardens.
 2023-06-12 00:00:00  snail gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-06-11 19:31:08  ais523 wields Power Stone, specifying self.
 2023-06-11 19:21:43  snail wields Radiance Stone, specifying self.
