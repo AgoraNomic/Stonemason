@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
 Power                    4  ais523           2023-06-11
-Soul                     2  nix              2023-04-23
+Soul                     0  Agora            2023-04-23    Agora
 Sabotage                 1  Beokirby         2023-05-21
 Minty                    0  snail
 Protection               1  Agora            2023-05-07    Agora
@@ -56,6 +56,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-06-13 12:48:32  nix deregisters, resulting in Soul Stone being transferred to Agora.
 2023-06-12 12:44:18  juan reaches for Hot Potato Stone.
 2023-06-12 12:38:28  ais523 reaches for Protection Stone.
 2023-06-12 00:00:00  Base Rockiness of ais523, Beokirby, juan increased by 1 due to Dream of Gardens.
