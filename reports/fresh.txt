@@ -25,6 +25,7 @@ Player             Reached For      Time
 Janet              Soul             2023-06-19 13:08:45
 ais523             Protection       2023-06-19 14:35:44
 juan               Soul             2023-06-19 15:14:08
+snail              Soul             2023-06-25 14:40:09
 
 Summary of stone functions:
 
@@ -57,6 +58,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-06-25 14:40:09  snail reaches for Soul Stone.
 2023-06-25 14:40:09  snail wields Radiance Stone, specifying self.
 2023-06-25 14:40:09  snail wields Minty Stone, specifying self.
 2023-06-19 15:14:08  juan reaches for Soul Stone.
