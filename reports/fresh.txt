@@ -11,7 +11,7 @@ Recursion                1  4st              2023-06-04
 Hot Potato               0  juan             2023-04-23
 Blank                    1  snail            2023-05-28
 Anti-Equatorial          0  ais523           2023-05-28
-Radiance                 2  snail            2023-06-11
+Radiance                 2  snail            2023-06-25
 
 Player            Base Rockiness
 ----------------  --------------
@@ -57,6 +57,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-06-25 14:40:09  snail wields Radiance Stone, specifying self.
 2023-06-25 14:40:09  snail wields Minty Stone, specifying self.
 2023-06-19 15:14:08  juan reaches for Soul Stone.
 2023-06-19 14:35:44  ais523 reaches for Protection Stone.
