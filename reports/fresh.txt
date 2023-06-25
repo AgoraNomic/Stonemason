@@ -24,6 +24,7 @@ Player             Reached For      Time
 -----------------  ---------------  -------------------
 Janet              Soul             2023-06-19 13:08:45
 ais523             Protection       2023-06-19 14:35:44
+juan               Soul             2023-06-19 15:14:08
 
 Summary of stone functions:
 
@@ -56,6 +57,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-06-19 15:14:08  juan reaches for Soul Stone.
 2023-06-19 14:35:44  ais523 reaches for Protection Stone.
 2023-06-19 13:08:45  Janet reaches for Soul Stone.
 2023-06-19 00:00:00  Base Rockiness of ais523, Beokirby, juan increased by 1 due to Dream of Gardens.
