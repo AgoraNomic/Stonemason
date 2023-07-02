@@ -16,9 +16,10 @@ Radiance                 0  Agora            2023-06-25    Agora
 Player            Base Rockiness
 ----------------  --------------
 Yachay Wayllukuq               2
-Beokirby                       4
-ais523                         1
-Janet                          1
+Beokirby                       5
+ais523                         2
+Janet                          2
+juan                           1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -55,6 +56,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-07-03 00:00:00  Base Rockiness of ais523, Beokirby, Janet, juan increased by 1 due to Dream of Gardens.
 2023-07-03 00:00:00  juan gathers Soul Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-07-02 06:06:26  4st reaches for Sabotage Stone.
 2023-07-02 05:41:03  Janet reaches for Recursion Stone.
