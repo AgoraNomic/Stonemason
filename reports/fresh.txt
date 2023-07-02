@@ -2,16 +2,16 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    4  ais523           2023-06-11
-Soul                     0  Agora            2023-04-23    Agora
-Sabotage                 1  Beokirby         2023-05-21
-Minty                    0  snail            2023-06-25
-Protection               0  ais523           2023-05-07
-Recursion                1  4st              2023-06-04
-Hot Potato               0  juan             2023-04-23
-Blank                    1  snail            2023-05-28
-Anti-Equatorial          0  ais523           2023-05-28
-Radiance                 2  snail            2023-06-25
+Power                    0  Agora            2023-06-11    Agora
+Soul                     1  Agora            2023-04-23    Agora
+Sabotage                 0  Agora            2023-05-21    Agora
+Minty                    0  Agora            2023-06-25    Agora
+Protection               0  Agora            2023-05-07    Agora
+Recursion                0  Agora            2023-06-04    Agora
+Hot Potato               0  Agora            2023-04-23    Agora
+Blank                    2  snail            2023-05-28
+Anti-Equatorial          1  ais523           2023-05-28
+Radiance                 0  Agora            2023-06-25    Agora
 
 Player            Base Rockiness
 ----------------  --------------
@@ -56,6 +56,9 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-07-02 05:35:48  Mossiness of Soul, Blank, Anti-Equatorial Stones incremented per collection notice.
+2023-07-02 05:35:48  Power, Protection, Sabotage, Minty, Radiance, Recursion, Hot Potato stones are transferred to Agora per collection notice, resetting mossiness.
+2023-07-02 05:35:48  Collection notice.
 2023-06-26 16:06:34  juan reaches for Soul Stone.
 2023-06-26 00:00:00  Base Rockiness of ais623, Beokirby, Janet, juan increased by 1 due to Dream of Gardens.
 2023-06-26 00:00:00  ais523 gathers Protection Stone, resetting eir Base Rockiness and the stone's mossiness.
