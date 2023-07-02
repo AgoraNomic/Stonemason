@@ -16,8 +16,10 @@ Radiance                 2  snail            2023-06-25
 Player            Base Rockiness
 ----------------  --------------
 Yachay Wayllukuq               2
-Beokirby                       3
-juan                           1
+Beokirby                       4
+juan                           2
+ais523                         1
+Janet                          1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -54,6 +56,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-06-26 00:00:00  Base Rockiness of ais623, Beokirby, Janet, juan increased by 1 due to Dream of Gardens.
 2023-06-26 00:00:00  ais523 gathers Protection Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-06-25 22:38:37  [Janet attempts to reach for Soul Stone.]
 2023-06-25 14:40:09  snail reaches for Soul Stone.
