@@ -25,6 +25,7 @@ Player             Reached For      Time
 -----------------  ---------------  -------------------
 juan               Soul             2023-06-26 16:06:34
 Janet              Recursion        2023-07-02 05:41:03
+4st                Sabotage         2023-07-02 06:06:26
 
 Summary of stone functions:
 
@@ -57,6 +58,7 @@ Score            A specified player's score is increased by 3.
 
 History:
 =======
+2023-07-02 06:06:26  4st reaches for Sabotage Stone.
 2023-07-02 05:41:03  Janet reaches for Recursion Stone.
 2023-07-02 05:35:48  Mossiness of Soul, Blank, Anti-Equatorial Stones incremented per collection notice.
 2023-07-02 05:35:48  Power, Protection, Sabotage, Minty, Radiance, Recursion, Hot Potato stones are transferred to Agora per collection notice, resetting mossiness.
