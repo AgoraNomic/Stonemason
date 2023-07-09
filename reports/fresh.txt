@@ -52,7 +52,7 @@ Blank            Does nothing.
 Anti-Equatorial  Steals the mossiest stone, then increases its own mossiness
                  by one.
 
-Score            A specified player's score is increased by 3.
+Score            A specified player's radiance is increased by 3.
 
 History:
 =======
