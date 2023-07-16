@@ -21,7 +21,7 @@ juan                           2
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+juan               Radiance         2023-07-10 21:35:51
 
 Summary of stone functions:
 
@@ -54,6 +54,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-07-10 21:35:51  juan reaches for Radiance Stone.
 2023-07-10 00:00:00  Base Rockiness of ais523, Beokirby, juan increased by 1 due to Dream of Gardens.
 2023-07-10 00:00:00  Janet gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-07-09 19:24:06  Janet reaches for Minty Stone.
