@@ -15,9 +15,9 @@ Radiance                 0  Agora            2023-06-25    Agora
 
 Player            Base Rockiness
 ----------------  --------------
-Beokirby                       5
-ais523                         2
-juan                           1
+Beokirby                       6
+ais523                         3
+juan                           2
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -54,6 +54,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-07-10 00:00:00  Base Rockiness of ais523, Beokirby, juan increased by 1 due to Dream of Gardens.
 2023-07-10 00:00:00  Janet gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-07-09 19:24:06  Janet reaches for Minty Stone.
 2023-07-09 18:16:57  Yachay Wayllukuq ceases to have a Base Rockiness switch after the adoption of P9002.
