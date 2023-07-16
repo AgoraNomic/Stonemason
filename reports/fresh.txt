@@ -5,7 +5,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 Power                    0  Agora            2023-06-11    Agora
 Soul                     0  juan             2023-04-23
 Sabotage                 0  Agora            2023-05-21    Agora
-Minty                    0  Agora            2023-06-25    Agora
+Minty                    0  Janet            2023-06-25
 Protection               0  Agora            2023-05-07    Agora
 Recursion                0  Agora            2023-06-04    Agora
 Hot Potato               0  Agora            2023-04-23    Agora
@@ -17,13 +17,11 @@ Player            Base Rockiness
 ----------------  --------------
 Beokirby                       5
 ais523                         2
-Janet                          2
 juan                           1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-juan               Radiance         2023-07-03 18:10:11
-Janet              Minty            2023-07-09 19:24:06
+[None this week.]
 
 Summary of stone functions:
 
@@ -56,6 +54,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-07-10 00:00:00  Janet gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-07-09 19:24:06  Janet reaches for Minty Stone.
 2023-07-09 18:16:57  Yachay Wayllukuq ceases to have a Base Rockiness switch after the adoption of P9002.
 2023-07-03 18:10:11  juan reaches for Radiance Stone.
