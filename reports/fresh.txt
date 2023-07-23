@@ -23,6 +23,7 @@ Janet                          1
 Player             Reached For      Time
 -----------------  ---------------  -------------------
 ais523             Recursion        2023-07-23 22:15:42
+Janet              Recursion        2023-07-23 22:17:27
 
 Summary of stone functions:
 
@@ -55,6 +56,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-07-23 22:17:27  Janet reaches for Recursion Stone.
 2023-07-23 22:17:27  Janet wields Minty Stone, specifying self.
 2023-07-23 22:15:42  ais523 reaches for Recursion Stone.
 2023-07-10 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
