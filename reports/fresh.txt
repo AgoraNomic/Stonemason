@@ -7,7 +7,7 @@ Soul                     0  juan             2023-04-23
 Sabotage                 0  Agora            2023-05-21    Agora
 Minty                    0  Janet            2023-07-23
 Protection               0  Agora            2023-05-07    Agora
-Recursion                0  Agora            2023-06-04    Agora
+Recursion                0  ais523           2023-06-04
 Hot Potato               0  Agora            2023-04-23    Agora
 Blank                    2  snail            2023-05-28
 Anti-Equatorial          1  ais523           2023-05-28
@@ -16,14 +16,12 @@ Radiance                 0  juan             2023-06-25
 Player            Base Rockiness
 ----------------  --------------
 Beokirby                       7
-ais523                         4
 juan                           1
 Janet                          1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-ais523             Recursion        2023-07-23 22:15:42
-Janet              Recursion        2023-07-23 22:17:27
+[None this week.]
 
 Summary of stone functions:
 
@@ -56,6 +54,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-07-24 00:00:00  ais523 gathers Recursion Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-07-23 22:17:27  Janet reaches for Recursion Stone.
 2023-07-23 22:17:27  Janet wields Minty Stone, specifying self.
 2023-07-23 22:15:42  ais523 reaches for Recursion Stone.
