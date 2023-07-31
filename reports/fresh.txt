@@ -59,7 +59,7 @@ History:
 2023-07-23 22:17:27  Janet wields Minty Stone, specifying self.
 2023-07-23 22:15:42  ais523 reaches for Recursion Stone.
 2023-07-10 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
-2023-07-17 00:00:00  juan gathers Recursion Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-07-17 00:00:00  juan gathers Radiance Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-07-16 21:21:31  Janet reaches for Power Stone.
 2023-07-16 21:21:31  Janet wields Minty Stone, specifying self.
 2023-07-10 21:35:51  juan reaches for Radiance Stone.
