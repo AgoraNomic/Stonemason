@@ -5,7 +5,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 Power                    0  Agora            2023-06-11    Agora
 Soul                     0  juan             2023-04-23
 Sabotage                 0  Agora            2023-05-21    Agora
-Minty                    0  Janet            2023-07-23
+Minty                    0  Janet            2023-08-06
 Protection               0  Agora            2023-05-07    Agora
 Recursion                0  ais523           2023-08-01    Protection
 Hot Potato               0  Agora            2023-04-23    Agora
@@ -56,6 +56,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-08-06 17:36:00  Janet wields Minty Stone, specifying self.
 2023-08-01 06:00:58  Mossiness of Anti-Equatorial Stone is incremented due to Anti-Equatorial Stone.
 2023-08-01 06:00:58  Blank Stone is transferred from juan to ais523 with Anti-Equatorial Stone.
 2023-08-01 06:00:58  ais523 wields Anti-Equatorial Stone.
