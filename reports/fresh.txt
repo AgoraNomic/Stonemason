@@ -55,6 +55,8 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-08-01 01:17:21  [snail attempts to reach for Power Stone.]
+2023-08-01 01:17:21  [snail attempts to wield Hot Potato Stone, specifying Katie.]
 2023-07-31 23:58:00  snail transfers Blank Stone to juan.
 2023-07-31 22:35:43  snail reaches for Hot Potato Stone.
 2023-07-31 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
