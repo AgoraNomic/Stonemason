@@ -22,7 +22,7 @@ ais523                         2
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+snail              Hot Potato       2023-07-31 22:35:43
 
 Summary of stone functions:
 
@@ -55,6 +55,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-07-31 22:35:43  snail reaches for Hot Potato Stone.
 2023-07-31 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
 2023-07-24 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
 2023-07-24 00:00:00  ais523 gathers Recursion Stone, resetting eir Base Rockiness and the stone's mossiness.
