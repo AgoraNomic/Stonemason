@@ -9,7 +9,7 @@ Minty                    0  Janet            2023-07-23
 Protection               0  Agora            2023-05-07    Agora
 Recursion                0  ais523           2023-06-04
 Hot Potato               0  Agora            2023-04-23    Agora
-Blank                    2  snail            2023-05-28
+Blank                    2  juan             2023-05-28
 Anti-Equatorial          1  ais523           2023-05-28
 Radiance                 0  juan             2023-06-25
 
@@ -55,6 +55,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-07-31 23:58:00  snail transfers Blank Stone to juan.
 2023-07-31 22:35:43  snail reaches for Hot Potato Stone.
 2023-07-31 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
 2023-07-24 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
