@@ -24,6 +24,7 @@ Player             Reached For      Time
 -----------------  ---------------  -------------------
 snail              Hot Potato       2023-07-31 22:35:43
 ais523             Protection       2023-08-01 06:00:58
+Janet              Power            2023-08-06 17:36:00
 
 Summary of stone functions:
 
@@ -56,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-08-06 17:36:00  Janet reaches for Power Stone.
 2023-08-06 17:36:00  Janet wields Minty Stone, specifying self.
 2023-08-01 06:00:58  Mossiness of Anti-Equatorial Stone is incremented due to Anti-Equatorial Stone.
 2023-08-01 06:00:58  Blank Stone is transferred from juan to ais523 with Anti-Equatorial Stone.
