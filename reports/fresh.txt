@@ -2,7 +2,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    1  Agora            2023-06-11    Agora
+Power                    0  Janet            2023-06-11
 Soul                     1  juan             2023-04-23
 Sabotage                 1  Agora            2023-05-21    Agora
 Minty                    1  Janet            2023-08-06
@@ -17,14 +17,11 @@ Player            Base Rockiness
 ----------------  --------------
 Beokirby                       9
 juan                           3
-Janet                          3
 ais523                         2
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-snail              Hot Potato       2023-07-31 22:35:43
-ais523             Protection       2023-08-01 06:00:58
-Janet              Power            2023-08-06 17:36:00
+[None this week.]
 
 Summary of stone functions:
 
@@ -57,6 +54,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-08-07 00:00:00  Janet gathers Power Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-08-06 18:11:10  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Hot Potato, Blank, Radiance Stones incremented per collection notice.
 2023-08-06 18:11:10  Anti-Equatorial Stone is transferred to Agora per collection notice, resetting mossiness.
 2023-08-06 17:36:00  Janet reaches for Power Stone.
