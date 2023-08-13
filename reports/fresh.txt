@@ -23,6 +23,7 @@ Janet                          1
 Player             Reached For      Time
 -----------------  ---------------  -------------------
 G.                 Sabotage         2023-08-11 22:48:15
+ais523             Protection       2023-08-13 16:12:39
 
 Summary of stone functions:
 
@@ -55,6 +56,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-08-13 16:12:39  ais523 reaches for Protection Stone.
 2023-08-11 22:48:15  G. reaches for Sabotage Stone.
 2023-08-07 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
 2023-08-07 00:00:00  Janet gathers Power Stone, resetting eir Base Rockiness and the stone's mossiness.
