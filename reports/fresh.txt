@@ -22,7 +22,7 @@ Janet                          1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+G.                 Sabotage         2023-08-11 22:48:15
 
 Summary of stone functions:
 
@@ -55,6 +55,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-08-11 22:48:15  G. reaches for Sabotage Stone.
 2023-08-07 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
 2023-08-07 00:00:00  Janet gathers Power Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-08-06 18:11:10  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Hot Potato, Blank, Radiance Stones incremented per collection notice.
