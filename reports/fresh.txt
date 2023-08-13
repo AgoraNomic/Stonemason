@@ -24,6 +24,7 @@ Player             Reached For      Time
 -----------------  ---------------  -------------------
 G.                 Sabotage         2023-08-11 22:48:15
 ais523             Protection       2023-08-13 16:12:39
+Janet              Protection       2023-08-13 19:01:11
 
 Summary of stone functions:
 
@@ -56,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-08-13 19:01:11  Janet reaches for Protection Stone.
 2023-08-13 19:01:11  Janet wields Minty Stone, specifying self.
 2023-08-13 16:12:39  ais523 reaches for Protection Stone.
 2023-08-11 22:48:15  G. reaches for Sabotage Stone.
