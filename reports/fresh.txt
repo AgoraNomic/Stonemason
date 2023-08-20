@@ -23,6 +23,7 @@ ais523                         1
 Player             Reached For      Time
 -----------------  ---------------  -------------------
 ais523             Anti-Equatorial  2023-08-14 16:12:42
+Janet              Hot Potato       2023-08-20 22:38:47
 
 Summary of stone functions:
 
@@ -55,6 +56,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-08-20 22:38:47  Janet reaches for Hot Potato Stone.
 2023-08-20 22:38:47  Janet wields Minty Stone, specifying self.
 2023-08-14 16:12:42  ais523 reaches for Anti-Equatorial Stone.
 2023-08-14 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
