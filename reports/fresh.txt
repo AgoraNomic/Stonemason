@@ -8,7 +8,7 @@ Sabotage                 1  Agora            2023-05-21    Agora
 Minty                    1  Janet            2023-08-27
 Protection               0  ais523           2023-05-07
 Recursion                1  ais523           2023-08-01    Protection
-Hot Potato               0  Janet            2023-04-23
+Hot Potato               0  Kate             2023-08-27
 Blank                    3  ais523           2023-05-28
 Anti-Equatorial          0  Agora            2023-08-01    Agora
 Radiance                 1  juan             2023-06-25
@@ -55,6 +55,8 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-08-27 18:57:06  Hot Poato Stone is transferred from Janet to Kate with Hot Potato Stone.
+2023-08-27 18:57:06  Janet wields Hot Potato Stone, specifying Kate.
 2023-08-27 18:51:49  [Janet attempts to reach for Hot Potato Stone.]
 2023-08-27 18:51:49  Janet wields Minty Stone, specifying self.
 2023-08-21 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
