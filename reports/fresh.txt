@@ -2,16 +2,16 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    0  Janet            2023-06-11
-Soul                     1  juan             2023-04-23
-Sabotage                 1  Agora            2023-05-21    Agora
-Minty                    1  Janet            2023-09-01
-Protection               0  ais523           2023-09-01    Protection
-Recursion                1  ais523           2023-08-01    Protection
-Hot Potato               0  Kate             2023-08-27
-Blank                    3  snail            2023-05-28
-Anti-Equatorial          0  ais523           2023-08-01    Protection
-Radiance                 1  juan             2023-06-25
+Power                    1  Janet            2023-06-11
+Soul                     0  Agora            2023-04-23    Agora
+Sabotage                 2  Agora            2023-05-21    Agora
+Minty                    0  Agora            2023-09-01    Agora
+Protection               1  ais523           2023-09-01
+Recursion                2  ais523           2023-08-01
+Hot Potato               0  Agora            2023-08-27    Agora
+Blank                    4  snail            2023-05-28
+Anti-Equatorial          1  ais523           2023-08-01
+Radiance                 2  juan             2023-06-25
 
 Player            Base Rockiness
 ----------------  --------------
@@ -55,6 +55,11 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-09-03 19:41:21  Protection, Recursion, Anti-Equatorial Stones cease being immune after collection notice.
+2023-09-03 19:41:21  Mossiness of Power, Sabotage, Protection, Recursion, Blank, Anti-Equatorial, Radiance Stones incremented per collection notice.
+2023-09-03 19:41:21  Hot Potato Stone is transferred to Agora per collection notice, resetting mossiness.
+2023-09-03 19:41:21  Soul Stone is transferred to Agora per collection notice, resetting mossiness.
+2023-09-03 19:41:21  Minty Stone is transferred to Agora per collection notice, resetting mossiness.
 2023-09-01 17:36:15  Janet wields Minty Stone, specifying self.
 2023-09-01 01:23:42  ais523 wields Protection Stone, specifying Anti-Equatorial Stone.
 2023-08-28 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
