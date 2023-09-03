@@ -24,6 +24,7 @@ Player             Reached For      Time
 -----------------  ---------------  -------------------
 Janet              Anti-Equatorial  2023-08-27 18:57:06
 snail              Anti-Equatorial  2023-08-27 22:38:47
+ais523             Anti-Equatorial  2023-08-27 22:42:18
 
 Summary of stone functions:
 
@@ -56,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-08-27 22:42:18  ais523 reaches for Anti-Equatorial Stone.
 2023-08-27 22:38:47  snail reaches for Anti-Equatorial Stone.
 2023-08-27 18:59:24  [Kate attempts to reach for Hot Potato Stone.]
 2023-08-27 18:57:06  Janet reaches for Anti-Equatorial Stone.
