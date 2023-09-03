@@ -10,21 +10,18 @@ Protection               0  ais523           2023-08-27    Protection
 Recursion                1  ais523           2023-08-01    Protection
 Hot Potato               0  Kate             2023-08-27
 Blank                    3  snail            2023-05-28
-Anti-Equatorial          0  Agora            2023-08-01    Agora
+Anti-Equatorial          0  ais523           2023-08-01
 Radiance                 1  juan             2023-06-25
 
 Player            Base Rockiness
 ----------------  --------------
 Beokirby                      12
 juan                           6
-ais523                         2
 Janet                          1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-Janet              Anti-Equatorial  2023-08-27 18:57:06
-snail              Anti-Equatorial  2023-08-27 22:38:47
-ais523             Anti-Equatorial  2023-08-27 22:42:18
+[None this week.]
 
 Summary of stone functions:
 
@@ -57,6 +54,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-08-28 00:00:00  ais523 gathers Anti-Equatorial Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-08-27 23:58:16  ais523 wields Protection Stone, specifying Protection Stone.
 2023-08-27 23:58:16  ais523 transfers Blank Stone to snail.
 2023-08-27 22:42:18  ais523 reaches for Anti-Equatorial Stone.
