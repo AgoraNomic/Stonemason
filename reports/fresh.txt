@@ -23,6 +23,7 @@ ais523                         1
 Player             Reached For      Time
 -----------------  ---------------  -------------------
 Janet              Soul             2023-09-03 19:20:49
+ais523             Soul             2023-09-03 19:21:44
 
 Summary of stone functions:
 
@@ -55,6 +56,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-09-03 19:21:44  ais523 reaches for the Soul Stone.
 2023-09-03 19:20:49  Janet reaches for Soul Stone.
 2023-09-03 19:41:21  Protection, Recursion, Anti-Equatorial Stones cease being immune after collection notice.
 2023-09-03 19:41:21  Mossiness of Power, Sabotage, Protection, Recursion, Blank, Anti-Equatorial, Radiance Stones incremented per collection notice.
