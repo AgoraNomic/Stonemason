@@ -15,9 +15,10 @@ Radiance                 2  juan             2023-06-25
 
 Player            Base Rockiness
 ----------------  --------------
-Beokirby                      13
-juan                           7
-ais523                         1
+Beokirby                      14
+juan                           8
+ais523                         2
+Janet                          1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -54,6 +55,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-09-04 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
 2023-09-04 00:00:00  Janet gathers Soul Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-09-03 19:21:44  ais523 reaches for the Soul Stone.
 2023-09-03 19:20:49  Janet reaches for Soul Stone.
