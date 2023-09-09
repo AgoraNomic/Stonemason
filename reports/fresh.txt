@@ -11,7 +11,7 @@ Recursion                2  ais523           2023-08-01
 Hot Potato               0  Agora            2023-08-27    Agora
 Blank                    4  snail            2023-05-28
 Anti-Equatorial          1  ais523           2023-08-01
-Radiance                 2  juan             2023-06-25
+Radiance                 2  juan             2023-09-04
 
 Player            Base Rockiness
 ----------------  --------------
@@ -55,6 +55,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-09-04 12:11:44  juan wields Radiance Stone, specifying self.
 2023-09-04 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
 2023-09-04 00:00:00  Janet gathers Soul Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-09-03 19:21:44  ais523 reaches for the Soul Stone.
