@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
 Power                    1  Janet            2023-06-11
-Soul                     0  Agora            2023-04-23    Agora
+Soul                     0  Janet            2023-04-23
 Sabotage                 2  Agora            2023-05-21    Agora
 Minty                    0  Agora            2023-09-01    Agora
 Protection               1  ais523           2023-09-01
@@ -17,13 +17,11 @@ Player            Base Rockiness
 ----------------  --------------
 Beokirby                      13
 juan                           7
-Janet                          2
 ais523                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-Janet              Soul             2023-09-03 19:20:49
-ais523             Soul             2023-09-03 19:21:44
+[None this week.]
 
 Summary of stone functions:
 
@@ -56,6 +54,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-09-04 00:00:00  Janet gathers Soul Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-09-03 19:21:44  ais523 reaches for the Soul Stone.
 2023-09-03 19:20:49  Janet reaches for Soul Stone.
 2023-09-03 19:41:21  Protection, Recursion, Anti-Equatorial Stones cease being immune after collection notice.
