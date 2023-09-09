@@ -22,7 +22,7 @@ Janet                          1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+ais523             Minty            2023-09-04 22:00:03
 
 Summary of stone functions:
 
@@ -55,6 +55,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-09-04 22:00:03  ais523 reaches for Minty Stone.
 2023-09-04 12:11:44  juan wields Radiance Stone, specifying self.
 2023-09-04 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
 2023-09-04 00:00:00  Janet gathers Soul Stone, resetting eir Base Rockiness and the stone's mossiness.
