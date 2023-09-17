@@ -22,7 +22,7 @@ ais523                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+ais523             Sabotage         2023-09-14 10:26:15
 
 Summary of stone functions:
 
@@ -55,6 +55,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-09-14 10:26:15  ais523 reaches for Sabotage Stone.
 2023-09-14 10:26:15  ais523 wields Minty Stone.
 2023-09-11 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
 2023-09-11 00:00:00  ais523 gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
