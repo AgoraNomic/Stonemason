@@ -23,6 +23,7 @@ ais523                         1
 Player             Reached For      Time
 -----------------  ---------------  -------------------
 ais523             Sabotage         2023-09-14 10:26:15
+Janet              Sabotage         2023-09-17 22:47:00
 
 Summary of stone functions:
 
@@ -55,6 +56,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-09-17 22:47:00  Janet reaches for Sabotage Stone.
 2023-09-17 22:47:00  Janet wields Power Stone, specifying self.
 2023-09-14 10:26:15  ais523 reaches for Sabotage Stone.
 2023-09-14 10:26:15  ais523 wields Minty Stone.
