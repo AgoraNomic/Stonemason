@@ -5,7 +5,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 Power                    1  Janet            2023-09-17
 Soul                     0  Janet            2023-04-23
 Sabotage                 0  Janet            2023-05-21
-Minty                    0  ais523           2023-09-14
+Minty                    0  ais523           2023-09-18
 Protection               1  ais523           2023-09-01
 Recursion                2  ais523           2023-08-01
 Hot Potato               0  Agora            2023-08-27    Agora
@@ -55,6 +55,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-09-18 00:00:01  ais523 wields Minty Stone, specifying self.
 2023-09-18 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
 2023-09-18 00:00:00  Janet gathers Sabotage Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-09-17 22:47:00  Janet reaches for Sabotage Stone.
