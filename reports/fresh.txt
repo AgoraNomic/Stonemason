@@ -4,7 +4,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
 Power                    1  Janet            2023-09-17
 Soul                     0  Janet            2023-04-23
-Sabotage                 2  Agora            2023-05-21    Agora
+Sabotage                 0  Janet            2023-05-21
 Minty                    0  ais523           2023-09-14
 Protection               1  ais523           2023-09-01
 Recursion                2  ais523           2023-08-01
@@ -17,13 +17,11 @@ Player            Base Rockiness
 ----------------  --------------
 Beokirby                      15
 juan                           9
-Janet                          2
 ais523                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-ais523             Sabotage         2023-09-14 10:26:15
-Janet              Sabotage         2023-09-17 22:47:00
+[None this week.]
 
 Summary of stone functions:
 
@@ -56,6 +54,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-09-18 00:00:00  Janet gathers Sabotage Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-09-17 22:47:00  Janet reaches for Sabotage Stone.
 2023-09-17 22:47:00  Janet wields Power Stone, specifying self.
 2023-09-14 10:26:15  ais523 reaches for Sabotage Stone.
