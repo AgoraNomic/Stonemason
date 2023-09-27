@@ -8,7 +8,7 @@ Sabotage                 0  Janet            2023-05-21
 Minty                    0  ais523           2023-09-18
 Protection               1  ais523           2023-09-01
 Recursion                2  ais523           2023-08-01
-Hot Potato               0  Agora            2023-08-27    Agora
+Hot Potato               0  ais523           2023-08-27
 Blank                    4  snail            2023-05-28
 Anti-Equatorial          1  ais523           2023-08-01
 Radiance                 2  juan             2023-09-04
@@ -17,12 +17,11 @@ Player            Base Rockiness
 ----------------  --------------
 Beokirby                      16
 juan                          10
-ais523                         2
 Janet                          1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-ais523             Hot Potato       2023-09-18 00:00:01
+[None this week.]
 
 Summary of stone functions:
 
@@ -55,6 +54,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-09-25 00:00:00  ais523 gathers Hot Potato Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-09-18 00:00:01  ais523 reaches for Hot Potato Stone.
 2023-09-18 00:00:01  ais523 wields Minty Stone, specifying self.
 2023-09-18 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
