@@ -61,7 +61,6 @@ History:
 2023-09-14 10:26:15  ais523 wields Minty Stone.
 2023-09-11 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
 2023-09-11 00:00:00  ais523 gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
-2023-09-04 00:00:00  Janet gathers Soul Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-09-09 20:18:53  Janet reaches for Minty Stone.
 2023-09-04 22:00:03  ais523 reaches for Minty Stone.
 2023-09-04 12:11:44  juan wields Radiance Stone, specifying self.
