@@ -15,10 +15,10 @@ Radiance                 2  juan             2023-09-04
 
 Player            Base Rockiness
 ----------------  --------------
-Beokirby                      17
-juan                          11
-Janet                          2
-ais523                         1
+Beokirby                      18
+juan                          12
+Janet                          3
+ais523                         2
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -55,6 +55,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-10-02 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
 2023-10-01 00:27:52  ais523 wields Protection Stone, specifying Anti-Equatorial Stone.
 2023-09-27 23:04:14  ais523 wields Minty Stone, specifying self.
 2023-09-27 23:04:14  ais523 wields Recurion Stone, specifying Protection Stone, specifying Recursion Stone.
