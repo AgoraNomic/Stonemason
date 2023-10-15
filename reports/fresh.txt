@@ -10,7 +10,7 @@ Protection               2  ais523           2023-10-01
 Recursion                3  ais523           2023-10-09
 Hot Potato               1  ais523           2023-08-27
 Blank                    0  ais523           2023-05-28
-Anti-Equatorial          2  ais523           2023-10-08
+Anti-Equatorial          3  ais523           2023-10-08
 Radiance                 3  ais523           2023-10-09
 
 Player            Base Rockiness
@@ -60,12 +60,12 @@ History:
 2023-10-09 00:05:26  ais523 wields Minty Stone, specifying self.
 2023-10-09 00:05:26  Mossiness of Blank stone incremented due to Recursion Stone as Anti-Equatorial Stone.
 2023-10-09 00:05:26  Blank Stone is transferred from snail to ais523 with Recursion Stone as Anti-Equatorial Stone.
-2023-10-09 00:05:26  ais523 wields Recursion Stone, specifying Anti-Equatorial Stone, speciying Radiance Stone.
+2023-10-09 00:05:26  ais523 wields Recursion Stone, specifying Anti-Equatorial Stone, specifying Radiance Stone.
 2023-10-09 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
 2023-10-09 00:00:00  ais523 gathers Blank Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-10-08 23:59:35  ais523 reaches for Blank Stone.
 2023-10-08 23:59:35  ais523 transfers Blank Stone to Agora, resetting mossiness.
-2023-10-08 23:59:35  Mossiness of Blank stone incremented due to Anti-Equatorial Stone.
+2023-10-08 23:59:35  Mossiness of Anti-Equatorial stone incremented due to Anti-Equatorial Stone.
 2023-10-08 23:59:35  Blank Stone is transferred from snail to ais523 with Anti-Equatorial Stone.
 2023-10-08 23:59:35  ais523 wields Anti-Equatorial Stone.
 2023-10-07 19:53:14  Recursion, Anti-Equatorial Stones cease being immune after collection notice.
