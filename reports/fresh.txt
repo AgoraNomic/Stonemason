@@ -9,8 +9,8 @@ Minty                    1  ais523           2023-10-02
 Protection               2  ais523           2023-10-01
 Recursion                3  ais523           2023-09-27
 Hot Potato               1  ais523           2023-08-27
-Blank                    5  snail            2023-05-28
-Anti-Equatorial          2  ais523           2023-08-01
+Blank                    6  ais523           2023-05-28
+Anti-Equatorial          2  ais523           2023-10-08
 Radiance                 3  juan             2023-09-04
 
 Player            Base Rockiness
@@ -55,6 +55,9 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-10-08 23:59:35  Mossiness of Blank stone incremented due to Anti-Equatorial Stone.
+2023-10-08 23:59:35  Blank Stone is transferred from snail to ais523 with Anti-Equatorial Stone.
+2023-10-08 23:59:35  ais523 wields Anti-Equatorial Stone.
 2023-10-07 19:53:14  Recursion, Anti-Equatorial Stones cease being immune after collection notice.
 2023-10-07 19:53:14  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Blank, Anti-Equatorial, Radiance Stones incremented per collection notice.
 2023-10-07 19:53:14  Collection notice.
