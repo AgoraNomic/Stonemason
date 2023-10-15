@@ -9,7 +9,7 @@ Minty                    1  ais523           2023-10-02
 Protection               2  ais523           2023-10-01
 Recursion                3  ais523           2023-09-27
 Hot Potato               1  ais523           2023-08-27
-Blank                    0  Agora            2023-05-28    Agora
+Blank                    0  ais523           2023-05-28
 Anti-Equatorial          2  ais523           2023-10-08
 Radiance                 3  juan             2023-09-04
 
@@ -18,11 +18,10 @@ Player            Base Rockiness
 Beokirby                      18
 juan                          12
 Janet                          3
-ais523                         2
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-ais523             Blank            2023-10-08 23:59:35
+[None this week.]
 
 Summary of stone functions:
 
@@ -55,6 +54,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-10-09 00:00:00  ais523 gathers Blank Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-10-08 23:59:35  ais523 reaches for Blank Stone.
 2023-10-08 23:59:35  ais523 transfers Blank Stone to Agora, resetting mossiness.
 2023-10-08 23:59:35  Mossiness of Blank stone incremented due to Anti-Equatorial Stone.
