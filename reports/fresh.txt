@@ -55,6 +55,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-10-09 03:57:14  [Janet attempts to reach for Blank Stone.]
 2023-10-09 00:05:26  ais523 wields Radiance Stone, specifying self.
 2023-10-09 00:05:26  ais523 wields Minty Stone, specifying self.
 2023-10-09 00:05:26  Mossiness of Blank stone incremented due to Recursion Stone as Anti-Equatorial Stone.
