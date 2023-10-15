@@ -5,7 +5,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 Power                    2  Janet            2023-09-17
 Soul                     1  Janet            2023-04-23
 Sabotage                 1  Janet            2023-05-21
-Minty                    1  ais523           2023-10-02
+Minty                    1  ais523           2023-10-09
 Protection               2  ais523           2023-10-01
 Recursion                3  ais523           2023-10-09
 Hot Potato               1  ais523           2023-08-27
@@ -55,6 +55,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-10-09 00:05:26  ais523 wields Minty Stone, specifying self.
 2023-10-09 00:05:26  Mossiness of Blank stone incremented due to Recursion Stone as Anti-Equatorial Stone.
 2023-10-09 00:05:26  Blank Stone is transferred from snail to ais523 with Recursion Stone as Anti-Equatorial Stone.
 2023-10-09 00:05:26  ais523 wields Recursion Stone, specifying Anti-Equatorial Stone, speciying Radiance Stone.
