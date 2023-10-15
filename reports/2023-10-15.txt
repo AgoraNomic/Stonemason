@@ -1,0 +1,647 @@
+THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
+
+Stone            Mossiness  Owner            Last Wielded  Immune?
+---------------  ---------  ---------------  ------------  -------
+Power                    2  Janet            2023-09-17
+Soul                     1  Janet            2023-04-23
+Sabotage                 1  Janet            2023-05-21
+Minty                    1  ais523           2023-10-09
+Protection               2  ais523           2023-10-01
+Recursion                3  ais523           2023-10-09
+Hot Potato               1  ais523           2023-08-27
+Blank                    0  ais523           2023-05-28
+Anti-Equatorial          2  ais523           2023-10-08
+Radiance                 3  ais523           2023-10-09
+
+Player            Base Rockiness
+----------------  --------------
+Beokirby                      19
+juan                          13
+Janet                          4
+ais523                         1
+
+Player             Reached For      Time
+-----------------  ---------------  -------------------
+[None this week.]
+
+Summary of stone functions:
+
+Power            A specified player's strength is increased by 3 on referenda
+                 on ordinary proposals in their voting period.
+
+Soul             A specified non-immune stone is stolen by the
+                 wielder, then the Soul Stone is transferred to the
+                 robbed player.
+
+Sabotage         The AI of a specified AI-majority decision is
+                 increased by 1.
+
+Minty            A specified player gains a stamp of eir own type.
+
+Protection       A specified stone becomes immune (until the next Collection
+                 Notice).
+
+Recursion        Can be wielded as any other stone.
+
+Hot Potato       Grants he wielder 8 radiance, then is transferred to another
+                 player.
+
+Blank            Does nothing.
+
+Anti-Equatorial  Steals the mossiest stone, then increases its own mossiness
+                 by one.
+
+Score            A specified player's radiance is increased by 3.
+
+History:
+=======
+2023-10-09 00:05:26  ais523 wields Radiance Stone, specifying self.
+2023-10-09 00:05:26  ais523 wields Minty Stone, specifying self.
+2023-10-09 00:05:26  Mossiness of Blank stone incremented due to Recursion Stone as Anti-Equatorial Stone.
+2023-10-09 00:05:26  Blank Stone is transferred from snail to ais523 with Recursion Stone as Anti-Equatorial Stone.
+2023-10-09 00:05:26  ais523 wields Recursion Stone, specifying Anti-Equatorial Stone, speciying Radiance Stone.
+2023-10-09 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
+2023-10-09 00:00:00  ais523 gathers Blank Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-10-08 23:59:35  ais523 reaches for Blank Stone.
+2023-10-08 23:59:35  ais523 transfers Blank Stone to Agora, resetting mossiness.
+2023-10-08 23:59:35  Mossiness of Blank stone incremented due to Anti-Equatorial Stone.
+2023-10-08 23:59:35  Blank Stone is transferred from snail to ais523 with Anti-Equatorial Stone.
+2023-10-08 23:59:35  ais523 wields Anti-Equatorial Stone.
+2023-10-07 19:53:14  Recursion, Anti-Equatorial Stones cease being immune after collection notice.
+2023-10-07 19:53:14  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Blank, Anti-Equatorial, Radiance Stones incremented per collection notice.
+2023-10-07 19:53:14  Collection notice.
+2023-10-02 01:29:28  ais523 wields Minty Stone, specifying self.
+2023-10-02 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
+2023-10-01 00:27:52  ais523 wields Protection Stone, specifying Anti-Equatorial Stone.
+2023-09-27 23:04:14  ais523 wields Minty Stone, specifying self.
+2023-09-27 23:04:14  ais523 wields Recurion Stone, specifying Protection Stone, specifying Recursion Stone.
+2023-09-25 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
+2023-09-25 00:00:00  ais523 gathers Hot Potato Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-09-18 00:00:01  ais523 reaches for Hot Potato Stone.
+2023-09-18 00:00:01  ais523 wields Minty Stone, specifying self.
+2023-09-18 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
+2023-09-18 00:00:00  Janet gathers Sabotage Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-09-17 22:47:00  Janet reaches for Sabotage Stone.
+2023-09-17 22:47:00  Janet wields Power Stone, specifying self.
+2023-09-14 10:26:15  ais523 reaches for Sabotage Stone.
+2023-09-14 10:26:15  ais523 wields Minty Stone.
+2023-09-11 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
+2023-09-11 00:00:00  ais523 gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-09-09 20:18:53  Janet reaches for Minty Stone.
+2023-09-04 22:00:03  ais523 reaches for Minty Stone.
+2023-09-04 12:11:44  juan wields Radiance Stone, specifying self.
+2023-09-04 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
+2023-09-04 00:00:00  Janet gathers Soul Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-09-03 19:21:44  ais523 reaches for the Soul Stone.
+2023-09-03 19:20:49  Janet reaches for Soul Stone.
+2023-09-03 19:41:21  Protection, Recursion, Anti-Equatorial Stones cease being immune after collection notice.
+2023-09-03 19:41:21  Mossiness of Power, Sabotage, Protection, Recursion, Blank, Anti-Equatorial, Radiance Stones incremented per collection notice.
+2023-09-03 19:41:21  Hot Potato Stone is transferred to Agora per collection notice, resetting mossiness.
+2023-09-03 19:41:21  Soul Stone is transferred to Agora per collection notice, resetting mossiness.
+2023-09-03 19:41:21  Minty Stone is transferred to Agora per collection notice, resetting mossiness.
+2023-09-01 17:36:15  Janet wields Minty Stone, specifying self.
+2023-09-01 01:23:42  ais523 wields Protection Stone, specifying Anti-Equatorial Stone.
+2023-08-28 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
+2023-08-28 00:00:00  ais523 gathers Anti-Equatorial Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-08-27 23:58:16  ais523 wields Protection Stone, specifying Protection Stone.
+2023-08-27 23:58:16  ais523 transfers Blank Stone to snail.
+2023-08-27 22:42:18  ais523 reaches for Anti-Equatorial Stone.
+2023-08-27 22:38:47  snail reaches for Anti-Equatorial Stone.
+2023-08-27 18:59:24  [Kate attempts to reach for Hot Potato Stone.]
+2023-08-27 18:57:06  Janet reaches for Anti-Equatorial Stone.
+2023-08-27 18:57:06  Hot Poato Stone is transferred from Janet to Kate with Hot Potato Stone.
+2023-08-27 18:57:06  Janet wields Hot Potato Stone, specifying Kate.
+2023-08-27 18:51:49  [Janet attempts to reach for Hot Potato Stone.]
+2023-08-27 18:51:49  Janet wields Minty Stone, specifying self.
+2023-08-21 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
+2023-08-21 00:00:00  Janet gathers Hot Potato Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-08-20 23:59:54  snail reaches for Hot Potato Stone.
+2023-08-20 22:38:47  Janet reaches for Hot Potato Stone.
+2023-08-20 22:38:47  Janet wields Minty Stone, specifying self.
+2023-08-14 16:12:42  ais523 reaches for Anti-Equatorial Stone.
+2023-08-14 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
+2023-08-14 00:00:00  ais523 gathers Protection Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-08-13 19:01:11  Janet reaches for Protection Stone.
+2023-08-13 19:01:11  Janet wields Minty Stone, specifying self.
+2023-08-13 16:12:39  ais523 reaches for Protection Stone.
+2023-08-11 22:48:15  G. reaches for Sabotage Stone.
+2023-08-07 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
+2023-08-07 00:00:00  Janet gathers Power Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-08-06 18:11:10  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Hot Potato, Blank, Radiance Stones incremented per collection notice.
+2023-08-06 18:11:10  Anti-Equatorial Stone is transferred to Agora per collection notice, resetting mossiness.
+2023-08-06 17:36:00  Janet reaches for Power Stone.
+2023-08-06 17:36:00  Janet wields Minty Stone, specifying self.
+2023-08-01 06:00:58  Mossiness of Anti-Equatorial Stone is incremented due to Anti-Equatorial Stone.
+2023-08-01 06:00:58  Blank Stone is transferred from juan to ais523 with Anti-Equatorial Stone.
+2023-08-01 06:00:58  ais523 wields Anti-Equatorial Stone.
+2023-08-01 06:00:58  ais523 wields Recursion Stone, specifying Protection Stone, specifying Recursion Stone.
+2023-08-01 06:00:58  ais523 reaches for Protection Stone.
+2023-08-01 01:17:21  [snail attempts to reach for Power Stone.]
+2023-08-01 01:17:21  [snail attempts to wield Hot Potato Stone, specifying Katie.]
+2023-07-31 23:58:00  snail transfers Blank Stone to juan.
+2023-07-31 22:35:43  snail reaches for Hot Potato Stone.
+2023-07-31 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
+2023-07-24 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
+2023-07-24 00:00:00  ais523 gathers Recursion Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-07-23 22:17:27  Janet reaches for Recursion Stone.
+2023-07-23 22:17:27  Janet wields Minty Stone, specifying self.
+2023-07-23 22:15:42  ais523 reaches for Recursion Stone.
+2023-07-10 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
+2023-07-17 00:00:00  juan gathers Radiance Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-07-16 21:21:31  Janet reaches for Power Stone.
+2023-07-16 21:21:31  Janet wields Minty Stone, specifying self.
+2023-07-10 21:35:51  juan reaches for Radiance Stone.
+2023-07-10 00:00:00  Base Rockiness of ais523, Beokirby, juan increased by 1 due to Dream of Gardens.
+2023-07-10 00:00:00  Janet gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-07-09 19:24:06  Janet reaches for Minty Stone.
+2023-07-09 18:16:57  Yachay Wayllukuq ceases to have a Base Rockiness switch after the adoption of P9002.
+2023-07-03 18:10:11  juan reaches for Radiance Stone.
+2023-07-03 00:00:00  Base Rockiness of ais523, Beokirby, Janet, juan increased by 1 due to Dream of Gardens.
+2023-07-03 00:00:00  juan gathers Soul Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-07-02 06:06:26  4st reaches for Sabotage Stone.
+2023-07-02 05:41:03  Janet reaches for Recursion Stone.
+2023-07-02 05:35:48  Mossiness of Soul, Blank, Anti-Equatorial Stones incremented per collection notice.
+2023-07-02 05:35:48  Power, Protection, Sabotage, Minty, Radiance, Recursion, Hot Potato stones are transferred to Agora per collection notice, resetting mossiness.
+2023-07-02 05:35:48  Collection notice.
+2023-06-26 16:06:34  juan reaches for Soul Stone.
+2023-06-26 00:00:00  Base Rockiness of ais523, Beokirby, Janet, juan increased by 1 due to Dream of Gardens.
+2023-06-26 00:00:00  ais523 gathers Protection Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-06-25 22:38:37  [Janet attempts to reach for Soul Stone.]
+2023-06-25 14:40:09  snail reaches for Soul Stone.
+2023-06-25 14:40:09  snail wields Radiance Stone, specifying self.
+2023-06-25 14:40:09  snail wields Minty Stone, specifying self.
+2023-06-19 15:14:08  juan reaches for Soul Stone.
+2023-06-19 14:35:44  ais523 reaches for Protection Stone.
+2023-06-19 13:08:45  Janet reaches for Soul Stone.
+2023-06-19 00:00:00  Base Rockiness of ais523, Beokirby, juan increased by 1 due to Dream of Gardens.
+2023-06-19 00:00:00  juan gathers Hot Potato Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-06-13 12:48:32  nix deregisters, resulting in Soul Stone being transferred to Agora.
+2023-06-12 12:44:18  juan reaches for Hot Potato Stone.
+2023-06-12 12:38:28  ais523 reaches for Protection Stone.
+2023-06-12 00:00:00  Base Rockiness of ais523, Beokirby, juan increased by 1 due to Dream of Gardens.
+2023-06-12 00:00:00  snail gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-06-11 19:31:08  ais523 wields Power Stone, specifying self.
+2023-06-11 19:21:43  snail wields Radiance Stone, specifying self.
+2023-06-11 19:21:43  snail reaches for Minty Stone.
+2023-06-06 11:38:03  [juan attempts to reach for Anti-Equatorial Stone.]
+2023-06-05 00:05:43  Janet reaches for Minty Stone.
+2023-06-05 00:05:14  ais523 reaches for Protection Stone.
+2023-06-05 00:00:00  Base Rockiness of ais523, Beokirby, snail increased by 1 due to Dream of Gardens.
+2023-06-05 00:00:00  ais523 gathers Anti-Equatorial Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-06-04 23:59:27  ais523 wields Power Stone, specifying self.
+2023-06-04 23:59:27  ais523 transfers Blank Stone to snail.
+2023-06-04 23:59:27  ais523 reaches for Anti-Equatorial Stone.
+2023-06-04 18:29:21  Recursion Stone transferred from Beokirby to 4st with Recursion Stone (as Soul Stone).
+2023-06-04 18:29:21  Sabotage Stone transferred from 4st to Beokirby with Recursion Stone (as Soul Stone).
+2023-06-04 18:29:21  Beokirby wields Recursion Stone, specifying Soul Stone, specifying Sabotage Stone.
+2023-06-04 18:29:21  Beokirby reaches for Anti-Equatorial Stone.
+2023-06-04 18:20:32  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Hot Potato, Blank, Radiance Stones incremented per collection notice.
+2023-06-04 18:20:32  Anti-Equatorial Stone is transferred from ais523 to Agora per collection notice, resetting mossiness.
+2023-06-04 18:20:32  Collection notice.
+2023-06-01 21:16:54  [snail attempts to wield Anti-Equatorial Stone.]
+2023-06-01 21:16:54  [snail attempts to wield Recursion Stone, specifying Soul Stone, specifying Anti-Equatorial Stone.]
+2023-06-01 21:16:54  snail reaches for Minty Stone.
+2023-06-01 21:16:54  snail wields Radiance Stone, specifying self.
+2023-05-29 00:00:07  Janet reaches for Minty Stone.
+2023-05-29 00:00:00  Base Rockiness of ais523, beokirby, snail, Yachay Wayllukuq increased by 1 due to Dream of Gardens.
+2023-05-29 00:00:00  Beokirby gathers Recursion Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-05-28 22:30:54  ais523 wields Blank Stone.
+2023-05-28 22:30:54  ais523 wields Power Stone, specifying self.
+2023-05-28 22:30:54  Power Stone is transferred from Janet to ais523 with Anti-Equatorial Stone.
+2023-05-28 22:30:54  ais523 wields Anti-Equatorial Stone.
+2023-05-28 21:53:36  Beokirby reaches for the Recursion Stone.
+2023-05-22 00:01:00  [snail attempts to reach for the Hot Potato Stone.]
+2023-05-22 00:01:00  snail wields Radiance Stone.
+2023-05-22 00:01:00  snail reaches for Recursion Stone.
+2023-05-22 00:00:00  Janet reaches for Recursion Stone.
+2023-05-22 00:00:00  Base Rockiness of ais523, beokirby, snail, Yachay Wayllukuq increased by 1 due to Dream of Gardens.
+2023-05-22 00:00:00  ais523 gathers Blank Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-05-21 17:55:18  inalienableWright reaches for Hot Potato Stone.
+2023-05-21 17:50:12  4st wields Sabotage Stone, specifying referendum on P8981.
+2023-05-21 04:45:44  ais523 reaches for Blank Stone.
+2023-05-19 03:01:23  Janet reaches for Recursion Stone.
+2023-05-19 03:01:23  Janet wields Power Stone, specifying self.
+2023-05-15 00:33:29  snail reaches for Minty Stone.
+2023-05-15 00:33:29  snail wields Radiance Stone, specifying self.
+2023-05-15 00:00:00  Base Rockiness of ais523 increased by 1 due to Dream of Gardens.
+2023-05-15 00:00:00  4st gathers Sabotage Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-05-12 05:18:12  P8964 results in destruction of Jockey Stone and creation of Minty Stone.
+2023-05-08 22:08:27  Yachay Wayllukuq reaches for Anti-Equatorial Stone.
+2023-05-08 20:12:04  Janet reaches for Protection Stone.
+2023-05-08 20:12:04  Janet wields Power Stone, specifying self.
+2023-05-08 16:42:46  4st reaches for Sabotage Stone.
+2023-05-08 07:44:26  snail reaches for Recursion Stone.
+2023-05-08 07:44:26  snail wields Radiance Stone, specifying self.
+2023-05-08 00:00:00  Base Rockiness of ais523 increased by 1 due to Dream of Gardens.
+2023-05-08 00:00:00  ais523 gathers Anti-Equatorial Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-05-07 22:28:24  Mossiness of Power, Soul, Jockey, Recursion, Blank, Anti-Equatorial, Radiance Stones is incremented per colection notice.
+2023-05-07 22:28:24  Protection Stone Stone is transferred from Janet to Agora per collection notice, resetting mossiness.
+2023-05-07 22:28:24  Hot Potato Stone Stone is transferred from Yahay Wayllukuq to Agora per collection notice, resetting mossiness.
+2023-05-07 22:28:24  Sabotage Stone Stone is transferred from 4st to Agora per collection notice, resetting mossiness.
+2023-05-07 22:28:24  Power Stone ceases being immune after Collection Notice.
+2023-05-07 22:28:24  Collection notice.
+2023-05-07 20:59:12  Janet wields Protection Stone, specifying Power Stone.
+2023-05-07 20:41:19  aist523 reaches for Anti-Equatorial Stone.
+2023-05-04 03:15:24  Janet wields Power Stone, specifying self.
+2023-05-01 00:24:57  snail reaches for Anti-Equatorial Stone.
+2023-05-01 00:24:57  snail wields Radiance Stone, specifying self.
+2023-05-01 00:00:00  Base Rockiness of ais523 increased by 1 due to Dream of Gardens.
+2023-05-01 00:00:00  snail gathers Radiance Stone, resetting mossiness.
+2023-04-30 23:23:21  Janet wields Power Stone, specifying self.
+2023-04-30 08:04:33  ais523 reaches for Anti-Equatorial Stone.
+2023-04-30 08:04:33  [ais523 attempts to wield Recursion Stone, specifying Protection Stone, specifying Recursion Stone.]
+2023-04-29 23:58:00  snail transfers Jockey Stone to ais523.
+2023-04-25 09:56:00  snail reaches for Radiance Stone.
+2023-04-24 00:00:00  snail gathers Jockey Stone, resetting mossiness.
+2023-04-23 23:40:23  ais523 reaches for Recursion Stone.
+2023-04-23 22:11:02  Janet wields Power Stone, specifying self.
+2023-04-23 19:51:27  snail reaches for Jockey Stone.
+2023-04-23 19:51:27  Hot Potato Stone is transferred from snail to Yachay Wayllukuq with Hot Potato Stone.
+2023-04-23 19:51:27  snail wields Hot Potato Stone, specifying Yachay Wallukuq.
+2023-04-23 19:51:27  Hot Potato Stone is transferred from nix to snail with Soul Stone.
+2023-04-23 19:51:27  snail wields Soul Stone, specifying Hot Potato Stone.
+2023-04-17 00:00:00  snail gathers Soul Stone, resetting mossiness.
+2023-04-15 23:36:23  [ais523 attempts to reach for Sabotage Stone.]
+2023-04-15 23:32:48  [Yachay Wayllukuq attempts to reach for Recursion Stone.]
+2023-04-15 23:31:21  Yachay Wayllukuq reaches for Soul Stone.
+2023-04-15 23:18:42  snail reaches for Soul Stone.
+2023-04-15 23:13:14  Janet wields Power Stone, specifying self.
+2023-04-10 00:00:00  4st gathers Sabotage Stone, resetting mossiness.
+2023-04-09 23:31:50  Janet wields Power Stone, specifying self.
+2023-04-05 18:11:24  nix reaches for Recursion Stone.
+2023-04-04 20:19:02  [snail attempts to wield Hot Potato Stone, specifying Yachay.]
+2023-04-03 00:24:41  4st reaches for Sabotage Stone.
+2023-04-03 00:00:00  nix gathers Hot Potato Stone, resetting mossiness.
+2023-04-02 05:42:51  Power Stone ceases being immune after Collection Notice.
+2023-04-02 05:42:51  Mossiness of Power, Jockey, Protection, Hot Potato, Blank Stones is incremented per collection notice.
+2023-04-02 05:42:51  Radiance Stone is transferred from snail to Agora per collection notice, resetting mossiness.
+2023-04-02 05:42:51  Recursion Stone is transferred from nix to Agora per collection notice, resetting mossiness.
+2023-04-02 05:42:51  Anti-Equatorial Stone is transferred from Janet to Agora per collection notice, resetting mossiness.
+2023-04-02 05:42:51  Soul Stone is transferred from Aspen to Agora per collection notice, resetting mossiness.
+2023-04-02 05:42:51  Sabotage Stone is transferred from 4st to Agora per collection notice, resetting mossiness.
+2023-04-02 05:42:51  Collection notice.
+2023-04-02 05:42:17  snail wields Radiance Stone, specifying self.
+2023-04-02 05:14:43  Janet transfers Soul Stone to Aspen.
+2023-04-02 05:14:43  Soul Stone is transferred to Janet with Anti-Equatorial Stone.
+2023-04-02 05:14:43  Janet wields Anti-Equatorial Stone, specifying Soul Stone.
+2023-04-02 05:14:43  Janet wields Protection Stone, specifying Power Stone.
+2023-04-02 05:14:43  Janet wields Power Stone, specifying self.
+2023-04-02 05:14:43  Janet reaches for Hot Potaton Stone.
+2023-03-28 00:27:28  nix reaches for Hot Potato Stone.
+2023-03-27 00:00:00  4st gathers Sabotage Stone.
+2023-03-26 07:12:22  Janet wields Power Stone, specifying self.
+2023-03-24 09:59:41  snail reaches for Hot Potato Stone.
+2023-03-21 17:05:00  4st reaches for Sabotage Stone.
+2023-03-21 17:00:27  [4st attempts to reach for Power Stone.]
+2023-03-20 01:57:45  [Yachay Wayllukuq attempts to reach for Radiance Stone.]
+2023-03-20 00:00:00  nix gathers Recursion Stone.
+2023-03-19 22:21:25  nix reaches for Recursion Stone.
+2023-03-19 22:11:01  snail reaches for Recursion Stone.
+2023-03-16 03:26:14  Janet reaches for Recursion Stone.
+2023-03-16 03:26:14  Power Stone is transferred to Janet with Anti-Equatorial Stone.
+2023-03-16 03:26:14  Janet wields the Anti-Equatorial Stone, specifying Power Stone.
+2023-03-14 05:57:15  snail wields Radiance Stone, specifying self.
+2023-03-14 05:57:15  snail wields Power Stone.
+2023-03-14 05:57:15  [snail attempts to reach for Soul Stone.]
+2023-03-13 00:00:00  Janet gathers Anti-Equatorial Stone.
+2023-03-12 04:28:19  Recalculation of immunity after P8920.
+2023-03-12 04:28:18  P8919 results in rename of Score Stone to Radiance Stone.
+2023-03-06 02:44:48  Hot Potato Stone is transferred from Aspen to Agora per collection notice, resetting mossiness.
+2023-03-06 01:03:08  snail reaches for Jockey Stone.
+2023-03-06 01:03:08  snail wields Score Stone, specifying self.
+2023-03-06 01:03:08  snail wields Power Stone, specifying self.
+2023-03-06 00:00:00  Janet reaches for Anti-Equatorial Stone.
+2023-03-06 00:00:00  Hot Potato Stone is transferred from Janet to Aspen with Hot Potato Stone.
+2023-03-06 00:00:00  Janet wields Hot Potato Stone, specifying Aspen.
+2023-03-06 00:00:00  Soul Stone is transferred from Janet to Aspen with Soul Stone.
+2023-03-06 00:00:00  Hot Potato Stone is transferred from Aspen to Janet with Soul Stone.
+2023-03-06 00:00:00  Janet wields Soul Stone, specifying Hot Potato Stone.
+2023-03-06 00:00:00  Janet gathers the Soul Stone.
+2023-03-05 23:19:46  snail wields Power Stone.
+2023-03-03 05:01:43  Janet reaches for Soul Stone.
+2023-03-03 05:01:43  Janet transfers Protection Stone from AGora to self with Dream of Gardens, resetting mossiness.
+2023-03-02 06:16:36  snail wields Score Stone, specifying self.
+2023-02-27 20:01:42  snail reaches for Soul Stone.
+2023-02-27 00:00:00  snail gathers the Power Stone.
+2023-02-26 06:47:38  Janet transfers Power Stone from Agora to self with Dream of Gardens, resetting mossiness.
+2023-02-26 06:47:38  Janet reaches for Power Stone.
+2023-02-20 00:03:55  snail reaches for Power Stone.
+2023-02-20 00:03:55  snail wields Score Stone, specifying self.
+2023-02-20 00:00:00  snail gathers the Score Stone.
+2023-02-19 05:59:30  Janet reaches for Power Stone.
+2023-02-19 05:59:30  Janet wields Score Stone, specifying self.
+2023-02-19 05:59:30  Janet transfers Score Stone from Agora to self with Dream of Gardens, resetting mossiness.
+2023-02-19 05:59:30  Hot Potato Stone is transferred to Aspen with Hot Potato Stone.
+2023-02-19 05:59:30  Janet wields Hot Potato Stone, specifying Aspen.
+2023-02-19 05:59:30  Hot Potato Stone is transferred to Janet with Soul Stone.
+2023-02-19 05:59:30  Soul Stone is transferred to Agora with Soul Stone.
+2023-02-19 05:59:30  Janet wields Soul Stone, specifying Hot Potato Stone.
+2023-02-17 08:59:04  snail reaches for the Score Stone.
+2023-02-12 23:58:44  Janet transfers Soul Stone to self from Agora, resetting mossiness.
+2023-02-10 02:52:13  All stones are transferred to Agora after Rock Garden Noticing.
+2023-02-08 01:56:46  Murphy wields Jockey Stone, specifying Baxter.
+2023-02-08 01:56:46  Murphy wields Recusion Stone, specifying Power Stone, specifying self.
+2023-02-07 21:13:08  snail wields Sabotage Stone, specifying referendum on P8899.
+2023-02-06 03:25:00  snail wields the Score Stone, specifying self.
+2023-02-06 03:25:00  snail wields the Power Stone, specifying self.
+2023-02-06 03:01:31  Murphy transfers Sabotage Stone to snail.
+2023-02-06 03:01:31  Murphy transfers Score Stone to snail.
+2023-02-06 03:01:31  Murphy transfers Power Stone to snail.
+2023-02-06 02:52:13  snail Notices the Rock Garden.
+2023-02-06 02:52:13  snail transfers Score Stone to Murphy.
+2023-02-06 02:52:13  snail wields Hot Potato Stone, specifying Murphy.
+2023-02-06 02:52:13  snail transfers Sabotage Stone to Murphy.
+2023-02-06 02:52:13  snail transfers Power Stone to Murphy.
+2023-02-06 02:48:08  Murphy transfers Soul Stone to self from Agora, resetting mossiness.
+2023-02-05 23:23:24  snail wields Power Stone, specifying self.
+2023-02-05 22:28:32  4st wields Hot Potato Stone, transferring it to snail.
+2023-02-05 22:28:32  4st transfers Hot Potato Stone to self from Agora, resetting mossiness.
+2023-02-05 22:26:01  Anti-Equatorial Stone is transferred from snail to Agora per collection notice, resetting mossiness.
+2023-02-04 23:04:31  P8886 takes effect, repealing Mason's Stone.
+2023-02-02 07:56:68  snail wields Anti-Equatorial Stone, causing Protection Stone to be transferred to snail, and increasing Mossiness by 1.
+2023-02-02 07:56:68  Sabotage Stone is transferred to snail with Soul Stone.
+2023-02-02 07:56:68  Soul Stone is transferred to Agora with Soul Stone.
+2023-02-02 07:56:68  snail wields Soul Stone, specifying Sabotage Stone.
+2023-02-02 07:52:15  Murphy transfers Blank Stone from Agora to self, resetting mossiness.
+2023-02-01 15:01:56  G. wields Protection Stone, specifying Protection Stone.
+2023-01-30 00:27:36  snail wields Score Stone.
+2023-01-30 00:27:36  snail transfers Soul Stone from Agora to self, resetting mossiness.
+2023-01-29 20:42:48  snail wields Score Stone.
+2023-01-29 20:42:48  snail wields Power Stone.
+2023-01-29 20:42:48  snail transfers Power Stone from Agora to self, resetting mossiness.
+2023-01-22 17:50:04  Murphy wields Recursion Stone, specifying Jockey Stone, specifying Baxter.
+2023-01-22 17:50:04  Murphy wields Jockey Stone, specifying Rupert.
+2023-01-22 17:50:04  Murphy transfers Recursion Stone from Agora to self, resetting mossiness.
+2023-01-22 17:50:04  Murphy transfers Jockey Stone from Agora to self, resetting mossiness.
+2023-01-16 05:29:53  snail wields Anti-Equatorial Stone. (No effect per CFJ 4003.)
+2023-01-16 05:29:53  snail transfers Anti-Equatorial Stone from Agora to self, resetting mossiness.
+2023-01-16 01:21:34  snail wields Score Stone.
+2023-01-09 05:29:53  snail wields Score Stone.
+2023-01-09 05:29:53  snail transfers Score Stone from Agora to self, resetting mossiness.
+2023-01-01 21:30:15  Protection Stone ceaess being immune after collection notice.
+2023-01-01 21:30:15  Hot Potato Stone is transferred from Shy Owl to Agora per collection notice.
+2023-01-01 21:30:15  Mason's Stone's mossiness automatically reset to 0.
+2023-01-01 21:30:15  Collection notice.
+2022-12-29 23:02:40  G. wields Protection Stone, specifying Protection Stone.
+2022-12-19 03:04:05  snail wields Hot Potato Stone, transferring it to Shy Owl, and resetting mossiness.
+2022-12-19 03:04:05  snail transfers Hot Potato Stone from Agora to self, resetting mossiness.
+2022-12-04 20:12:05  Protection Stone ceases being immune after collection notice.
+2022-12-04 20:12:05  Mason's Stone's mossiness automatically reset to 0.
+2022-12-04 20:12:05  Collection notice.
+2022-11-30 17:41:19  G. wields Protection Stone, specifying Protection Stone.
+2022-11-26 19:33:45  Mason's Stone is automatically transferred from Agora to Janet.
+2022-11-26 19:33:45  P8867 takes effect, changing the set of Stones, and setting all Mossiness values to 0.
+2022-11-07 02:56:14  Jockey Stone is transferred from snail to Agora per collection notice.
+2022-11-07 02:56:14  Recursion Stone is transferred from snail to Agora per collection notice.
+2022-11-07 02:56:14  Power Stone is transferred from Janet to Agora per collection notice.
+2022-11-06 20:10:22  snail wields Recursion Stone, specifying Jockey Stone, specifying Fargo.
+2022-11-06 20:10:22  snail wields Jockey Stone, specifying Fargo.
+2022-10-31 12:38:35  Blank Stone is transferred from Trigon to Agora after deregistration.
+2022-10-17 03:00:08  Recursion Stone is transferred to snail from Agora in auction resolution.
+2022-10-17 03:00:08  Jockey Stone is transferred to snail from Agora in auction resolution.
+2022-10-05 03:58:08  Protection Stone ceases being immune after collection notice.
+2022-10-05 03:58:08  Tasty Stone is transferred from Janet to snail per collection notice.
+2022-10-05 03:58:08  Sabotage Stone is transferred from Janet to Agora per collection notice.
+2022-10-05 03:58:08  Wealth Stone is transferred from Janet to Agora per collection notice.
+2022-10-02 23:07:35  G. wields Protection Stone, specifying Protection Stone.
+2022-10-02 22:39:35  Janet wields Power Stone, specifying self.
+2022-10-02 22:39:35  Janet wields Wealth Stone, specifying self.
+2022-09-25 05:56:52  Janet wields the Sabotage Stone, specifying referendum on Proposal 8557.
+2022-09-25 05:56:52  Janet wields the Wealth Stone, specifying self.
+2022-09-25 05:56:52  Janet wields the Power Stone, specifying self.
+2022-09-18 18:22:29  Janet wields Wealth Stone, specifying self.
+2022-09-11 22:19:33  Janet wields Wealth Stone, specifying self.
+2022-09-11 21:54:00  Sabotage Stone is transferred to Janet from Agora in auction resolution.
+2022-09-11 21:54:00  Wealth Stone is transferred to Janet from Agora in auction resolution.
+2022-09-03 21:01:34  Protection Stone ceases being immune after collection notice.
+2022-09-03 21:01:34  Hot Potato Stone is transferred from snail to Agora per collection notice.
+2022-09-03 21:01:34  Recursion Stone is transferred from Murphy to Agora per collection notice.
+2022-09-03 08:16:43  Hot Potato Stone is transferred to snail from Agora due to Bowerbird.
+2022-09-03 08:16:43  snail transfers Hot Potato Stone to juan.
+2022-09-03 08:16:43  snail wields Hot Potato Stone.
+2022-09-01 00:31:19  G. wields Protection Stone, specifying Protection Stone.
+2022-08-31 22:39:35  Janet wields Power Stone, specifying self.
+2022-08-30 03:44:33  Jockey Stone created by Proposal 8842.
+2022-08-30 03:44:33  Concentration Stone destroyed by Proposal 8842.
+2022-08-14 23:07:49  snail wields Tasty Stone, specifying Raven.
+2022-08-14 19:41:57  Hot Potato Stone is transferred to snail from Agora in auction resolution.
+2022-08-14 19:41:57  Tasty Stone is transferred to snail from Agora in auction resolution.
+2022-08-07 20:02:46  Recursion Stone ceases being immune after collection notice.
+2022-08-07 20:02:46  Protection Stone ceases being immune after collection notice.
+2022-08-07 20:02:46  Sabotage Stone is transferred from Murphy to Agora per collection notice.
+2022-08-01 01;11:33  G. wields Protection Stone, specifying Protection Stone.
+2022-07-31 20:54:55  Janet wields Power Stone, specifying self.
+2022-07-24 21:28:57  Murphy wields Recursion Stone, specifying Power Stone, specifying Recursion Stone.
+2022-07-19 03:19:30  Sabotage Stone is transferred to Murphy from Agora in auction resolution.
+2022-07-19 03:19:30  Recursion Stone is transferred to Murphy from Agora in auction resolution.
+2022-07-03 22:06:34  Protection Stone ceases being immune after collection notice.
+2022-07-03 22:06:34  Wealth Stone is transferred from Janet to Agora per collection notice.
+2022-07-03 03:06:22  Janet wields Wealth Stone, specifying self.
+2022-07-02 04:36:12  G. wields Protection Stone, specifying Protection Stone.
+2022-06-26 02:42:14  Janet wields Power Stone, specifying self.
+2022-06-26 02:42:14  Janet wields Wealth Stone, specifying self.
+2022-06-19 18:17:35  Janet wields Power Stone, specifying self.
+2022-06-19 18:17:35  Janet wields Wealth Stone, specifying self.
+2022-06-18 17:20:38  Power Stone is transferred to Janet from Agora in auction resolution.
+2022-06-18 17:20:38  Wealth Stone is transferred to Janet from Agora in auction resolution.
+2022-06-05 17:46:42  Protection Stone ceases being immune after collection notice.
+2022-06-02 17:03:32  G. wields Protection Stone, specifying Protection Stone.
+2022-05-03 23:25:04  Protection Stone ceases being immune after collection notice.
+2022-05-03 23:25:04  Wealth Stone is transferred from Janet to Agora per collection notice.
+2022-05-03 23:25:04  Power Stone is transferred from Janet to Agora per collection notice.
+2022-05-03 23:23:06  Janet wields Power Stone, specifying self.
+2022-05-03 00:08:13  snail wields Wealth Stone, specifying self.
+2022-05-01 15:51:23  G. wields Protection Stone, specifying Protection Stone.
+2022-05-01 00:16:02  snail wields Wealth Stone, specifying self.
+2022-04-24 23:44:23  snail wields Wealth Stone, specifying self.
+2022-04-23 21:36:05  Janet wields Power Stone, specifying self.
+2022-04-10 07:03:31  snail wields Wealth Stone, specifying self.
+2022-04-03 05:21:28  Protection Stone ceases being immune after collection notice.
+2022-04-03 05:21:28  Alchemy stone is transferred from Janet to Agora per collection notice.
+2022-04-03 05:21:28  Hot Potato stone is transferred from Gaelan to Agora per collection notice.
+2022-04-01 00:25:34  G. wields Protection Stone, specifying Protection Stone.
+2022-03-31 16:28:50  Janet wields Power Stone, specifying self.
+2022-03-28 20:08:21  snail wields Wealth Stone, specifying self.
+2022-03-27 01:46:56  Janet wields Power Stone, specifying self.
+2022-03-27 01:39:29  Janet wields Alchemy Stone, specifying 1 win card, 3 legislative cards, and 7 winsomes.
+2022-03-24 22:22:46  snail wields Wealth Stone, specifying self.
+2022-03-18 03:34:21  snail wields Wealth Stone, specifying self.
+2022-03-16 22:08:10  Janet transfers Hot Potato stone to Gaelan.
+2022-03-16 22:08:10  Janet wields Hot Potato stone.
+2022-03-16 22:03:17  Alchemy Stone is transferred to Janet from Agora in auction resolution.
+2022-03-16 22:03:17  Hot Potato Stone is transferred to Janet from Agora in auction resolution.
+2022-03-12 01:58:38  snail wields Wealth Stone, specifying self.
+2022-03-08 23:15:29  Janet wields Power Stone, specifying self.
+2022-03-04 17:59:58  Protection Stone ceases being immune after collection notice.
+2022-03-04 17:59:58  Power Stone ceases being immune after collection notice.
+2022-03-04 17:59:58  Recursion Stone is transferred from Janet to Agora per collection notice.
+2022-03-02 16:55:45  G. wields Protection Stone, specifying Protection Stone
+2022-03-02 01:12:07  snail wields Wealth Stone, specifying self.
+2022-03-02 00:17:12  Janet wields Recursion Stone as Protection Stone, specifying Power Stone.
+2022-02-21 15:23:28  snail wields Wealth Stone, specifying self.
+2022-02-20 23:42:37  Power Stone is transferred to Janet from Agora in auction resolution.
+2022-02-20 23:42:37  Wealth Stone is transferred to snail from Agora in auction resolution.
+2022-02-07 01:53:16  Recursion Stone ceases being immune after collection notice.
+2022-02-07 01:53:16  Protection Stone ceases being immune after collection notice.
+2022-02-07 01:53:16  Alchemy Stone is transferred from Trigon to Agora per collection notice.
+2022-02-07 01:53:16  Wealth Stone is transferred from G. to Agora per collection notice.
+2022-02-04 19:06:56  G. wields Wealth Stone, specifying self.
+2022-02-03 04:26:16  G. wields Protection Stone, specifying Protection Stone.
+2022-02-03 03:19:01  Janet wields Recursion Stone, specifying Protection Stone, specifying Recursion Stone.
+2022-01-30 22:34:39  G. wields Wealth Stone, specifying self.
+2022-01-23 20:28:24  G. wields Wealth Stone, specifying self.
+2022-01-15 19:39:36  Alchemy Stone is transferred to Trigon from Agora in auction resolution.
+2022-01-15 19:39:36  Blank Stone is transferred to Trigon from Agora in auction resolution.
+2022-01-12 18:31:23  G. wields Wealth Stone, specifying self.
+2022-01-04 17:40:25  Recursion Stone ceases being immune after collection notice.
+2022-01-04 17:40:25  Protection Stone ceases being immune after collection notice.
+2022-01-04 17:40:25  Concentration Stone is transferred from Janet to Agora per collection notice.
+2022-01-04 17:40:25  Soul Stone is transferred from Janet to Agora per collection notice.
+2022-01-04 03:00:28  Janet wields Concentration Stone, specifying self.
+2022-01-02 04:36:12  Janet wields Recursion Stone, specifying Protection Stone, specifying Recursion Stone.
+2021-12-31 23:51:52  G. wields Protection Stone, specifying Protection Stone.
+2021-12-31 23:51:52  G. wields Wealth Stone, specifying self.
+2021-12-17 17:32:23  G. wields Wealth Stone, specifying self.
+2021-12-17 04:19:59  Protection Stone is transferred to G. from Agora in auction resolution.
+2021-12-17 04:19:59  Recursion Stone is transferred to Janet from Agora in auction resolution.
+2021-12-08 21:12:02  G. wields Wealth Stone, specifying self.
+2021-12-08 18:10:01  Wealth Stone is transferred to G. from Agora in auction resolution.
+2021-12-08 18:10:01  Soul Stone is transferred to Janet from Agora in auction resolution.
+2021-12-04 03:16:26  Janet wields Concentration Stone, specifying self.
+2021-11-04 01:09:15  Alchemy Stone is transferred from Trigon to Agora per collection notice.
+2021-11-04 01:09:15  Recursion Stone is transferred from Trigon to Agora per collection notice.
+2021-11-04 01:09:15  Wealth Stone is transferred from ais523 to Agora per collection notice.
+2021-11-04 00:59:15  Janet wields Concentration Stone, specifying self.
+2021-11-01 00:07:40  ais523 wields Wealth Stone, specifying self.
+2021-10-31 21:49:26  Trigon wields Recursion Stone, specifying Wealth Stone, specifying Janet.
+2021-10-25 00:07:21  ais523 wields Wealth Stone, specifying self.
+2021-10-20 20:12:26  ais523 wields Wealth Stone, specifying self.
+2021-10-18 20:55:11  Alchemy Stone is transferred to Trigon from Agora in auction resolution.
+2021-10-18 20:55:11  Recursion Stone is transferred to Trigon from Agora in auction resolution.
+2021-10-12 13:48:48  ais523 wields Wealth Stone, specifying self.
+2021-10-06 23:27:13  Wealth Stone ceases being immunte after collection notice.
+2021-10-06 23:27:13  Protection Stone is transferred from ais523 to Agora per collection notice.
+2021-10-06 23:27:13  Sabotage Stone is transferred from Janet to Agora per collection notice.
+2021-10-06 23:27:13  Soul Stone is transferred from Janet to Agora per collection notice.
+2021-10-06 23:27:13  Power Stone is transferred from Janet to Agora per collection notice.
+2021-10-06 14:16:08  Janet wields Concentration Stone, specifying self.
+2021-10-05 21:24:32  ais523 wields Wealth Stone, specifying self.
+2021-10-04 15:14:17  Janet wields Power Stone, specifying self.
+2021-10-04 15:08:48  Janet wields Sabotage Stone, specifying referendum on Proposal 8630.
+2021-10-02 22:50:43  ais523 wields Protection Stone, specifying Wealth Stone.
+2021-10-02 22:42:43  Protection Tone is transferred to ais523 from Agora in auction resolution.
+2021-10-02 21:00:26  Sabotage Stone is transferred to Janet from Agora in auction resolution.
+2021-10-02 21:00:26  Soul Stone is transferred to Janet from Agora in auction resolution.
+2021-10-02 20:12:23  ais523 wields Wealth Stone, specifying self.
+2021-09-22 17:52:56  ais523 wields Wealth Stone, specifying self.
+2021-09-20 21:15:06  Janet wields Concentration Stone, specifying self.
+2021-09-15 18:55:17  ais523 wields Wealth Stone, specifying self.
+2021-09-15 18:01:19  Janet wields Power Stone, specifying self.
+2021-09-15 18:00:14  Concentration Stone is transfered to Janet from Agora in auction resolution.
+2021-09-15 18:00:14  Wealth Stone is transfered to ais523 from Agora in auction resolution.
+2021-09-15 18:00:14  Power Stone is transfered to Janet from Agora in auction resolution.
+2021-08-17 02:30:29  All stones are transfered to Agora after Gauntlet Noticing.
+2021-08-13 02:30:29  R. Lee Notices the Gauntlet, specifying R. Lee.
+2021-08-13 02:26:45  Janet transfers Sabotage Stone to R. Lee.
+2021-08-13 01:52:34  G. transfers Wealth Stone to R. Lee.
+2021-08-13 01:53:34  G. wields Wealth Stone, specifying self.
+2021-08-12 23:50:18  Soul Stone is transferred to R. Lee from Agora in auction resolution.
+2021-08-12 23:50:18  Power Stone is transferred to R. Lee from Agora in auction resolution.
+2021-08-02 19:49:03  G. wields Wealth Stone, specifying self.
+2021-08-01 04:36:13  R. Lee wields Concentration Stone, specifying self.
+2021-08-01 01:05:34  Concentration Stone ceases being immune after collection notice.
+2021-08-01 01:05:34  Power Stone is transfered from G. to Agora per collection notice.
+2021-07-30 17:51:06  G. wields Wealth Stone, specifying self.
+2021-07-21 22:53:35  Trigon wields Protection Stone, specifying Concentration Stone.
+2021-07-21 00:19:14  G. wields Wealth Stone, specifying self.
+2021-07-20 23:24:42  R. Lee wields Concentration Stone, specifying self.
+2021-07-20 21:54:17  Protection Stone is transferred to Trigon from Agora in auction resolution.
+2021-07-20 21:54:17  Concentration Stone is transferred to R. Lee from Agora in auction resolution.
+2021-07-20 21:54:17  Sabotage Stone is transferred to Janet from Agora in auction resolution.
+2021-07-13 20:24:09  G. wields Wealth Stone, specifying self.
+2021-07-07 02:20:43  G. wields Wealth Stone, specifying self.
+2021-07-02 19:14:16  Concentration Stone is transferred from Janet to Agora per collection notice.
+2021-06-28 15:45:19  G. wields Wealth Stone, specifying self.
+2021-06-21 02:03:01  G. wields Wealth Stone, specifying self.
+2021-06-21 02:03:01  G. wields Power Stone, specifying self.
+2021-06-17 13:32:19  Janet wields Concentration Stone, specifying self.
+2021-06-15 23:14:06  G. wields Wealth Stone, specifying self.
+2021-06-15 23:14:06  G. wields Power Stone, specifying self.
+2021-06-15 21:59:28  Concentration Stone is transferred to Janet from Agora in auction resolution.
+2021-06-15 21:59:28  Wealth Stone is transferred to G. from Agora in auction resolution.
+2021-06-15 21:59:28  Power Stone is transferred to G. from Agora in auction resolution.
+2021-05-30 15:25:14  Falsifian wields the Gauntlet. All stones are transferred to Agora.
+2021-05-29 00:14:31  Janet transfers Protection Stone to Falsifian.
+2021-05-29 00:14:31  Janet transfers Sabotage Stone to Falsifian.
+2021-05-29 00:14:31  Janet transfers Soul Stone to Falsifian.
+2021-05-28 01:25:16  Janet transfers Concentration Stone to Falsifian.
+2021-05-28 01:25:16  Janet wields Concentration Stone, specifying self.
+2021-05-28 01:25:16  Janet transfers Power Stone to Falsifian.
+2021-05-28 01:25:16  Protection Stone is transferred to Janet from Agora in auction resolution.
+2021-05-28 01:25:16  Concentration Stone is transferred to Janet from Agora in auction resolution.
+2021-05-28 01:25:16  Sabotage Stone is transferred to Janet from Agora in auction resolution.
+2021-05-28 01:25:16  Soul Stone is transferred to Janet from Agora in auction resolution.
+2021-05-27 17:10:31  Janet wields Power Stone, specifying self.
+2021-05-23 15:26:30  Janet wields Power Stone, specifying self.
+2021-05-17 16:15:52  Gaelan wields Wealth Stone, specifying self.
+2021-05-12 17:44:58  Janet wields Power Stone, specifying self.
+2021-05-09 20:42:11  Gaelan wields Wealth Stone, specifying self.
+2021-05-01 10:05:32  Wealth Stone ceases being immune after collection notice.
+2021-05-01 10:05:32  Protection Stone is transferred from Gaelan to Agora per collection notice.
+2021-05-01 06:55:02  Gaelan wields Wealth Stone, specifying self.
+2021-04-19 07:02:57  Gaelan wields Wealth Stone, specifying self.
+2021-04-12 00:18:14  Gaelan wields Wealth Stone, specifying self.
+2021-04-11 23:52:10  Gaelan wields Wealth Stone, specifying self.
+2021-04-04 01:37:08  Gaelan wields Protection Stone, specifying Wealth Stone.
+2021-04-04 01:37:08  Gaelan wields Wealth Stone, specifying self.
+2021-04-01 15:38:10  Janet wields Power Stone, specifying self.
+2021-04-01 15:12:35  Wealth Stone ceases being immune after collection notice.
+2021-04-01 15:12:35  Concentration Stone is transferred from Janet to Agora per collection notice.
+2021-04-01 15:12:35  Sabotage Stone is transferred from G. to Agora per collection notice.
+2021-04-01 15:12:35  Soul Stone is transferred from Cuddlebeam to Agora per collection notice.
+2021-03-25 18:27:27  G. wields Sabotage Stone, specifying referendum on Proposal 8552.
+2021-03-23 21:19:37  Janet wields Power Stone, specifying self.
+2021-03-15 20:17:51  Janet transfers Power Stone from Agora after auction resolution.
+2021-03-15 20:15:07  G. transfers Sabotage Stone from Agora after auction resolution.
+2021-03-15 19:38:21  Gaelan wields Protection Stone, specifying Wealth Stone.
+2021-03-15 19:38:21  Gaelan wields Wealth Stone, specifying self.
+2021-03-15 19:38:21  Gaelan transfers Protection Stone from Agora after auction resolution.
+2021-03-15 19:38:21  Gaelan transfers Wealth Stone from Agora after auction resolution.
+2021-03-01 16:23:14  Janet wields Concentration Stone, specifying self.
+2021-03-01 15:30:27  Concentration Stone ceases being immune after collection notice.
+2021-03-01 15:30:27  Protection Stone is transferred from Falsifian to Agora per collection notice.
+2021-03-01 15:30:27  Sabotage Stone is transferred from ATMunn to Agora per collection notice.
+2021-03-01 15:30:27  Wealth Stone is transferred from Gaelan to Agora per collection notice.
+2021-03-01 15:30:27  Power Stone is transferred from Murphy to Agora per collection notice.
+2021-02-23 07:47:20  Gaelan wields Wealth Stone, specifying self.
+2021-02-21 23:07:15  ATMunn transfers Sabotage Stone from Agora after auction resolution.
+2021-02-15 02:54:17  Gaelan wields Wealth Stone, specifying self.
+2021-02-14 22:22:47  Gaelan wields Wealth Stone, specifying self.
+2021-02-14 22:22:47  Gaelan transfers Wealth Stone from Agora after auction resolution.
+2021-02-14 17:14:09  Janet wields Concentration Stone, specifying self.
+2021-02-14 17:14:09  Falsifian transfers Concentration Stone to Janet.
+2021-02-14 17:10:39  Falsifian wields Protection Stone, specifying Concentration Stone.
+2021-02-14 17:05:32  Falsifian transfers Soul Stone from self to Cuddlebeam with Soul Stone.
+2021-02-14 17:05:32  Falsifian transfers Concentration Stone from Cuddlebeam to self with Soul Stone.
+2021-02-02 20:20:34  Cuddlebeam transfers Soul Stone from self to Falsifian with Soul Stone.
+2021-02-02 20:20:34  Cuddlebeam transfers Concentration Stone from Falsifian to self with Soul Stone.
+2021-02-02 19:59:25  Protection Stone ceases being immune after Collection Notice.
+2021-01-31 20:59:37  Falsifian wields Protection Stone, specifying Protection Stone.
+2021-01-20 02:08:27  Falsifian transfers Soul Stone from self to Cuddlebeam with Soul Stone.
+2021-01-20 02:08:27  Falsifian transfers Concentration Stone from Cuddlebeam to self with Soul Stone.
+2021-01-18 21:42:15  Cuddlebeam wields Concentration Stone, specifying Gaelan.
+2021-01-18 21:04:55  ATMunn transfers Concentration Stone to Cuddlebeam.
+2021-01-17 00:15:02  Falsifian transfers Protection Stone from Agora after auction resolution.
+2021-01-17 00:15:02  Falsifian transfers Soul Stone from Agora after auction resolution.
+2021-01-13 20:53:54  ATMunn transfers Concentration Stone from Agora after auction resolution.
+2021-01-02 02:58:24  Protection Stone is transferred from Murphy to Agora per collection notice.
+2021-01-02 02:58:24  Sabotage Stone is transferred from Murphy to Agora per collection notice.
+2021-01-02 02:58:24  Wealth Stone is transferred from ATMunn to Agora per collection notice.
+2020-12-13 23:15:35  Murphy transfers Sabotage Stone from Agora after auction resolution.
+2020-12-13 23:15:35  Murphy transfers Protection Stone from Agora after auction resolution.
+2020-12-10 01:35:17  ATMunn wields Wealth Stone, specifying self.
+2020-12-10 01:30:18  ATMunn transfers Wealth Stone from Agora after auction resolution.
+2020-12-01 20:32:23  Concentration stone is transferred from Falsifian to Agora per collection notice.
+2020-11-27 18:16:18  Murphy transfers Power Stone from Agora from Agora after auction resolution.
+2020-11-26 16:06:57  Falsifian wields Concentration Stone, specifying self.
+2020-11-26 03:33:46  Falsifian transfers Concentration stone from Agora after auction resolution.
