@@ -280,11 +280,11 @@ History:
 2023-04-02 05:42:51  Radiance Stone is transferred from snail to Agora per collection notice, resetting mossiness.
 2023-04-02 05:42:51  Recursion Stone is transferred from nix to Agora per collection notice, resetting mossiness.
 2023-04-02 05:42:51  Anti-Equatorial Stone is transferred from Janet to Agora per collection notice, resetting mossiness.
-2023-04-02 05:42:51  Soul Stone is transferred from Aspen to Agora per collection notice, resetting mossiness.
+2023-04-02 05:42:51  Soul Stone is transferred from Aris to Agora per collection notice, resetting mossiness.
 2023-04-02 05:42:51  Sabotage Stone is transferred from 4st to Agora per collection notice, resetting mossiness.
 2023-04-02 05:42:51  Collection notice.
 2023-04-02 05:42:17  snail wields Radiance Stone, specifying self.
-2023-04-02 05:14:43  Janet transfers Soul Stone to Aspen.
+2023-04-02 05:14:43  Janet transfers Soul Stone to Aris.
 2023-04-02 05:14:43  Soul Stone is transferred to Janet with Anti-Equatorial Stone.
 2023-04-02 05:14:43  Janet wields Anti-Equatorial Stone, specifying Soul Stone.
 2023-04-02 05:14:43  Janet wields Protection Stone, specifying Power Stone.
@@ -309,15 +309,15 @@ History:
 2023-03-13 00:00:00  Janet gathers Anti-Equatorial Stone.
 2023-03-12 04:28:19  Recalculation of immunity after P8920.
 2023-03-12 04:28:18  P8919 results in rename of Score Stone to Radiance Stone.
-2023-03-06 02:44:48  Hot Potato Stone is transferred from Aspen to Agora per collection notice, resetting mossiness.
+2023-03-06 02:44:48  Hot Potato Stone is transferred from Aris to Agora per collection notice, resetting mossiness.
 2023-03-06 01:03:08  snail reaches for Jockey Stone.
 2023-03-06 01:03:08  snail wields Score Stone, specifying self.
 2023-03-06 01:03:08  snail wields Power Stone, specifying self.
 2023-03-06 00:00:00  Janet reaches for Anti-Equatorial Stone.
-2023-03-06 00:00:00  Hot Potato Stone is transferred from Janet to Aspen with Hot Potato Stone.
-2023-03-06 00:00:00  Janet wields Hot Potato Stone, specifying Aspen.
-2023-03-06 00:00:00  Soul Stone is transferred from Janet to Aspen with Soul Stone.
-2023-03-06 00:00:00  Hot Potato Stone is transferred from Aspen to Janet with Soul Stone.
+2023-03-06 00:00:00  Hot Potato Stone is transferred from Janet to Aris with Hot Potato Stone.
+2023-03-06 00:00:00  Janet wields Hot Potato Stone, specifying Aris.
+2023-03-06 00:00:00  Soul Stone is transferred from Janet to Aris with Soul Stone.
+2023-03-06 00:00:00  Hot Potato Stone is transferred from Aris to Janet with Soul Stone.
 2023-03-06 00:00:00  Janet wields Soul Stone, specifying Hot Potato Stone.
 2023-03-06 00:00:00  Janet gathers the Soul Stone.
 2023-03-05 23:19:46  snail wields Power Stone.
@@ -334,8 +334,8 @@ History:
 2023-02-19 05:59:30  Janet reaches for Power Stone.
 2023-02-19 05:59:30  Janet wields Score Stone, specifying self.
 2023-02-19 05:59:30  Janet transfers Score Stone from Agora to self with Dream of Gardens, resetting mossiness.
-2023-02-19 05:59:30  Hot Potato Stone is transferred to Aspen with Hot Potato Stone.
-2023-02-19 05:59:30  Janet wields Hot Potato Stone, specifying Aspen.
+2023-02-19 05:59:30  Hot Potato Stone is transferred to Aris with Hot Potato Stone.
+2023-02-19 05:59:30  Janet wields Hot Potato Stone, specifying Aris.
 2023-02-19 05:59:30  Hot Potato Stone is transferred to Janet with Soul Stone.
 2023-02-19 05:59:30  Soul Stone is transferred to Agora with Soul Stone.
 2023-02-19 05:59:30  Janet wields Soul Stone, specifying Hot Potato Stone.
