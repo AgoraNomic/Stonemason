@@ -4,10 +4,10 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
 Power                    2  Janet            2023-10-25
 Soul                     1  Janet            2023-04-23
-Sabotage                 1  Janet            2023-10-25
+Sabotage                 1  ais523           2023-10-25
 Minty                    1  ais523           2023-10-31
 Protection               2  ais523           2023-10-01
-Recursion                3  ais523           2023-10-09
+Recursion                3  Janet            2023-11-01
 Hot Potato               1  ais523           2023-08-27
 Blank                    0  ais523           2023-05-28
 Anti-Equatorial          3  ais523           2023-10-08
@@ -57,6 +57,9 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-01 00:00:00  Recursion Stone transferred from ais523 to Janet with Sabotage Stone (as Soul Stone).
+2023-11-01 00:00:00  Sabotage Stone transferred from Janet to ais523 with Recursion Stone (as Soul Stone).
+2023-11-01 00:00:00  ais523 wields Recursion Stone, specifying Soul Stone, specifying Sabotage Stone.
 2023-10-31 00:30:13  ais523 wields Radiance Stone, specifying self.
 2023-10-31 00:30:13  ais523 wields Minty Stone, specifying self.
 2023-10-30 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet, kiako, snail increased by 1 due to Dream of Gardens.
