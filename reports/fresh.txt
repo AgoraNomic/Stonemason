@@ -11,7 +11,7 @@ Recursion                3  ais523           2023-10-09
 Hot Potato               1  ais523           2023-08-27
 Blank                    0  ais523           2023-05-28
 Anti-Equatorial          3  ais523           2023-10-08
-Radiance                 3  ais523           2023-10-16
+Radiance                 3  ais523           2023-10-28
 
 Player            Base Rockiness
 ----------------  --------------
@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-10-28 06:33:48  ais523 wields Radiance Stone, specifying self.
 2023-10-28 06:33:48  ais523 wields Minty Stone, specifying self.
 2023-10-25 02:39:24  Janet wields Sabotage Stone, specifying referendum on Proposal 9013.
 2023-10-25 02:39:34  Janet wields Power Stone, specifying self.
