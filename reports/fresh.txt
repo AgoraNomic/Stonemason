@@ -2,16 +2,16 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    2  Janet            2023-10-25
-Soul                     1  Janet            2023-04-23
-Sabotage                 1  ais523           2023-10-25
-Minty                    1  ais523           2023-10-31
-Protection               2  ais523           2023-10-01
-Recursion                3  ais523           2023-11-01
-Hot Potato               1  Janet            2023-11-04
-Blank                    0  ais523           2023-05-28
-Anti-Equatorial          4  ais523           2023-11-01
-Radiance                 3  ais523           2023-10-31
+Power                    0  Agora            2023-10-25    Agora
+Soul                     0  Agora            2023-04-23    Agora
+Sabotage                 0  Agora            2023-10-25    Agora
+Minty                    0  Agora            2023-10-31    Agora
+Protection               0  Agora            2023-10-01    Agora
+Recursion                0  Agora            2023-11-01    Agora
+Hot Potato               0  Agora            2023-11-04    Agora
+Blank                    0  Agora            2023-05-28    Agora
+Anti-Equatorial          0  Agora            2023-11-01    Agora
+Radiance                 0  Agora            2023-10-31    Agora
 
 Player            Base Rockiness
 ----------------  --------------
@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-05 00:00:00  All stones are transferred to Agora after Rock Garden Noticing.
 2023-11-04 19:46:13  Hot Potato Stone transferred from ais523 to Janet with Hot Potato Stone.
 2023-11-04 19:46:13  ais523 wields Hot Potato Stone, specifying Janet.
 2023-11-01 00:00:00  ais523 Notices the Rock Garden.
