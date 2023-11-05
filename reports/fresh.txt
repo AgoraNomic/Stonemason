@@ -19,6 +19,8 @@ Beokirby                      19
 juan                          13
 Janet                          4
 ais523                         1
+kiako                          1
+snail                          1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -63,7 +65,7 @@ History:
 2023-10-09 00:05:26  Mossiness of Blank stone incremented due to Recursion Stone as Anti-Equatorial Stone.
 2023-10-09 00:05:26  Blank Stone is transferred from snail to ais523 with Recursion Stone as Anti-Equatorial Stone.
 2023-10-09 00:05:26  ais523 wields Recursion Stone, specifying Anti-Equatorial Stone, specifying Radiance Stone.
-2023-10-09 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet increased by 1 due to Dream of Gardens.
+2023-10-09 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet, kiako, snail increased by 1 due to Dream of Gardens.
 2023-10-09 00:00:00  ais523 gathers Blank Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-10-08 23:59:35  ais523 reaches for Blank Stone.
 2023-10-08 23:59:35  ais523 transfers Blank Stone to Agora, resetting mossiness.
