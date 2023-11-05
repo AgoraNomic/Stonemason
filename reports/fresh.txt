@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-01 00:00:00  ais523 Notices the Rock Garden.
 2023-11-01 00:00:00  Mossiness of Anti-Equatorial Stone incremented due to Anti-Equatorial Stone.
 2023-11-01 00:00:00  Recursion Stone transferred from Janet to ais523 with Anti-Equatorial Stone.
 2023-11-01 00:00:00  ais523 wields Anti-Equatorial Stone, specifying Recursion Stone.
