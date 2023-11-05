@@ -8,7 +8,7 @@ Sabotage                 1  ais523           2023-10-25
 Minty                    1  ais523           2023-10-31
 Protection               2  ais523           2023-10-01
 Recursion                3  ais523           2023-11-01
-Hot Potato               1  ais523           2023-08-27
+Hot Potato               1  Janet            2023-11-04
 Blank                    0  ais523           2023-05-28
 Anti-Equatorial          4  ais523           2023-11-01
 Radiance                 3  ais523           2023-10-31
@@ -57,6 +57,8 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-04 19:46:13  Hot Potato Stone transferred from ais523 to Janet with Hot Potato Stone.
+2023-11-04 19:46:13  ais523 wields Hot Potato Stone, specifying Janet.
 2023-11-01 00:00:00  ais523 Notices the Rock Garden.
 2023-11-01 00:00:00  Mossiness of Anti-Equatorial Stone incremented due to Anti-Equatorial Stone.
 2023-11-01 00:00:00  Recursion Stone transferred from Janet to ais523 with Anti-Equatorial Stone.
