@@ -24,7 +24,7 @@ Janet                          1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+Janet              Sabotage         2023-11-12 19:17:29
 
 Summary of stone functions:
 
@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-12 19:17:29  Janet reaches for Sabotage Stone.
 2023-11-06 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet, kiako, snail increased by 1 due to Dream of Gardens.
 2023-11-06 00:00:00  Janet gathers Recursion Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-11-05 19:34:57  Janet reaches for Radiance Stone.
