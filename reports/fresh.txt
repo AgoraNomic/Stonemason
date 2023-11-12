@@ -25,6 +25,7 @@ snail                          4
 Player             Reached For      Time
 -----------------  ---------------  -------------------
 ais523             Radiance         2023-11-05 05:26:56
+Janet              Recursion        2023-11-05 19:34:57
 
 Summary of stone functions:
 
@@ -57,6 +58,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-05 19:34:57  Janet reaches for Radiance Stone.
 2023-11-05 05:26:56  ais523 reaches for Radiance Stone.
 2023-11-05 04:40:10  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Blank, Anti-Equatorial, Radiance Stones incremented per collection notice.
 2023-11-05 04:40:10  Collection notice.
