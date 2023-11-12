@@ -15,11 +15,12 @@ Radiance                 1  Agora            2023-10-31    Agora
 
 Player            Base Rockiness
 ----------------  --------------
-Beokirby                      22
-juan                          16
-ais523                         4
-kiako                          4
-snail                          4
+Beokirby                      23
+juan                          17
+ais523                         5
+kiako                          5
+snail                          5
+Janet                          1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -56,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-06 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet, kiako, snail increased by 1 due to Dream of Gardens.
 2023-11-06 00:00:00  Janet gathers Recursion Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-11-05 19:34:57  Janet reaches for Radiance Stone.
 2023-11-05 05:26:56  ais523 reaches for Radiance Stone.
