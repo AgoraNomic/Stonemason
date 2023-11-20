@@ -15,11 +15,12 @@ Radiance                 0  ais523           2023-10-31
 
 Player            Base Rockiness
 ----------------  --------------
-Beokirby                      23
-juan                          17
-kiako                          5
-snail                          5
-Janet                          1
+Beokirby                      24
+juan                          18
+kiako                          6
+snail                          6
+Janet                          2
+ais523                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -56,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-13 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet, kiako, snail increased by 1 due to Dream of Gardens.
 2023-11-13 00:00:00  ais523 gathers Radiance Stone.
 2023-11-12 19:27:43  ais523 reaches for Radiance Stone.
 2023-11-12 19:17:29  Janet reaches for Sabotage Stone.
