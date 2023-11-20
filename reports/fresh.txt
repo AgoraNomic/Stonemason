@@ -24,7 +24,7 @@ ais523                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+4st                Protection       2023-11-13 01:00:00
 
 Summary of stone functions:
 
@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-13 01:00:00  4st reaches for Protection Stone.
 2023-11-13 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet, kiako, snail increased by 1 due to Dream of Gardens.
 2023-11-13 00:00:00  ais523 gathers Radiance Stone.
 2023-11-12 19:27:43  ais523 reaches for Radiance Stone.
