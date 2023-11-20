@@ -62,7 +62,7 @@ History:
 2023-11-13 11:24:14  snail reaches for Hot Potato Stone.
 2023-11-13 01:00:00  4st reaches for Protection Stone.
 2023-11-13 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet, kiako, snail increased by 1 due to Dream of Gardens.
-2023-11-13 00:00:00  ais523 gathers Radiance Stone.
+2023-11-13 00:00:00  ais523 gathers Radiance Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-11-12 19:27:43  ais523 reaches for Radiance Stone.
 2023-11-12 19:17:29  Janet reaches for Sabotage Stone.
 2023-11-06 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet, kiako, snail increased by 1 due to Dream of Gardens.
