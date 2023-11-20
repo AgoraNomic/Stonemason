@@ -26,6 +26,7 @@ Player             Reached For      Time
 -----------------  ---------------  -------------------
 4st                Protection       2023-11-13 01:00:00
 snail              Hot Potato       2023-11-13 11:24:14
+ais523             Sabotage         2023-11-17 11:38:26
 
 Summary of stone functions:
 
@@ -58,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-17 11:38:26  ais523 reaches for Sabotage Stone.
 2023-11-13 11:24:14  snail reaches for Hot Potato Stone.
 2023-11-13 01:00:00  4st reaches for Protection Stone.
 2023-11-13 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet, kiako, snail increased by 1 due to Dream of Gardens.
