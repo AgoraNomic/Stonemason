@@ -27,6 +27,7 @@ Player             Reached For      Time
 4st                Protection       2023-11-13 01:00:00
 snail              Hot Potato       2023-11-13 11:24:14
 ais523             Sabotage         2023-11-17 11:38:26
+Janet              Sabotage         2023-11-19 23:59:46
 
 Summary of stone functions:
 
@@ -59,6 +60,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-19 23:59:46  Janet reaches for Sabotage Stone.
 2023-11-17 11:38:26  ais523 reaches for Sabotage Stone.
 2023-11-13 11:24:14  snail reaches for Hot Potato Stone.
 2023-11-13 01:00:00  4st reaches for Protection Stone.
