@@ -26,6 +26,7 @@ Goren                          1
 Player             Reached For      Time
 -----------------  ---------------  -------------------
 4st                Power            2023-11-20 00:00:00
+Goren              Sabotage         2023-11-20 00:01:23
 
 Summary of stone functions:
 
@@ -58,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-20 00:01:23  Goren reaches for Sabotage Stone.
 2023-11-20 00:00:00  4st reaches for Power Stone.
 2023-11-20 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet, kiako, snail, Goren increased by 1 due to Dream of Gardens.
 2023-11-20 00:00:00  snail gathers Sabotage Stone, resetting eir Base Rockiness and the stone's mossiness.
