@@ -27,6 +27,7 @@ Player             Reached For      Time
 -----------------  ---------------  -------------------
 4st                Power            2023-11-20 00:00:00
 Goren              Sabotage         2023-11-20 00:01:23
+Janet              Power            2023-11-26 21:20:20
 
 Summary of stone functions:
 
@@ -59,6 +60,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-26 21:20:20  Janet reaches for Power Stone.
 2023-11-21 21:02:39  ais523 wields Radiance Stone, specifying self.
 2023-11-20 00:01:23  Goren reaches for Sabotage Stone.
 2023-11-20 00:00:00  4st reaches for Power Stone.
