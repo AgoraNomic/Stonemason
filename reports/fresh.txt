@@ -11,7 +11,7 @@ Recursion                1  Janet            2023-11-01
 Hot Potato               0  snail            2023-11-04
 Blank                    1  Agora            2023-05-28    Agora
 Anti-Equatorial          1  Agora            2023-11-01    Agora
-Radiance                 0  ais523           2023-10-31
+Radiance                 0  ais523           2023-11-21
 
 Player            Base Rockiness
 ----------------  --------------
@@ -59,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-21 21:02:39  ais523 wields Radiance Stone, specifying self.
 2023-11-20 00:01:23  Goren reaches for Sabotage Stone.
 2023-11-20 00:00:00  4st reaches for Power Stone.
 2023-11-20 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet, kiako, snail, Goren increased by 1 due to Dream of Gardens.
