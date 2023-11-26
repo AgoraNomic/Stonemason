@@ -62,7 +62,7 @@ History:
 2023-11-20 00:01:23  Goren reaches for Sabotage Stone.
 2023-11-20 00:00:00  4st reaches for Power Stone.
 2023-11-20 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet, kiako, snail, Goren increased by 1 due to Dream of Gardens.
-2023-11-20 00:00:00  snail gathers Sabotage Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-11-20 00:00:00  snail gathers Hot Potato Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-11-19 23:59:46  Janet reaches for Sabotage Stone.
 2023-11-17 11:38:26  ais523 reaches for Sabotage Stone.
 2023-11-13 11:24:14  snail reaches for Hot Potato Stone.
