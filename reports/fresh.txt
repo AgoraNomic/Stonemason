@@ -2,12 +2,12 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    0  Janet            2023-10-25
+Power                    0  Janet            2023-10-25    Protection
 Soul                     1  Agora            2023-04-23    Agora
 Sabotage                 1  Agora            2023-10-25    Agora
 Minty                    1  Agora            2023-10-31    Agora
 Protection               1  Agora            2023-10-01    Agora
-Recursion                1  Janet            2023-11-01
+Recursion                1  Janet            2023-12-03
 Hot Potato               0  snail            2023-11-04
 Blank                    1  Agora            2023-05-28    Agora
 Anti-Equatorial          1  Agora            2023-11-01    Agora
@@ -61,6 +61,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-03 23:36:41  Janet wields Recursion Stone, specifying Protection Stone, specifying Power Stone.
 2023-12-03 23:36:41  Janet reaches for Protection Stone.
 2023-12-01 20:38:51  ais523 wields Radiance Stone, specifying self.
 2023-12-01 20:38:51  ais523 reaches for Minty Stone.
