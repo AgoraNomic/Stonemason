@@ -26,7 +26,7 @@ Murphy                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+snail              Minty            2023-11-27 08:41:29
 
 Summary of stone functions:
 
@@ -59,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-11-27 08:41:29  snail reaches for Minty Stone.
 2023-11-27 00:00:00  Base Rockiness of ais523, Beokirby, Goren, juan, Janet, kiako, Murphy, snail increased by 1 due to Dream of Gardens.
 2023-11-27 00:00:00  Janet gathers Power Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-11-26 21:20:20  Janet reaches for Power Stone.
