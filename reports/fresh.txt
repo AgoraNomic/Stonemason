@@ -28,6 +28,7 @@ Player             Reached For      Time
 -----------------  ---------------  -------------------
 snail              Minty            2023-11-27 08:41:29
 ais523             Minty            2023-12-01 20:38:51
+Janet              Protection       2023-12-03 23:36:41
 
 Summary of stone functions:
 
@@ -60,6 +61,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-03 23:36:41  Janet reaches for Protection Stone.
 2023-12-01 20:38:51  ais523 wields Radiance Stone, specifying self.
 2023-12-01 20:38:51  ais523 reaches for Minty Stone.
 2023-11-27 08:41:29  snail reaches for Minty Stone.
