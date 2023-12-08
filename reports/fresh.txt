@@ -2,7 +2,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    0  Janet            2023-10-25    Protection
+Power                    0  Janet            2023-12-08    Protection
 Soul                     1  Agora            2023-04-23    Agora
 Sabotage                 1  Agora            2023-10-25    Agora
 Minty                    0  ais523           2023-12-04
@@ -61,6 +61,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-08 02:33:20  Janet wields Power Stone, specifying self.
 2023-12-04 01:04:16  Hot Potato Stone transferred from snail to Murphy with Hot Potato Stone.
 2023-12-04 01:04:16  snail wields Hot Potato Stone, specifying Murphy.
 2023-12-04 00:07:56  Kate reaches for Anti-Equatorial Stone.
