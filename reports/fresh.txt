@@ -15,14 +15,15 @@ Radiance                 0  ais523           2023-12-01
 
 Player            Base Rockiness
 ----------------  --------------
-Beokirby                      26
-juan                          20
+Beokirby                      27
+juan                          21
 kiako                          8
 snail                          1
 Goren                          2
-Janet                          1
-Murphy                         1
-Kate                           1
+Janet                          2
+Murphy                         2
+Kate                           2
+ais523                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -59,6 +60,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-04 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet, Kate, Murphy increased by 1 due to Dream of Gardens.
 2023-12-04 00:00:00  ais523 gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-12-03 23:36:41  Janet wields Recursion Stone, specifying Protection Stone, specifying Power Stone.
 2023-12-03 23:36:41  Janet reaches for Protection Stone.
