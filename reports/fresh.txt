@@ -8,7 +8,7 @@ Sabotage                 1  Agora            2023-10-25    Agora
 Minty                    0  ais523           2023-12-04
 Protection               1  Agora            2023-10-01    Agora
 Recursion                1  Janet            2023-12-03
-Hot Potato               0  snail            2023-11-04
+Hot Potato               0  Murphy           2023-12-07
 Blank                    1  Agora            2023-05-28    Agora
 Anti-Equatorial          1  Agora            2023-11-01    Agora
 Radiance                 0  ais523           2023-12-04
@@ -61,6 +61,8 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-04 01:04:16  Hot Potato Stone transferred from snail to Murphy with Hot Potato Stone.
+2023-12-04 01:04:16  snail wields Hot Potato Stone, specifying Murphy.
 2023-12-04 00:07:56  Kate reaches for Anti-Equatorial Stone.
 2023-12-04 00:00:08  ais523 reaches for Protection Stone.
 2023-12-04 00:00:08  ais523 wields Minty Stone, specifying self.
