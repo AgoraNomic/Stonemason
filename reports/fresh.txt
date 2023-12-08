@@ -5,7 +5,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 Power                    0  Janet            2023-10-25    Protection
 Soul                     1  Agora            2023-04-23    Agora
 Sabotage                 1  Agora            2023-10-25    Agora
-Minty                    1  Agora            2023-10-31    Agora
+Minty                    0  ais523           2023-10-31
 Protection               1  Agora            2023-10-01    Agora
 Recursion                1  Janet            2023-12-03
 Hot Potato               0  snail            2023-11-04
@@ -18,7 +18,6 @@ Player            Base Rockiness
 Beokirby                      26
 juan                          20
 kiako                          8
-ais523                         3
 snail                          1
 Goren                          2
 Janet                          1
@@ -27,9 +26,7 @@ Kate                           1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-snail              Minty            2023-11-27 08:41:29
-ais523             Minty            2023-12-01 20:38:51
-Janet              Protection       2023-12-03 23:36:41
+[None this week.]
 
 Summary of stone functions:
 
@@ -62,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-04 00:00:00  ais523 gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-12-03 23:36:41  Janet wields Recursion Stone, specifying Protection Stone, specifying Power Stone.
 2023-12-03 23:36:41  Janet reaches for Protection Stone.
 2023-12-01 20:38:51  ais523 wields Radiance Stone, specifying self.
