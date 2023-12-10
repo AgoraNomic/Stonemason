@@ -61,6 +61,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-10 22:17:30  [Janet attempts to reach for Power Stone.]
 2023-12-08 03:03:38  Power Stone ceases being immune after collection notice.
 2023-12-08 03:03:38  Mossiness of Power, Soul, Sabotage, Protection, Blank, Anti-Equatorial, Radiance Stones incremented per collection notice.
 2023-12-08 03:03:38  Hot Potato Stone is transferred to Agora per collection notice, resetting mossiness.
