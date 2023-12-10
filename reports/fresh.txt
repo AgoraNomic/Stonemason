@@ -2,16 +2,16 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    0  Janet            2023-12-08    Protection
-Soul                     1  Agora            2023-04-23    Agora
-Sabotage                 1  Agora            2023-10-25    Agora
-Minty                    0  ais523           2023-12-04
-Protection               1  Agora            2023-10-01    Agora
-Recursion                1  Janet            2023-12-03
-Hot Potato               0  Murphy           2023-12-07
-Blank                    1  Agora            2023-05-28    Agora
-Anti-Equatorial          1  Agora            2023-11-01    Agora
-Radiance                 0  ais523           2023-12-04
+Power                    1  Janet            2023-12-08
+Soul                     2  Agora            2023-04-23    Agora
+Sabotage                 2  Agora            2023-10-25    Agora
+Minty                    0  Agora            2023-12-04    Agora
+Protection               2  Agora            2023-10-01    Agora
+Recursion                0  Agora            2023-12-03    Agora
+Hot Potato               0  Agora            2023-12-07    Agora
+Blank                    2  Agora            2023-05-28    Agora
+Anti-Equatorial          2  Agora            2023-11-01    Agora
+Radiance                 1  ais523           2023-12-04
 
 Player            Base Rockiness
 ----------------  --------------
@@ -61,6 +61,12 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-08 03:03:38  Power Stone ceases being immune after collection notice.
+2023-12-08 03:03:38  Mossiness of Power, Soul, Sabotage, Protection, Blank, Anti-Equatorial, Radiance Stones incremented per collection notice.
+2023-12-08 03:03:38  Hot Potato Stone is transferred to Agora per collection notice, resetting mossiness.
+2023-12-08 03:03:38  Recursion Stone is transferred to Agora per collection notice, resetting mossiness.
+2023-12-08 03:03:38  Minty Stone is transferred to Agora per collection notice, resetting mossiness.
+2023-12-08 03:03:38  Collection notice.
 2023-12-08 02:33:20  Janet wields Power Stone, specifying self.
 2023-12-04 01:04:16  Hot Potato Stone transferred from snail to Murphy with Hot Potato Stone.
 2023-12-04 01:04:16  snail wields Hot Potato Stone, specifying Murphy.
@@ -95,6 +101,7 @@ History:
 2023-11-06 00:00:00  Janet gathers Recursion Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-11-05 19:34:57  Janet reaches for Radiance Stone.
 2023-11-05 05:26:56  ais523 reaches for Radiance Stone.
+2023-11-05 04:40:10  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Blank, Anti-Equatorial, Radiance Stones incremented per collection notice.
 2023-11-05 04:40:10  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Blank, Anti-Equatorial, Radiance Stones incremented per collection notice.
 2023-11-05 04:40:10  Collection notice.
 2023-11-05 00:00:00  All stones are transferred to Agora after Rock Garden Noticing.
