@@ -30,6 +30,7 @@ Player             Reached For      Time
 ais523             Protection       2023-12-04 00:00:08
 Kate               Anti-Equatorial  2023-12-04 00:07:56
 Janet              Recursion        2023-12-10 22:18:19
+Murphy             Anti-Equatorial  2023-12-10 22:53:25
 
 Summary of stone functions:
 
@@ -62,6 +63,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-10 22:53:25  Murphy reaches for Anti-Equatorial Stone.
 2023-12-10 22:38:11  [Murphy attempts to wield Hot Potato Stone, specifying Liz.]
 2023-12-10 22:18:19  Janet reaches for Recursion Stone.
 2023-12-10 22:17:30  [Janet attempts to reach for Power Stone.]
