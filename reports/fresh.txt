@@ -3,14 +3,14 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
 Power                    1  Janet            2023-12-08
-Soul                     2  Agora            2023-04-23    Agora
+Soul                     0  snail            2023-04-23
 Sabotage                 2  Agora            2023-10-25    Agora
 Minty                    0  Agora            2023-12-04    Agora
-Protection               2  Agora            2023-10-01    Agora
-Recursion                0  Agora            2023-12-03    Agora
+Protection               0  ais523           2023-10-01
+Recursion                0  Janet            2023-12-03
 Hot Potato               0  Agora            2023-12-07    Agora
 Blank                    2  Agora            2023-05-28    Agora
-Anti-Equatorial          2  Agora            2023-11-01    Agora
+Anti-Equatorial          0  Kate             2023-11-01
 Radiance                 1  ais523           2023-12-04
 
 Player            Base Rockiness
@@ -18,20 +18,12 @@ Player            Base Rockiness
 Beokirby                      27
 juan                          21
 kiako                          8
-snail                          1
 Goren                          2
-Janet                          2
 Murphy                         2
-Kate                           2
-ais523                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-ais523             Protection       2023-12-04 00:00:08
-Kate               Anti-Equatorial  2023-12-04 00:07:56
-Janet              Recursion        2023-12-10 22:18:19
-Murphy             Anti-Equatorial  2023-12-10 22:53:25
-snail              Soul             2023-12-10 23:58:00
+[None this week.]
 
 Summary of stone functions:
 
@@ -64,6 +56,10 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-11 00:00:00  snail gathers Soul Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-12-11 00:00:00  Janet gathers Recursion Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-12-11 00:00:00  Kate gathers Anti-Equatorial Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-12-11 00:00:00  ais523 gathers Protection Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-12-10 23:58:00  snail reaches for Soul Stone.
 2023-12-10 22:53:25  Murphy reaches for Anti-Equatorial Stone.
 2023-12-10 22:38:11  [Murphy attempts to wield Hot Potato Stone, specifying Liz.]
