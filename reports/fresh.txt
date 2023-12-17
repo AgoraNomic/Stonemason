@@ -28,6 +28,7 @@ Gaelan                         1
 Player             Reached For      Time
 -----------------  ---------------  -------------------
 Janet              Sabotage         2023-12-11 00:00:45
+Kate               Minty            2023-12-11 00:00:56
 
 Summary of stone functions:
 
@@ -60,6 +61,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-11 00:00:56  Kate reaches for Minty Stone.
 2023-12-11 00:00:45  Janet reaches for Sabotage Stone.
 2023-12-11 00:00:00  snail wields Radiance Stone, specifying self.
 2023-12-11 00:00:00  Anti-Equatorial Stone's mossiness incremented by 1 due to Anti-Equatorial Stone.
