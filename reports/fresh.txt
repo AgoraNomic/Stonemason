@@ -62,6 +62,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-10 22:38:11  [Murphy attempts to wield Hot Potato Stone, specifying Liz.]
 2023-12-10 22:18:19  Janet reaches for Recursion Stone.
 2023-12-10 22:17:30  [Janet attempts to reach for Power Stone.]
 2023-12-08 03:03:38  Power Stone ceases being immune after collection notice.
