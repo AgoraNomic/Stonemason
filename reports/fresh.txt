@@ -15,15 +15,15 @@ Radiance                 1  snail            2023-12-11
 
 Player            Base Rockiness
 ----------------  --------------
-Beokirby                      29
+Beokirby                      30
 juan                          21
 kiako                          8
-Murphy                         4
+Murphy                         5
+Gaelan                         3
+ais523                         2
+Janet                          2
+Kate                           2
 Goren                          2
-Gaelan                         2
-ais523                         1
-Janet                          1
-Kate                           1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -60,6 +60,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-25 00:00:00  Base Rockiness of ais523, Beokirby, Janet, Murphy, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2023-12-18 00:00:00  Base Rockiness of ais523, Beokirby, Janet, Murphy, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2023-12-18 00:00:00  ais523 gathers Hot Potato Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-12-18 00:00:00  Kate gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
