@@ -15,7 +15,6 @@ Radiance                 1  snail            2023-12-11
 
 Player            Base Rockiness
 ----------------  --------------
-Beokirby                      30
 juan                          21
 kiako                          8
 Murphy                         5
@@ -152,6 +151,7 @@ History:
 2023-10-16 00:00:00  Base Rockiness of ais523, Beokirby, juan, Janet, kiako, snail increased by 1 due to Dream of Gardens.
 2023-10-15 23:29:35  [ais523 attempts to wield Radiance Stone.]
 2023-10-15 23:29:35  [ais523 attempts to wield Minty Stone.]
+2023-10-09 20:24:06  Beokirby ceases to have a Base Rockiness switch as e is deactivated.
 2023-10-09 03:57:14  [Janet attempts to reach for Blank Stone.]
 2023-10-09 00:05:26  ais523 wields Radiance Stone, specifying self.
 2023-10-09 00:05:26  ais523 wields Minty Stone, specifying self.
