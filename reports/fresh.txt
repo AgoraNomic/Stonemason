@@ -29,6 +29,7 @@ Player             Reached For      Time
 -----------------  ---------------  -------------------
 Janet              Sabotage         2023-12-11 00:00:45
 Kate               Minty            2023-12-11 00:00:56
+ais523             Hot Potato       2023-12-17 22:28:34
 
 Summary of stone functions:
 
@@ -61,6 +62,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-17 22:28:34  ais523 reaches for Hot Potato Stone.
 2023-12-11 00:00:56  Kate reaches for Minty Stone.
 2023-12-11 00:00:45  Janet reaches for Sabotage Stone.
 2023-12-11 00:00:00  snail wields Radiance Stone, specifying self.
