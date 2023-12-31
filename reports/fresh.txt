@@ -4,11 +4,11 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
 Power                    1  Janet            2023-12-08
 Soul                     0  Kate             2023-12-11
-Sabotage                 2  Agora            2023-10-25    Agora
-Minty                    0  Agora            2023-12-04    Agora
+Sabotage                 0  Janet            2023-10-25
+Minty                    0  Kate             2023-12-04
 Protection               0  ais523           2023-10-01
 Recursion                0  Janet            2023-12-03
-Hot Potato               0  Agora            2023-12-07    Agora
+Hot Potato               0  ais523           2023-12-07
 Blank                    2  Agora            2023-05-28    Agora
 Anti-Equatorial          1  snail            2023-12-11
 Radiance                 1  snail            2023-12-11
@@ -20,17 +20,11 @@ juan                          21
 kiako                          8
 Murphy                         3
 Goren                          2
-ais523                         1
-Janet                          1
-Kate                           1
 Gaelan                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-Janet              Sabotage         2023-12-11 00:00:45
-Kate               Minty            2023-12-11 00:00:56
-ais523             Hot Potato       2023-12-17 22:28:34
-snail              Hot Potato       2023-12-17 23:58:00
+[None this week.]
 
 Summary of stone functions:
 
@@ -63,6 +57,9 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-18 00:00:00  ais523 gathers Hot Potato Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-12-18 00:00:00  Kate gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
+2023-12-18 00:00:00  Janet gathers Sabotage Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-12-17 23:58:00  snail reaches for Hot Potato Stone.
 2023-12-17 22:28:34  ais523 reaches for Hot Potato Stone.
 2023-12-11 00:00:56  Kate reaches for Minty Stone.
