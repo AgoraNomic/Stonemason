@@ -60,6 +60,7 @@ Score            A specified player's radiance is increased by 3.
 History:
 =======
 2024-01-07 07:31:14  Janet wields Recursion Stone, specifying Protection Stone, specifying Recursion Stone.
+2024-01-01 01:24:35  [snail attempts to wield Anti-Equatorial Stone.]
 2024-01-01 01:25:35  snail wields Radiance Stone, specifying self.
 2024-01-01 00:00:00  Base Rockiness of ais523, Janet, Murphy, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-01-01 00:00:00  4st gathers Blank Stone, resetting eir Base Rockiness and the stone's mossiness.
