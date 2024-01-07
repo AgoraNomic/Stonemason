@@ -9,7 +9,7 @@ Minty                    0  Kate             2023-12-04
 Protection               0  ais523           2023-12-31    Protection
 Recursion                0  Janet            2023-12-03
 Hot Potato               0  4st              2023-12-31
-Blank                    2  Agora            2023-05-28    Agora
+Blank                    0  4st              2023-05-28
 Anti-Equatorial          1  snail            2023-12-11
 Radiance                 1  snail            2023-12-11
 
@@ -59,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-01-01 00:00:00  4st gathers Blank Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-12-31 22:08:15  [4st attempts to wield Hot Potato Stone, specifying juan.]
 2023-12-31 22:04:38  Hot Potato Stone transferred from ais523 to 4st with Hot Potato Stone.
 2023-12-31 22:04:38  ais523 wields Hot Potato Stone, specifying 4st.
