@@ -11,7 +11,7 @@ Recursion                0  Janet            2024-01-07    Protection
 Hot Potato               0  4st              2023-12-31
 Blank                    0  4st              2023-05-28
 Anti-Equatorial          1  snail            2023-12-11
-Radiance                 1  snail            2023-12-11
+Radiance                 1  snail            2024-01-07
 
 Player            Base Rockiness
 ----------------  --------------
@@ -60,6 +60,7 @@ Score            A specified player's radiance is increased by 3.
 History:
 =======
 2024-01-07 07:31:14  Janet wields Recursion Stone, specifying Protection Stone, specifying Recursion Stone.
+2024-01-01 01:25:35  snail wields Radiance Stone, specifying self.
 2024-01-01 00:00:00  Base Rockiness of ais523, Janet, Murphy, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-01-01 00:00:00  4st gathers Blank Stone, resetting eir Base Rockiness and the stone's mossiness.
 2023-12-31 22:08:15  [4st attempts to wield Hot Potato Stone, specifying juan.]
