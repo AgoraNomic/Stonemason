@@ -8,7 +8,7 @@ Sabotage                 0  Janet            2023-10-25
 Minty                    0  Kate             2023-12-04
 Protection               0  ais523           2023-12-31    Protection
 Recursion                0  Janet            2023-12-03
-Hot Potato               0  ais523           2023-12-07
+Hot Potato               0  4st              2023-12-31
 Blank                    2  Agora            2023-05-28    Agora
 Anti-Equatorial          1  snail            2023-12-11
 Radiance                 1  snail            2023-12-11
@@ -59,6 +59,8 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-12-31 22:04:38  Hot Potato Stone transferred from ais523 to 4st with Hot Potato Stone.
+2023-12-31 22:04:38  ais523 wields Hot Potato Stone, specifying 4st.
 2023-12-31 22:04:38  ais523 wields Protection Stone, specifying Protection Stone.
 2023-12-31 21:58:59  4st reaches for Blank Stone.
 2023-12-25 00:00:00  Base Rockiness of ais523, Beokirby, Janet, Murphy, Kate, Gaelan increased by 1 due to Dream of Gardens.
