@@ -11,7 +11,7 @@ Recursion                1  Janet            2024-01-07
 Hot Potato               0  Agora            2023-12-31    Agora
 Blank                    1  4st              2023-05-28
 Anti-Equatorial          0  Agora            2023-12-11    Agora
-Radiance                 2  snail            2024-01-07
+Radiance                 2  snail            2024-01-01
 
 Player            Base Rockiness
 ----------------  --------------
