@@ -59,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-01-07 21:41:03  [snail attempts to wield Radiance Stone, specifying self.]
 2024-01-07 08:06:57  [ais523 attempts to reach for Radiance Stone.]
 2024-01-07 07:54:57  Janet reaches for Minty Stone.
 2024-01-07 07:51:24  Protection and Recursion Stones cease being immune after collection notice.
