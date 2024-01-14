@@ -26,7 +26,7 @@ Janet                          1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+Janet              Anti-Equatorial  2024-01-14 07:57:32
 
 Summary of stone functions:
 
