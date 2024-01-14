@@ -26,7 +26,7 @@ Goren                          2
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+Janet              Minty            2024-01-07 07:54:57
 
 Summary of stone functions:
 
@@ -59,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-01-07 07:54:57  Janet reaches for Minty Stone.
 2024-01-07 07:51:24  Protection and Recursion Stones cease being immune after collection notice.
 2024-01-07 07:51:24  Mossiness of Power, Soul, Protection, Recursion, Blank, Radiance Stones incremented per collection notice.
 2024-01-07 07:51:24  Anti-Equatorial Stone is transferred to Agora per collection notice, resetting mossiness.
