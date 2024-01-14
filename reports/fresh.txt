@@ -17,11 +17,12 @@ Player            Base Rockiness
 ----------------  --------------
 juan                          21
 kiako                          8
-Murphy                         6
-Gaelan                         4
-ais523                         3
-Kate                           3
+Murphy                         7
+Gaelan                         5
+ais523                         4
+Kate                           4
 Goren                          2
+Janet                          1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -58,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-01-08 00:00:00  Base Rockiness of ais523, Janet, Murphy, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-01-08 00:00:00  Janet gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-01-07 21:41:03  [snail attempts to wield Radiance Stone, specifying self.]
 2024-01-07 08:06:57  [ais523 attempts to reach for Radiance Stone.]
