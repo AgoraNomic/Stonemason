@@ -8,7 +8,7 @@ Sabotage                 0  snail            2023-10-25
 Minty                    0  Janet            2023-01-14
 Protection               1  ais523           2024-01-15
 Recursion                1  Janet            2024-01-07
-Hot Potato               0  Mercury          2023-12-31
+Hot Potato               0  Ben              2024-01-21
 Blank                    1  4st              2023-05-28
 Anti-Equatorial          1  ais523           2024-01-15    Protection
 Radiance                 2  ais523           2024-01-15
@@ -59,6 +59,8 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-01-21 13:21:36  Hot Potato Stone transferred from Mercury to Ben with Hot Potato Stone.
+2024-01-21 13:21:36  Mercury wields Hot Potato Stone, specifying Ben.
 2024-01-15 22:25:08  ais523 wields Protection Stone, specifying Anti-Equatorial Stone.
 2024-01-15 22:25:08  ais523 wields Radiance Stone, specifying self.
 2024-01-15 22:25:08  Anti-Equatorial Stone's mossiness incremented by 1 due to Anti-Equatorial Stone.
