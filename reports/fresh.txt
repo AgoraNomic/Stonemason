@@ -8,7 +8,7 @@ Sabotage                 0  snail            2023-10-25
 Minty                    0  Janet            2023-01-14
 Protection               1  ais523           2024-01-15
 Recursion                1  Janet            2024-01-07
-Hot Potato               0  Ben              2024-01-21
+Hot Potato               0  Janet            2024-01-22
 Blank                    1  4st              2023-05-28
 Anti-Equatorial          1  ais523           2024-01-15    Protection
 Radiance                 2  ais523           2024-01-15
@@ -59,6 +59,8 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-01-22 14:39:19  Hot Potato Stone transferred from Ben to Janet with Hot Potato Stone.
+2024-01-22 14:39:19  Ben wields Hot Potato Stone, specifying Janet.
 2024-01-22 00:00:00  Base Rockiness of ais523, Janet, Murphy, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-01-21 13:21:36  Hot Potato Stone transferred from Mercury to Ben with Hot Potato Stone.
 2024-01-21 13:21:36  Mercury wields Hot Potato Stone, specifying Ben.
