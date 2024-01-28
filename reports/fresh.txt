@@ -28,6 +28,7 @@ Player             Reached For      Time
 -----------------  ---------------  -------------------
 Janet              Anti-Equatorial  2024-01-14 07:57:32
 ais523             Anti-Equatorial  2024-01-14 08:34:12
+Mercury            Hot Potato       2024-01-14 15:02:52
 
 Summary of stone functions:
 
@@ -60,6 +61,8 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-01-14 15:02:52  [Mercury attempts to reach for Sabotage Stone.]
+2024-01-14 15:02:52  Mercury reaches for Hot Potato Stone.
 2024-01-14 08:34:12  ais523 reaches for Anti-Equatorial Stone.
 2024-01-14 07:57:32  Janet wields Minty Stone, specifying self.
 2024-01-11 00:02:13  snail wields Radiance Stone, specifying self.
