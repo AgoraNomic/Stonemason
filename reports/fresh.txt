@@ -59,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-01-28 07:56:04  [Janet attempts to wield Hot Potato Stone, specifying Aris.]
 2024-01-28 07:56:04  Janet wields Minty Stone, specifying self.
 2024-01-27 01:02:39  ais523 wields Radiance Stone, specifying self.
 2024-01-22 14:39:19  Hot Potato Stone transferred from Ben to Janet with Hot Potato Stone.
