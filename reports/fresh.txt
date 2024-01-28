@@ -17,11 +17,12 @@ Player            Base Rockiness
 ----------------  --------------
 juan                          21
 kiako                          8
-Murphy                         7
-Gaelan                         5
-Kate                           4
+Murphy                         8
+Gaelan                         6
+Kate                           5
 Goren                          2
-Janet                          1
+Janet                          2
+ais523                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -58,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-01-15 00:00:00  Base Rockiness of ais523, Janet, Murphy, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-01-15 00:00:00  snail gathers Sabotage Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-01-15 00:00:00  Mercury gathers Hot Potato Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-01-15 00:00:00  ais523 gathers Anti-Equatorial Stone, resetting eir Base Rockiness and the stone's mossiness.
