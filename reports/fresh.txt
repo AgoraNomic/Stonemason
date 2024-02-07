@@ -7,7 +7,7 @@ Soul                     1  Kate             2023-12-11
 Sabotage                 0  snail            2023-10-25
 Minty                    0  Janet            2023-02-07
 Protection               1  ais523           2024-02-06    Protection
-Recursion                1  Janet            2024-01-07
+Recursion                1  Janet            2024-02-07    Protection
 Hot Potato               0  Aris             2024-02-07
 Blank                    1  4st              2023-05-28
 Anti-Equatorial          1  ais523           2024-01-15    Protection
@@ -59,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-02-07 21:22:54  Janet wields Recursion Stone, specifying Protection Stone, specifying Recursion Stone.
 2024-02-07 21:22:54  Janet wields Minty Stone, specifying self.
 2024-02-07 21:22:54  Hot Potato Stone transferred from Janet to Aris with Hot Potato Stone.
 2024-02-07 21:22:54  Janet wields Hot Potato Stone, specifying Aris.
