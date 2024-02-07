@@ -16,12 +16,12 @@ Radiance                 2  ais523           2024-02-03
 Player            Base Rockiness
 ----------------  --------------
 juan                          21
-Murphy                        10
+Murphy                        11
+Gaelan                         9
 kiako                          8
-Gaelan                         8
-Kate                           7
-Janet                          4
-ais523                         3
+Kate                           8
+Janet                          5
+ais523                         4
 Goren                          2
 
 Player             Reached For      Time
@@ -59,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-02-05 00:00:00  Base Rockiness of ais523, Janet, Murphy, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-02-03 04:08:23  ais523 wields Radiance Stone, specifying self.
 2024-01-29 00:00:00  Base Rockiness of ais523, Janet, Murphy, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-01-28 07:56:04  [Janet attempts to wield Hot Potato Stone, specifying Aris.]
