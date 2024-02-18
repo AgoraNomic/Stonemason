@@ -3,34 +3,27 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
 Power                    3  Janet            2023-12-08
-Soul                     0  Agora            2023-12-11    Agora
+Soul                     0  snail            2023-12-11
 Sabotage                 0  Agora            2023-10-25    Agora
-Minty                    0  Agora            2023-02-07    Agora
+Minty                    0  Murphy           2023-02-07
 Protection               2  ais523           2024-02-06
 Recursion                2  Janet            2024-02-07
-Hot Potato               0  Agora            2024-02-07    Agora
+Hot Potato               0  kiako            2024-02-07
 Blank                    2  4st              2023-05-28
 Anti-Equatorial          2  ais523           2024-01-15
-Radiance                 0  Agora            2024-02-06    Agora
+Radiance                 0  ais523           2024-02-06
 
 Player            Base Rockiness
 ----------------  --------------
 juan                          21
-Murphy                        11
 Gaelan                         9
-kiako                          8
 Kate                           8
 Janet                          5
-ais523                         4
 Goren                          2
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-Janet              Minty            2024-02-07 21:44:28
-ais523             Radiance         2024-02-07 21:45:41
-snail              Soul             2024-02-07 22:01:01
-kiako              Hot Potato       2024-02-11 20:31:57
-Murphy             Minty            2024-02-11 21:31:53
+[None this week.]
 
 Summary of stone functions:
 
@@ -63,6 +56,10 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-02-12 00:00:00  Murphy gathers Minty Stone, resetting eir Base Rockiness and the stone's mossiness.
+2024-02-12 00:00:00  kiako gathers Hot Potato Stone, resetting eir Base Rockiness and the stone's mossiness.
+2024-02-12 00:00:00  snail gathers Soul Stone, resetting eir Base Rockiness and the stone's mossiness.
+2024-02-12 00:00:00  ais523 gathers Radiance Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-02-11 21:31:53  Murphy 4reaches for Minty Stone.
 2024-02-11 20:31:57  kiako reaches for Hot Potato Stone.
 2024-02-07 22:01:01  snail reaches for Soul Stone.
