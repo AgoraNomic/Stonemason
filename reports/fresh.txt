@@ -28,6 +28,7 @@ Player             Reached For      Time
 -----------------  ---------------  -------------------
 Janet              Minty            2024-02-07 21:44:28
 ais523             Radiance         2024-02-07 21:45:41
+snail              Soul             2024-02-07 22:01:01
 
 Summary of stone functions:
 
@@ -60,6 +61,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-02-07 22:01:01  snail reaches for Soul Stone.
 2024-02-07 21:45:41  ais523 reaches for Radiance Stone.
 2024-02-07 21:44:28  Janet reaches for Minty Stone.
 2024-02-07 21:38:53  Protection, Recursion, and Anti-Equatorial Stones cease being immune after collection notice.
