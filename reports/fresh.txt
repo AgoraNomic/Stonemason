@@ -26,7 +26,7 @@ Goren                          2
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+Janet              Minty            2024-02-07 21:44:28
 
 Summary of stone functions:
 
@@ -59,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-02-07 21:44:28  Janet reaches for Minty Stone.
 2024-02-07 21:38:53  Protection, Recursion, and Anti-Equatorial Stones cease being immune after collection notice.
 2024-02-07 21:38:53  Mossiness of Power, Protection, Recursion, Blank, Anti-Equatorial Stones incremented per collection notice.
 2024-02-07 21:38:53  Hot Potato Stone is transferred to Agora per collection notice, resetting mossiness.
