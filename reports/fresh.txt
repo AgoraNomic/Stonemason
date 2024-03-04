@@ -4,7 +4,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
 Power                    3  Janet            2024-02-18    Protection
 Soul                     0  snail            2023-12-11
-Sabotage                 0  Agora            2023-10-25    Agora
+Sabotage                 0  Janet            2023-10-25
 Minty                    0  Murphy           2023-02-18
 Protection               2  ais523           2024-02-06
 Recursion                2  Janet            2024-02-18
@@ -18,13 +18,12 @@ Player            Base Rockiness
 juan                          21
 Gaelan                        10
 Kate                           9
-Janet                          6
 Goren                          2
 ais523                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-Janet              Sabotage         2024-02-18 07:40:03
+[None this week.]
 
 Summary of stone functions:
 
@@ -57,6 +56,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-02-19 00:00:00  Janet gathers Sabotage Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-02-18 21:49:18  Hot Potato Stone transferred from kiako to nix with Hot Potato Stone.
 2024-02-18 21:49:18  kiako wields Hot Potato Stone, specifying nix.
 2024-02-18 20:36:03  Murphy wields Minty Stone, specifying self.
