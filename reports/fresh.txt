@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-02-25 23:25:57  (snail attempts to wield Radiance Stone, specifying self.)
 2024-02-19 00:23:55  snail wields Radiance Stone, specifying self.
 2024-02-19 00:23:55  Soul Stone is transferred from snail to ais523 with Soul Stone.
 2024-02-19 00:23:55  Radiance Stone is transferred from ais523 to snail with Soul Stone.
