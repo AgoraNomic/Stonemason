@@ -16,11 +16,11 @@ Radiance                 0  snail            2024-03-03
 Player            Base Rockiness
 ----------------  --------------
 juan                          21
-Gaelan                        12
-Kate                          11
-ais523                         3
+Gaelan                        13
+Kate                          12
+ais523                         4
+Janet                          3
 Goren                          2
-Janet                          2
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-04 00:00:00  Base Rockiness of ais523, Janet, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-03-03 19:54:51  snail wields Radiance Stone, specifying self.
 2024-02-26 00:00:00  Base Rockiness of ais523, Janet, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-02-25 23:25:57  (snail attempts to wield Radiance Stone, specifying self.)
