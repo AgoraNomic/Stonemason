@@ -16,11 +16,11 @@ Radiance                 0  snail            2024-02-19
 Player            Base Rockiness
 ----------------  --------------
 juan                          21
-Gaelan                        11
-Kate                          10
+Gaelan                        12
+Kate                          11
+ais523                         3
 Goren                          2
-ais523                         2
-Janet                          1
+Janet                          2
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-02-26 00:00:00  Base Rockiness of ais523, Janet, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-02-25 23:25:57  (snail attempts to wield Radiance Stone, specifying self.)
 2024-02-19 00:23:55  snail wields Radiance Stone, specifying self.
 2024-02-19 00:23:55  Soul Stone is transferred from snail to ais523 with Soul Stone.
