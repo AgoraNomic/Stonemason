@@ -8,7 +8,7 @@ Sabotage                 0  Agora            2023-10-25    Agora
 Minty                    0  Murphy           2023-02-18
 Protection               2  ais523           2024-02-06
 Recursion                2  Janet            2024-02-18
-Hot Potato               0  kiako            2024-02-07
+Hot Potato               0  nix              2024-02-18
 Blank                    2  4st              2023-05-28
 Anti-Equatorial          2  ais523           2024-01-15
 Radiance                 0  ais523           2024-02-06
@@ -57,6 +57,8 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-02-18 21:49:18  Hot Potato Stone transferred from kiako to nix with Hot Potato Stone.
+2024-02-18 21:49:18  kiako wields Hot Potato Stone, specifying nix.
 2024-02-18 20:36:03  Murphy wields Minty Stone, specifying self.
 2024-02-18 07:40:03  Janet wields Recursion Stone, specifying Protection Stone, specifying Power Stone.
 2024-02-18 07:40:03  Janet wields Power Stone, specifying self.
