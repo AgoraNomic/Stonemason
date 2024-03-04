@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
 Power                    3  Janet            2024-02-18    Protection
-Soul                     0  snail            2023-12-11
+Soul                     0  ais523           2024-02-19
 Sabotage                 0  Janet            2023-10-25
 Minty                    0  Murphy           2023-02-18
 Protection               2  ais523           2024-02-06
@@ -11,7 +11,7 @@ Recursion                2  Janet            2024-02-18
 Hot Potato               0  nix              2024-02-18
 Blank                    2  4st              2023-05-28
 Anti-Equatorial          2  ais523           2024-01-15
-Radiance                 0  ais523           2024-02-06
+Radiance                 0  snail            2024-02-06
 
 Player            Base Rockiness
 ----------------  --------------
@@ -57,6 +57,9 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-02-19 00:23:55  Soul Stone is transferred from snail to ais523 with Soul Stone.
+2024-02-19 00:23:55  Radiance Stone is transferred from ais523 to snail with Soul Stone.
+2024-02-19 00:23:55  snail wields Soul Stone, specifying Radiance Stone.
 2024-02-19 00:00:00  Base Rockiness of ais523, Janet, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-02-19 00:00:00  Janet gathers Sabotage Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-02-18 21:49:18  Hot Potato Stone transferred from kiako to nix with Hot Potato Stone.
