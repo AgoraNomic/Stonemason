@@ -7,10 +7,10 @@ Soul                     0  ais523           2024-02-19
 Sabotage                 0  Janet            2023-10-25
 Minty                    0  Murphy           2023-02-18
 Protection               2  ais523           2024-02-06
-Recursion                2  Janet            2024-02-18
+Recursion                2  ais523           2024-02-18
 Hot Potato               0  nix              2024-02-18
 Blank                    2  4st              2023-05-28
-Anti-Equatorial          2  ais523           2024-01-15
+Anti-Equatorial          3  ais523           2024-03-04
 Radiance                 0  snail            2024-03-03
 
 Player            Base Rockiness
@@ -57,6 +57,9 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-04 05:48:29  Anti-Equatorial Stone's mossiness incremented by 1 due to Anti-Equatorial Stone.
+2024-03-04 05:48:29  Recursion Stone is transferred from snail to ais523 with Anti-Equatorial Stone.
+2024-03-04 05:48:29  ais523 wields Anti-Equatorial Stone, specifying Recursion Stone.
 2024-03-04 00:00:00  Base Rockiness of ais523, Janet, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-03-03 19:54:51  snail wields Radiance Stone, specifying self.
 2024-02-26 00:00:00  Base Rockiness of ais523, Janet, Kate, Gaelan increased by 1 due to Dream of Gardens.
