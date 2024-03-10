@@ -2,16 +2,16 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    3  Janet            2024-03-07    Protection
-Soul                     0  snail            2024-03-04
-Sabotage                 0  Janet            2023-10-25
-Minty                    0  Murphy           2023-03-03
-Protection               2  ais523           2024-03-04    Protection
-Recursion                2  ais523           2024-03-04    Protection
-Hot Potato               0  nix              2024-02-18
-Blank                    2  4st              2023-05-28
-Anti-Equatorial          3  ais523           2024-03-04
-Radiance                 0  ais523           2024-03-04
+Power                    4  Janet            2024-03-07
+Soul                     1  snail            2024-03-04
+Sabotage                 1  Janet            2023-10-25
+Minty                    1  Murphy           2023-03-03
+Protection               3  ais523           2024-03-04
+Recursion                3  ais523           2024-03-04
+Hot Potato               0  Agora            2024-02-18    Agora
+Blank                    3  4st              2023-05-28
+Anti-Equatorial          0  Agora            2024-03-04    Agora
+Radiance                 1  ais523           2024-03-04
 
 Player            Base Rockiness
 ----------------  --------------
@@ -57,6 +57,11 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2023-03-10 17:25:04  Power, Protection, Recursion, stones cease being immune after collection notice.
+2023-03-10 17:25:04  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Hot Potato, Blank, Radiance Stones incremented per collection notice.
+2023-03-10 17:25:04  Anti-Equatorial Stone is tranferred to Agora per collection notice, resetting mossiness.
+2023-03-10 17:25:04  Hot Potato Stone is tranferred to Agora per collection notice, resetting mossiness.
+2023-03-10 17:25:04  Collection notice.
 2024-03-07 21:47:37  [ais523 attempts to reach for Hot Potato Stone.]
 2024-03-07 20:49:55  Janet wields Power Stone, specifying self.
 2024-03-07 20:49:55  [Janet attempts to reach for Hot Potato Stone.]
