@@ -74,7 +74,7 @@ History:
 2024-03-03 19:54:51  snail wields Radiance Stone, specifying self.
 2024-03-03 19:21:18  Janet wields Power Stone, specifying self.
 2024-02-26 00:00:00  Base Rockiness of ais523, Janet, Kate, Gaelan increased by 1 due to Dream of Gardens.
-2024-02-25 23:25:57  (snail attempts to wield Radiance Stone, specifying self.)
+2024-02-25 23:25:57  [snail attempts to wield Radiance Stone, specifying self.]
 2024-02-19 00:23:55  snail wields Radiance Stone, specifying self.
 2024-02-19 00:23:55  Soul Stone is transferred from snail to ais523 with Soul Stone.
 2024-02-19 00:23:55  Radiance Stone is transferred from ais523 to snail with Soul Stone.
