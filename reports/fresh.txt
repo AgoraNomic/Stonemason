@@ -2,7 +2,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    3  Janet            2024-02-18    Protection
+Power                    3  Janet            2024-03-07    Protection
 Soul                     0  snail            2024-03-04
 Sabotage                 0  Janet            2023-10-25
 Minty                    0  Murphy           2023-03-03
@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-07 20:49:55  Janet wields Power Stone, specifying self.
 2024-03-07 20:49:55  [Janet attempts to reach for Hot Potato Stone.]
 2024-03-07 20:49:33  [Janet attempts to publish a collection notice, but fails due to not specifying the Anti-Equatorial Stone as escaping.]
 2024-03-04 05:48:29  ais523 wields Radiance Stone, specifying self.
