@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-07 21:47:37  [ais523 attempts to reach for Hot Potato Stone.]
 2024-03-07 20:49:55  Janet wields Power Stone, specifying self.
 2024-03-07 20:49:55  [Janet attempts to reach for Hot Potato Stone.]
 2024-03-07 20:49:33  [Janet attempts to publish a collection notice, but fails due to not specifying the Anti-Equatorial Stone as escaping.]
