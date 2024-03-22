@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-11 02:12:23  [Ben attempts to reach for Minty Stone.]
 2024-03-11 00:31:02  snail wields Radiance Stone, specifying self.
 2024-03-11 00:31:02  Soul Stone is transferred from snail to ais523 with Soul Stone.
 2024-03-11 00:31:02  Radiance Stone is transferred from ais523 to snail with Soul Stone.
