@@ -25,6 +25,7 @@ Goren                          2
 Player             Reached For      Time
 -----------------  ---------------  -------------------
 snail              Anti-Equatorial  2024-03-10 23:56:00
+ais523             Anti-Equatorial  2024-03-10 23:58:47
 
 Summary of stone functions:
 
@@ -57,6 +58,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-10 23:58:47  ais523 reaches for Anti-Equatorial Stone.
 2024-03-10 23:56:00  snail reaches for Anti-Equatorial Stone.
 2024-03-10 20:26:02  Murphy wields Minty Stone, specifying self.
 2024-03-10 17:25:04  Power, Protection, Recursion, stones cease being immune after collection notice.
