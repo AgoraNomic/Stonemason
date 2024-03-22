@@ -5,7 +5,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 Power                    4  Janet            2024-03-07
 Soul                     1  ais523           2024-03-11
 Sabotage                 1  Janet            2023-10-25
-Minty                    1  Murphy           2024-03-10
+Minty                    1  Murphy           2024-03-17
 Protection               3  ais523           2024-03-04
 Recursion                3  ais523           2024-03-04
 Hot Potato               0  Agora            2024-02-18    Agora
@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-17 20:47:14  Murphy wields Minty Stone, specifying self.
 2024-03-11 02:12:23  [Ben attempts to reach for Minty Stone.]
 2024-03-11 00:31:02  snail wields Radiance Stone, specifying self.
 2024-03-11 00:31:02  Soul Stone is transferred from snail to ais523 with Soul Stone.
