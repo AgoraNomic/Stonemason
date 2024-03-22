@@ -26,6 +26,7 @@ Player             Reached For      Time
 -----------------  ---------------  -------------------
 Gaelan             Hot Potato       2024-03-17 22:16:25
 snail              Hot Potato       2024-03-17 23:56:00
+Janet              Hot Potato       2024-03-17 23:57:57
 
 Summary of stone functions:
 
@@ -58,6 +59,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-17 23:57:57  Janet reaches for Hot Potato Stone.
 2024-03-17 23:56:00  snail reaches for Hot Potato Stone.
 2024-03-17 22:16:25  Gaelan reaches for Hot Potato Stone.
 2024-03-17 20:47:14  Murphy wields Minty Stone, specifying self.
