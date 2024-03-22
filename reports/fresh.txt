@@ -16,10 +16,11 @@ Radiance                 1  ais523           2024-03-04
 Player            Base Rockiness
 ----------------  --------------
 juan                          21
-Gaelan                        13
-Kate                          12
-Janet                          3
+Gaelan                        14
+Kate                          13
+Janet                          4
 Goren                          2
+ais523                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -56,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-11 00:00:00  Base Rockiness of ais523, Janet, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-03-11 00:00:00  ais523 gathers Anti-Equatorial Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-03-10 23:58:47  ais523 reaches for Anti-Equatorial Stone.
 2024-03-10 23:56:00  snail reaches for Anti-Equatorial Stone.
