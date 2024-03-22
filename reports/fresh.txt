@@ -10,7 +10,7 @@ Protection               3  ais523           2024-03-04
 Recursion                3  ais523           2024-03-04
 Hot Potato               0  Agora            2024-02-18    Agora
 Blank                    3  4st              2023-05-28
-Anti-Equatorial          0  Agora            2024-03-04    Agora
+Anti-Equatorial          0  ais523           2024-03-04
 Radiance                 1  ais523           2024-03-04
 
 Player            Base Rockiness
@@ -18,14 +18,12 @@ Player            Base Rockiness
 juan                          21
 Gaelan                        13
 Kate                          12
-ais523                         4
 Janet                          3
 Goren                          2
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-snail              Anti-Equatorial  2024-03-10 23:56:00
-ais523             Anti-Equatorial  2024-03-10 23:58:47
+[None this week.]
 
 Summary of stone functions:
 
@@ -58,6 +56,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-11 00:00:00  ais523 gathers Anti-Equatorial Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-03-10 23:58:47  ais523 reaches for Anti-Equatorial Stone.
 2024-03-10 23:56:00  snail reaches for Anti-Equatorial Stone.
 2024-03-10 20:26:02  Murphy wields Minty Stone, specifying self.
@@ -90,6 +89,7 @@ History:
 2024-02-19 00:23:55  Radiance Stone is transferred from ais523 to snail with Soul Stone.
 2024-02-19 00:23:55  snail wields Soul Stone, specifying Radiance Stone.
 2024-02-19 00:00:00  Base Rockiness of ais523, Janet, Kate, Gaelan increased by 1 due to Dream of Gardens.
+2024-02-19 00:00:00  Janet gathers Sabotage Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-02-19 00:00:00  Janet gathers Sabotage Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-02-18 21:49:18  Hot Potato Stone transferred from kiako to nix with Hot Potato Stone.
 2024-02-18 21:49:18  kiako wields Hot Potato Stone, specifying nix.
