@@ -16,10 +16,11 @@ Radiance                 1  snail            2024-03-11
 Player            Base Rockiness
 ----------------  --------------
 juan                          21
-Kate                          13
-Janet                          4
+Kate                          14
+Janet                          5
 Goren                          2
-ais523                         1
+ais523                         2
+Gaelan                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -56,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-18 00:00:00  Base Rockiness of ais523, Janet, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-03-18 00:00:00  Gaelan gathers Hot Potato Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-03-17 23:57:57  Janet reaches for Hot Potato Stone.
 2024-03-17 23:56:00  snail reaches for Hot Potato Stone.
