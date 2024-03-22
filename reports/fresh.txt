@@ -8,7 +8,7 @@ Sabotage                 1  Janet            2023-10-25
 Minty                    1  Murphy           2024-03-17
 Protection               3  ais523           2024-03-04
 Recursion                3  ais523           2024-03-04
-Hot Potato               0  Agora            2024-02-18    Agora
+Hot Potato               0  Gaelan           2024-02-18
 Blank                    3  4st              2023-05-28
 Anti-Equatorial          0  ais523           2024-03-04
 Radiance                 1  snail            2024-03-11
@@ -16,7 +16,6 @@ Radiance                 1  snail            2024-03-11
 Player            Base Rockiness
 ----------------  --------------
 juan                          21
-Gaelan                        14
 Kate                          13
 Janet                          4
 Goren                          2
@@ -24,9 +23,7 @@ ais523                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-Gaelan             Hot Potato       2024-03-17 22:16:25
-snail              Hot Potato       2024-03-17 23:56:00
-Janet              Hot Potato       2024-03-17 23:57:57
+[None this week.]
 
 Summary of stone functions:
 
@@ -59,6 +56,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-18 00:00:00  Gaelan gathers Hot Potato Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-03-17 23:57:57  Janet reaches for Hot Potato Stone.
 2024-03-17 23:56:00  snail reaches for Hot Potato Stone.
 2024-03-17 22:16:25  Gaelan reaches for Hot Potato Stone.
