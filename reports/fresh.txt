@@ -24,7 +24,7 @@ ais523                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-[None this week.]
+Gaelan             Hot Potato       2024-03-17 22:16:25
 
 Summary of stone functions:
 
@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-17 22:16:25  Gaelan reaches for Hot Potato Stone.
 2024-03-17 20:47:14  Murphy wields Minty Stone, specifying self.
 2024-03-11 02:12:23  [Ben attempts to reach for Minty Stone.]
 2024-03-11 00:31:02  snail wields Radiance Stone, specifying self.
