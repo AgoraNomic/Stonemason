@@ -5,7 +5,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 Power                    4  Janet            2024-03-07
 Soul                     1  snail            2024-03-04
 Sabotage                 1  Janet            2023-10-25
-Minty                    1  Murphy           2023-03-10
+Minty                    1  Murphy           2024-03-10
 Protection               3  ais523           2024-03-04
 Recursion                3  ais523           2024-03-04
 Hot Potato               0  Agora            2024-02-18    Agora
@@ -58,12 +58,12 @@ Score            A specified player's radiance is increased by 3.
 History:
 =======
 2024-03-10 23:56:00  snail reaches for Anti-Equatorial Stone.
-2023-03-10 20:26:02  Murphy wields Minty Stone, specifying self.
-2023-03-10 17:25:04  Power, Protection, Recursion, stones cease being immune after collection notice.
-2023-03-10 17:25:04  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Hot Potato, Blank, Radiance Stones incremented per collection notice.
-2023-03-10 17:25:04  Anti-Equatorial Stone is tranferred to Agora per collection notice, resetting mossiness.
-2023-03-10 17:25:04  Hot Potato Stone is tranferred to Agora per collection notice, resetting mossiness.
-2023-03-10 17:25:04  Collection notice.
+2024-03-10 20:26:02  Murphy wields Minty Stone, specifying self.
+2024-03-10 17:25:04  Power, Protection, Recursion, stones cease being immune after collection notice.
+2024-03-10 17:25:04  Mossiness of Power, Soul, Sabotage, Minty, Protection, Recursion, Hot Potato, Blank, Radiance Stones incremented per collection notice.
+2024-03-10 17:25:04  Anti-Equatorial Stone is tranferred to Agora per collection notice, resetting mossiness.
+2024-03-10 17:25:04  Hot Potato Stone is tranferred to Agora per collection notice, resetting mossiness.
+2024-03-10 17:25:04  Collection notice.
 2024-03-07 21:47:37  [ais523 attempts to reach for Hot Potato Stone.]
 2024-03-07 20:49:55  Janet wields Power Stone, specifying self.
 2024-03-07 20:49:55  [Janet attempts to reach for Hot Potato Stone.]
