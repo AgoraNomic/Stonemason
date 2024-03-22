@@ -11,7 +11,7 @@ Recursion                3  ais523           2024-03-04
 Hot Potato               0  Gaelan           2024-02-18
 Blank                    3  4st              2023-05-28
 Anti-Equatorial          0  ais523           2024-03-04
-Radiance                 1  snail            2024-03-11
+Radiance                 1  snail            2024-03-18
 
 Player            Base Rockiness
 ----------------  --------------
@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-18 00:00:00  snail wields Radiance Stone, specifying self.
 2024-03-18 00:00:00  Base Rockiness of ais523, Janet, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-03-18 00:00:00  Gaelan gathers Hot Potato Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-03-17 23:57:57  Janet reaches for Hot Potato Stone.
