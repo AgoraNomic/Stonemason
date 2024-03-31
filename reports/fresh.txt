@@ -5,7 +5,7 @@ Stone            Mossiness  Owner            Last Wielded  Immune?
 Power                    4  Janet            2024-03-07
 Soul                     1  ais523           2024-03-11
 Sabotage                 1  Janet            2023-10-25
-Minty                    1  Murphy           2024-03-17
+Minty                    1  Murphy           2024-03-31
 Protection               3  ais523           2024-03-04
 Recursion                3  ais523           2024-03-04
 Hot Potato               0  Gaelan           2024-02-18
@@ -58,6 +58,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-31 18:12:28  Murphy wields Minty Stone, specifying self.
 2024-03-25 01:38:10  snail wields Radiance Stone, specifying self.
 2024-03-25 00:00:00  Base Rockiness of Janet, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-03-25 00:00:00  R. Lee gathers Loud Stone, resetting eir Base Rockiness and the stone's mossiness.
