@@ -9,7 +9,7 @@ Minty                    1  Murphy           2024-03-17
 Protection               3  ais523           2024-03-04
 Recursion                3  ais523           2024-03-04
 Hot Potato               0  Gaelan           2024-02-18
-Blank                    3  4st              2023-05-28
+Blank                    0  Agora            2023-05-28    Agora
 Anti-Equatorial          0  ais523           2024-03-04
 Radiance                 1  snail            2024-03-18
 Loud                     0  Agora                          Agora
@@ -66,6 +66,7 @@ History:
 2024-03-17 23:56:00  snail reaches for Hot Potato Stone.
 2024-03-17 22:16:25  Gaelan reaches for Hot Potato Stone.
 2024-03-17 20:47:14  Murphy wields Minty Stone, specifying self.
+2024-03-14 21:34:01  Blank Stone transferred from 4st to Agora after 4st's deregistration, restting mossiness.
 2024-03-11 02:12:23  [Ben attempts to reach for Minty Stone.]
 2024-03-11 00:31:02  snail wields Radiance Stone, specifying self.
 2024-03-11 00:31:02  Soul Stone is transferred from snail to ais523 with Soul Stone.
