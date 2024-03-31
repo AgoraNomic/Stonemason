@@ -11,7 +11,7 @@ Recursion                3  ais523           2024-03-04
 Hot Potato               0  Gaelan           2024-02-18
 Blank                    0  Agora            2023-05-28    Agora
 Anti-Equatorial          0  ais523           2024-03-04
-Radiance                 1  snail            2024-03-18
+Radiance                 1  snail            2024-03-25
 Loud                     0  R. Lee
 
 Player            Base Rockiness
@@ -58,6 +58,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-25 01:38:10  snail wields Radiance Stone, specifying self.
 2024-03-25 00:00:00  Base Rockiness of Janet, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-03-25 00:00:00  R. Lee gathers Loud Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-03-24 23:20:47  snail reaches for Loud Stone.
