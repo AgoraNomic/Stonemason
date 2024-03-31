@@ -12,7 +12,7 @@ Hot Potato               0  Gaelan           2024-02-18
 Blank                    0  Agora            2023-05-28    Agora
 Anti-Equatorial          0  ais523           2024-03-04
 Radiance                 1  snail            2024-03-18
-Loud                     0  Agora                          Agora
+Loud                     0  R. Lee
 
 Player            Base Rockiness
 ----------------  --------------
@@ -25,8 +25,7 @@ Gaelan                         1
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-R. Lee             Loud             2024-03-23 18:35:44
-snail              Loud             2024-03-24 23:20:47
+[None this week.]
 
 Summary of stone functions:
 
@@ -59,6 +58,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-03-25 00:00:00  R. Lee gathers Loud Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-03-24 23:20:47  snail reaches for Loud Stone.
 2024-03-23 18:35:44  R. Lee reaches for Loud Stone.
 2024-03-22 18:18:20  Loud Stone created after Proposal 9071 takes effect.
