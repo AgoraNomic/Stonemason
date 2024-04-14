@@ -2,7 +2,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Mossiness  Owner            Last Wielded  Immune?
 ---------------  ---------  ---------------  ------------  -------
-Power                    4  ais523           2024-03-07
+Power                    4  ais523           2024-04-01
 Soul                     1  snail            2024-04-01
 Sabotage                 1  Janet            2023-10-25
 Minty                    1  Murphy           2024-03-31
@@ -11,7 +11,7 @@ Recursion                3  ais523           2024-04-01    Protection
 Hot Potato               0  ais523           2024-03-31
 Blank                    0  ais523           2023-05-28
 Anti-Equatorial          1  ais523           2024-04-01    Protection
-Radiance                 1  ais523           2024-03-25
+Radiance                 1  ais523           2024-04-01
 Loud                     0  R. Lee
 
 Player            Base Rockiness
@@ -57,6 +57,8 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-04-01 00:09:28  ais523 wields Power Stone, specifying self.
+2024-04-01 00:09:28  ais523 wields Radiance Stone, specifying self.
 2024-04-01 00:09:28  Anti-Equatorial Stone's mossiness incremented by 1 due to Anti-Equatorial Stone.
 2024-04-01 00:09:28  Power Stone is transferred from Janet to ais523 with Anti-Equatorial Stone.
 2024-04-01 00:09:28  ais523 wields Anti-Equatorial Stone.
