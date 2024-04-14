@@ -17,10 +17,10 @@ Loud                     0  R. Lee
 Player            Base Rockiness
 ----------------  --------------
 juan                          21
-Kate                          15
-Janet                          6
+Kate                          16
+Janet                          7
+Gaelan                         3
 Goren                          2
-Gaelan                         2
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-04-01 00:00:00  Base Rockiness of Janet, Kate, Gaelan increased by 1 due to Dream of Gardens.
 2024-04-01 00:00:00  ais523 gathers Blank Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-03-31 20:54:36  Hot Potato Stone transferred from Gaelan to ais523 with Hot Potato Stone.
 2024-03-31 20:54:36  ais523 causes Gaelan to wield Hot Potato Stone, specifying ais523.
