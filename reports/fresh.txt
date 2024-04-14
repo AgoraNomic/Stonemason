@@ -9,7 +9,7 @@ Minty                    1  Murphy           2024-03-31
 Protection               3  ais523           2024-04-01
 Recursion                3  ais523           2024-04-01    Protection
 Hot Potato               0  Murphy           2024-04-01
-Blank                    0  ais523           2023-05-28
+Blank                    0  ais523           2024-04-01
 Anti-Equatorial          1  ais523           2024-04-01    Protection
 Radiance                 1  ais523           2024-04-01
 Loud                     0  R. Lee
@@ -57,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-04-01 00:09:28  ais523 wields Blank Stone.
 2024-04-01 00:09:28  Hot Potato Stone transferred from ais523 to Murphy with Hot Potato Stone.
 2024-04-01 00:09:28  ais523 wields Hot Potato Stone, specifying Murphy.
 2024-04-01 00:09:28  ais523 wields Power Stone, specifying self.
