@@ -9,7 +9,7 @@ Minty                    1  Murphy           2024-03-31
 Protection               3  ais523           2024-03-04
 Recursion                3  ais523           2024-03-04
 Hot Potato               0  ais523           2024-03-31
-Blank                    0  Agora            2023-05-28    Agora
+Blank                    0  ais523           2023-05-28
 Anti-Equatorial          0  ais523           2024-03-04
 Radiance                 1  snail            2024-03-25
 Loud                     0  R. Lee
@@ -20,12 +20,11 @@ juan                          21
 Kate                          15
 Janet                          6
 Goren                          2
-ais523                         2
 Gaelan                         2
 
 Player             Reached For      Time
 -----------------  ---------------  -------------------
-ais523             Blank            2024-03-31 20:49:57
+[None this week.]
 
 Summary of stone functions:
 
@@ -58,6 +57,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-04-01 00:00:00  ais523 gathers Blank Stone, resetting eir Base Rockiness and the stone's mossiness.
 2024-03-31 20:54:36  Hot Potato Stone transferred from Gaelan to ais523 with Hot Potato Stone.
 2024-03-31 20:54:36  ais523 causes Gaelan to wield Hot Potato Stone, specifying ais523.
 2024-03-31 20:49:57  ais523 reaches for Blank Stone.
