@@ -1,0 +1,9 @@
+I hereby publish the following collection notice:
+
+All random choices are made using AgoraBot in a public channel on the Discord discussion forum. I affirm under penalty of No Faking that, to the best of my knowledge, the choices listed below had the required probability distributions.
+
+Escape Minimum: 5
+
+No stone has "slipperiness" not less than the Escape Minimum, as "slipperiness" is no longer an attribute of stones.
+
+No stones escape.
