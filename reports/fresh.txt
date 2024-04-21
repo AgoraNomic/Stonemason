@@ -5,7 +5,7 @@ Stone            Owner            Last Wielded  Stone Cost  Immune?
 Power            ais523           2024-04-01             9
 Soul             snail            2024-04-01             9
 Sabotage         Janet            2023-10-25             9
-Minty            Murphy           2024-04-04             9
+Minty            Murphy           2024-04-14             9
 Protection       ais523           2024-04-01             9
 Recursion        ais523           2024-04-01             9  Protection
 Hot Potato       Jaff             2024-04-04             9
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-04-14 20:41:18  Murphy wields Minty Stone, specifying self.
 2024-04-08 00:00:00  Stone Cost of each stone reduced by 1.
 2024-04-07 07:24:48  Proposal 9079 removes mossiness, rockiness, and reaching and adds Stone Cost.
 2024-04-04 09:37:38  Hot Potato Stone transferred from Murphy to Jaff with Hot Potato Stone.
