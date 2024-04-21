@@ -11,7 +11,7 @@ Recursion        ais523           2024-04-01             8  Protection
 Hot Potato       Janet            2024-04-14             9
 Blank            ais523           2024-04-01             8
 Anti-Equatorial  ais523           2024-04-01             8  Protection
-Radiance         snail            2024-04-14             9
+Radiance         snail            2024-04-15             9
 Loud             R. Lee                                  8
 
 Summary of stone functions:
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-04-15 00:10:20  snail wields Radiance Stone, specifying self.
 2024-04-15 00:00:00  Stone Cost of each stone reduced by 1.
 2024-04-14 23:26:08  snail wields Radiance Stone, specifying self.
 2024-04-14 23:26:08  Radiance Stone is transferred from ais523 to snail with Soul Stone, resetting Stone Cost.
