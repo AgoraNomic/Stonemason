@@ -1,18 +1,18 @@
 THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
-Stone            Owner            Last Wielded  Immune?
----------------  ---------------  ------------  -------
-Power            ais523           2024-04-01
-Soul             snail            2024-04-01
-Sabotage         Janet            2023-10-25
-Minty            Murphy           2024-04-04
-Protection       ais523           2024-04-01
-Recursion        ais523           2024-04-01    Protection
-Hot Potato       Jaff             2024-04-04
-Blank            ais523           2024-04-01
-Anti-Equatorial  ais523           2024-04-01    Protection
-Radiance         ais523           2024-04-01
-Loud             R. Lee
+Stone            Owner            Last Wielded  Stone Cost  Immune?
+---------------  ---------------  ------------  ----------  -------
+Power            ais523           2024-04-01            10
+Soul             snail            2024-04-01            10
+Sabotage         Janet            2023-10-25            10
+Minty            Murphy           2024-04-04            10
+Protection       ais523           2024-04-01            10
+Recursion        ais523           2024-04-01            10  Protection
+Hot Potato       Jaff             2024-04-04            10
+Blank            ais523           2024-04-01            10
+Anti-Equatorial  ais523           2024-04-01            10  Protection
+Radiance         ais523           2024-04-01            10
+Loud             R. Lee                                 10
 
 Summary of stone functions:
 
@@ -45,7 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
-2024-04-07 07:24:48  Proposal 9079 removes mossiness, rockiness, and reaching.
+2024-04-07 07:24:48  Proposal 9079 removes mossiness, rockiness, and reaching and adds Stone Cost.
 2024-04-04 09:37:38  Hot Potato Stone transferred from Murphy to Jaff with Hot Potato Stone.
 2024-04-04 09:37:38  Murphy wields Hot Potato Stone, specifying Jaff.
 2024-04-04 09:37:38  Murphy wields Minty Stone, specifying self.
