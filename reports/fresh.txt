@@ -8,7 +8,7 @@ Sabotage         Janet            2023-10-25             9
 Minty            Murphy           2024-04-14             9
 Protection       ais523           2024-04-01             9
 Recursion        ais523           2024-04-01             9  Protection
-Hot Potato       Jaff             2024-04-04             9
+Hot Potato       Janet            2024-04-14            10
 Blank            ais523           2024-04-01             9
 Anti-Equatorial  ais523           2024-04-01             9  Protection
 Radiance         ais523           2024-04-01             9
@@ -45,6 +45,8 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-04-14 22:19:00  Hot Potato Stone transferred from Jaff to Janet with Hot Potato Stone, resetting Stone Cost.
+2024-04-14 22:19:00  Jaff wields Hot Potato Stone, specifying Janet.
 2024-04-14 20:41:18  Murphy wields Minty Stone, specifying self.
 2024-04-08 00:00:00  Stone Cost of each stone reduced by 1.
 2024-04-07 07:24:48  Proposal 9079 removes mossiness, rockiness, and reaching and adds Stone Cost.
