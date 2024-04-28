@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-04-21 05:15:16  [Janet attempts to wield Soul Stone.]
 2024-04-21 05:15:16  [Janet attempts to pay a fee of 8 spendies to transfer Soul Stone to self.]
 2024-04-15 19:47:15  Collection notice (with no effect).
 2024-04-15 00:10:20  snail wields Radiance Stone, specifying self.
