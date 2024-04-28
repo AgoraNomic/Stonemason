@@ -3,7 +3,7 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 Stone            Owner            Last Wielded  Stone Cost  Immune?
 ---------------  ---------------  ------------  ----------  -------
 Power            ais523           2024-04-01             8
-Soul             ais523           2024-04-14             9
+Soul             Janet            2024-04-14            10
 Sabotage         Janet            2023-10-25             8
 Minty            Murphy           2024-04-14             8
 Protection       ais523           2024-04-01             8
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-04-21 05:15:58  Janet pays fee of 9 spendies to transfer Soul Stone from ais523 to self, resetting Stone Cost.
 2024-04-21 05:15:16  Hot Potato Stone transferred from Janet to Ben with Hot Potato Stone, resetting Stone Cost.
 2024-04-21 05:15:16  Janet wields Hot Potato Stone, specifying Ben.
 2024-04-21 05:15:16  Janet pays fee of 8 spendies to transfer Recursion Stone from ais523 to self, resetting Stone Cost.
