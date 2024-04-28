@@ -2,17 +2,17 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Owner            Last Wielded  Stone Cost  Immune?
 ---------------  ---------------  ------------  ----------  -------
-Power            Janet            2024-04-01            10
-Soul             ais523           2024-04-21            10
-Sabotage         Janet            2023-10-25             8
-Minty            Murphy           2024-04-21             8
-Protection       ais523           2024-04-01             8
-Recursion        ais523           2024-04-01            10  Protection
-Hot Potato       Ben              2024-04-21            10
-Blank            ais523           2024-04-01             8
-Anti-Equatorial  ais523           2024-04-01             8  Protection
-Radiance         snail            2024-04-15             9
-Loud             R. Lee                                  8
+Power            Janet            2024-04-01             9
+Soul             ais523           2024-04-21             9
+Sabotage         Janet            2023-10-25             7
+Minty            Murphy           2024-04-21             7
+Protection       ais523           2024-04-01             7
+Recursion        ais523           2024-04-01             9  Protection
+Hot Potato       Ben              2024-04-21             9
+Blank            ais523           2024-04-01             7
+Anti-Equatorial  ais523           2024-04-01             7  Protection
+Radiance         snail            2024-04-15             8
+Loud             R. Lee                                  7
 
 Summary of stone functions:
 
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-04-22 00:00:00  Stone Cost of each stone reduced by 1.
 2024-04-21 21:26:53  Murphy wields Minty Stone, specifying self.
 2024-04-21 05:15:58  Power Stone transferred from ais523 to Janet with Soul Stone, resetting Stone Cost.
 2024-04-21 05:15:58  Soul Stone transferred from Janet to ais523 with Soul Stone, resetting Stone Cost.
