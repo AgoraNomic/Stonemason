@@ -12,7 +12,7 @@ Hot Potato       Ben              2024-04-21             9
 Blank            ais523           2024-04-01             7
 Anti-Equatorial  ais523           2024-04-01             7  Protection
 Radiance         snail            2024-04-22             8
-Loud             R. Lee                                  7
+Loud             Agora                                  10
 
 Summary of stone functions:
 
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-04-27 14:36:43  Loud Stone transferred to Agora after R. Lee deregisters, resetting Stone Cost.
 2024-04-22 07:20:35  snail wields Radiance Stone, specifying self.
 2024-04-22 00:00:00  Stone Cost of each stone reduced by 1.
 2024-04-21 21:26:53  Murphy wields Minty Stone, specifying self.
