@@ -45,6 +45,9 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-04-30 17:20:33  [ais523 attempts to wield Radiance Stone, specifying self.]
+2024-04-30 17:20:33  [ais523 attempts to pay 8 spendies to transfer Radiance Stone to self.]
+2024-04-30 17:20:33  [ais523 attempts to pay 7 spendies to transfer Loud Stone to self.]
 2024-04-30 08:07:45  [wunst attempts to wield Minty Stone.]
 2024-04-30 08:07:45  [wunst attempts to pay 7 spendies to transfer Minty Stone to self.]
 2024-04-29 00:00:00  Stone Cost of each stone reduced by 1.
