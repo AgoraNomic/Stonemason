@@ -11,7 +11,7 @@ Recursion        ais523           2024-04-01             8  Protection
 Hot Potato       Goren            2024-04-28             9
 Blank            ais523           2024-04-01             6
 Anti-Equatorial  ais523           2024-04-01             6  Protection
-Radiance         ais523           2024-04-22            10
+Radiance         ais523           2024-04-30            10
 Loud             Agora                                   9
 
 Summary of stone functions:
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-04-30 17:23:22  ais523 wields Radiance Stone, specifying self.
 2024-04-30 17:23:22  ais523 pays 7 spendies to transfer Radiance Stone to self, resetting Stone Cost.
 2024-04-30 17:23:22  [ais523 attempts to pay 6 spendies to transfer Loud Stone to self.]
 2024-04-30 17:20:33  [ais523 attempts to wield Radiance Stone, specifying self.]
