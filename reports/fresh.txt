@@ -2,17 +2,17 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Owner            Last Wielded  Stone Cost  Immune?
 ---------------  ---------------  ------------  ----------  -------
-Power            Janet            2024-04-01             9
-Soul             ais523           2024-04-21             9
-Sabotage         Janet            2023-10-25             7
-Minty            Murphy           2024-04-28             7
-Protection       ais523           2024-04-01             7
-Recursion        ais523           2024-04-01             9  Protection
-Hot Potato       Goren            2024-04-28            10
-Blank            ais523           2024-04-01             7
-Anti-Equatorial  ais523           2024-04-01             7  Protection
-Radiance         snail            2024-04-22             8
-Loud             Agora                                  10
+Power            Janet            2024-04-01             8
+Soul             ais523           2024-04-21             8
+Sabotage         Janet            2023-10-25             6
+Minty            Murphy           2024-04-28             6
+Protection       ais523           2024-04-01             6
+Recursion        ais523           2024-04-01             8  Protection
+Hot Potato       Goren            2024-04-28             9
+Blank            ais523           2024-04-01             6
+Anti-Equatorial  ais523           2024-04-01             6  Protection
+Radiance         snail            2024-04-22             7
+Loud             Agora                                   9
 
 Summary of stone functions:
 
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-04-29 00:00:00  Stone Cost of each stone reduced by 1.
 2024-04-28 20:40:37  Murphy wields Minty Stone, specifying self.
 2024-04-28 14:54:49  Hot Potato Stone transferred from Ben to Goren with Hot Potato Stone, resetting Stone Cost.
 2024-04-28 14:54:49  Ben wields Hot Potato Stone, specifying Goren.
