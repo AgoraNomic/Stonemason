@@ -2,17 +2,17 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Owner            Last Wielded  Stone Cost  Immune?
 ---------------  ---------------  ------------  ----------  -------
-Power            Janet            2024-04-01             8
-Soul             ais523           2024-04-21             8
-Sabotage         Janet            2023-10-25             6
-Minty            Murphy           2024-04-28             6
-Protection       ais523           2024-04-01             6
-Recursion        ais523           2024-04-01             8  Protection
-Hot Potato       Goren            2024-04-28             9
-Blank            ais523           2024-04-01             6
-Anti-Equatorial  ais523           2024-04-01             6  Protection
-Radiance         ais523           2024-04-30            10
-Loud             Agora                                   9
+Power            Agora            2024-04-01             6
+Soul             Agora            2024-04-21             6
+Sabotage         Agora            2023-10-25             8
+Minty            Agora            2024-04-28             8
+Protection       Agora            2024-04-01             4
+Recursion        Agora            2024-04-01             6  Protection
+Hot Potato       Agora            2024-04-28             7
+Blank            Agora            2024-04-01             4
+Anti-Equatorial  Agora            2024-05-05             4  Protection
+Radiance         Agora            2024-05-06             8
+Loud             Agora                                   7
 
 Summary of stone functions:
 
@@ -28,12 +28,12 @@ Sabotage         The AI of a specified AI-majority decision is
 
 Minty            A specified player gains a stamp of eir own type.
 
-Protection       A specified stone becomes immune (until the next Collection
-                 Notice).
+Protection       A specified stone becomes immune until a new stone is
+                 specified.
 
 Recursion        Can be wielded as any other stone.
 
-Hot Potato       Grants he wielder 8 radiance, then is transferred to another
+Hot Potato       Grants the wielder 8 radiance, then is transferred to another
                  player.
 
 Blank            Does nothing.
@@ -45,6 +45,18 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+
+2024-05-20 00:00:00  Stone Cost of each Stone reduced by 1.
+2024-05-13 00:00:00  Stone Cost of each Stone reduced by 1.
+2024-05-09 22:55:29  All stones are transferred to Agora after Rock Garden Noticing.
+2024-05-06 16:47:40  ais523 wields Radiance Stone, specifying self.
+2024-05-06 00:00:00  Stone Cost of each stone reduced by 1.
+2024-05-05 23:05:05  [ais523 attempts to transfer Power Stone to Janet.]
+2024-05-05 23:05:05  [ais523 attempts to transfer Power Stone from Janet to ais523 with Anti-Equatorial Stone.]
+2024-05-05 23:05:05  ais523 wields Anti-Equatorial Stone, specifying Power Stone.
+2024-05-05 22:55:29  ais523 Notices the Rock Garden.
+2024-05-05 22:55:29  ais523 pays 6 spendies to transfer Minty Stone to self, resetting Stone Cost.
+2024-05-05 22:55:29  ais523 pays 6 spendies to transfer Sabotage Stone to self, resetting Stone Cost.
 2024-04-30 17:23:22  ais523 wields Radiance Stone, specifying self.
 2024-04-30 17:23:22  ais523 pays 7 spendies to transfer Radiance Stone to self, resetting Stone Cost.
 2024-04-30 17:23:22  [ais523 attempts to pay 6 spendies to transfer Loud Stone to self.]
