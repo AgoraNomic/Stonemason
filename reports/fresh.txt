@@ -11,7 +11,7 @@ Recursion        nix              2024-05-27             5
 Hot Potato       Agora            2024-04-28             6
 Blank            Agora            2024-04-01             3
 Anti-Equatorial  Agora            2024-05-05             3
-Radiance         nix              2024-05-27             7
+Radiance         snail            2024-05-27             7
 Loud             Agora                                   6
 
 Summary of stone functions:
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-05-27 23:58:48  snail pays 7 spendies to transfer Radiance Stone to self.
 2024-05-27 10:00:45  [juniper attempts to wield Minty Stone, specifying self.]
 2024-05-27 10:00:45  [juniper attempts to wield Soul Stone, specifying Minty Stone.]
 2024-05-27 10:00:45  [juniper attempts to pays 6 spendies to transfer Soul Stone to self.]
