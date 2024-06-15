@@ -10,7 +10,7 @@ Protection       Agora            2024-04-01             3
 Recursion        Agora            2024-04-01             5  Protection
 Hot Potato       Agora            2024-04-28             6
 Blank            Agora            2024-04-01             3
-Anti-Equatorial  Agora            2024-05-05             3  Protection
+Anti-Equatorial  Agora            2024-05-05             3
 Radiance         Agora            2024-05-06             7
 Loud             Agora                                   6
 
@@ -48,6 +48,7 @@ History:
 2024-05-27 00:00:00  Stone Cost of each Stone reduced by 1.
 2024-05-20 00:00:00  Stone Cost of each Stone reduced by 1.
 2024-05-13 00:00:00  Stone Cost of each Stone reduced by 1.
+2024-05-12 19:04:55  Anti-Equatorial Stone ceases being immune after Proposal 9108 takes effect. [Reading: stones specified when wielding the Recursion Stone as the Protection Stone are not immune.]
 2024-05-09 22:55:29  All stones are transferred to Agora after Rock Garden Noticing.
 2024-05-06 16:47:40  ais523 wields Radiance Stone, specifying self.
 2024-05-06 00:00:00  Stone Cost of each stone reduced by 1.
