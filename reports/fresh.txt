@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-04 11:20:01  [snail attempts to pay 5 spendies to transfer Power Stone to self.]
 2024-06-04 11:20:01  snail pays 5 spendies to transfer Hot Potato Stone to self.
 2024-06-04 11:20:01  snail pays 5 spendies to transfer Loud Stone to self.
 2024-06-04 11:20:01  snail pays 2 spendies to transfer Anti-Equatorial Stone to self.
