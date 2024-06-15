@@ -9,7 +9,7 @@ Minty            snail            2024-05-27             8
 Protection       nix              2024-05-27             4  Protection
 Recursion        nix              2024-05-27             6
 Hot Potato       snail            2024-04-28             5
-Blank            snail            2024-04-01             2
+Blank            snail            2024-06-04             2
 Anti-Equatorial  snail            2024-05-05             2
 Radiance         snail            2024-06-03             8
 Loud             snail                                   5
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-04 11:27:48  snail wields Blank Stone.
 2024-06-04 11:20:01  [snail attempts to Notice the Rock Garden.]
 2024-06-04 11:20:01  snail pays 6 spendies to transfer Sabotage Stone to self.
 2024-06-04 11:20:01  [snail attempts to pay 5 spendies to transfer Power Stone to self.]
