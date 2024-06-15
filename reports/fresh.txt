@@ -2,17 +2,17 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Owner            Last Wielded  Stone Cost  Immune?
 ---------------  ---------------  ------------  ----------  -------
-Power            Agora            2024-04-01             6
-Soul             Agora            2024-04-21             6
-Sabotage         Agora            2023-10-25             8
-Minty            Agora            2024-04-28             8
-Protection       Agora            2024-04-01             4
-Recursion        Agora            2024-04-01             6  Protection
-Hot Potato       Agora            2024-04-28             7
-Blank            Agora            2024-04-01             4
-Anti-Equatorial  Agora            2024-05-05             4  Protection
-Radiance         Agora            2024-05-06             8
-Loud             Agora                                   7
+Power            Agora            2024-04-01             5
+Soul             Agora            2024-04-21             5
+Sabotage         Agora            2023-10-25             7
+Minty            Agora            2024-04-28             7
+Protection       Agora            2024-04-01             3
+Recursion        Agora            2024-04-01             5  Protection
+Hot Potato       Agora            2024-04-28             6
+Blank            Agora            2024-04-01             3
+Anti-Equatorial  Agora            2024-05-05             3  Protection
+Radiance         Agora            2024-05-06             7
+Loud             Agora                                   6
 
 Summary of stone functions:
 
@@ -45,7 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
-
+2024-05-27 00:00:00  Stone Cost of each Stone reduced by 1.
 2024-05-20 00:00:00  Stone Cost of each Stone reduced by 1.
 2024-05-13 00:00:00  Stone Cost of each Stone reduced by 1.
 2024-05-09 22:55:29  All stones are transferred to Agora after Rock Garden Noticing.
