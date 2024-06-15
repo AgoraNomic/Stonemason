@@ -2,17 +2,17 @@ THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Owner            Last Wielded  Stone Cost  Immune?
 ---------------  ---------------  ------------  ----------  -------
-Power            nix              2024-05-27             5
-Soul             Agora            2024-04-21             5
-Sabotage         Agora            2023-10-25             7
-Minty            snail            2024-05-27             7
-Protection       nix              2024-05-27             3  Protection
-Recursion        nix              2024-05-27             5
-Hot Potato       Agora            2024-04-28             6
-Blank            Agora            2024-04-01             3
-Anti-Equatorial  Agora            2024-05-05             3
-Radiance         snail            2024-05-27             7
-Loud             Agora                                   6
+Power            nix              2024-05-27             6
+Soul             Agora            2024-04-21             4
+Sabotage         Agora            2023-10-25             6
+Minty            snail            2024-05-27             8
+Protection       nix              2024-05-27             4  Protection
+Recursion        nix              2024-05-27             6
+Hot Potato       Agora            2024-04-28             5
+Blank            Agora            2024-04-01             2
+Anti-Equatorial  Agora            2024-05-05             2
+Radiance         snail            2024-05-27             8
+Loud             Agora                                   5
 
 Summary of stone functions:
 
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-03 00:00:00  Stone Cost of Minty, Power, Protection, Radiance, Recursion Stones increased by 1; Stone Cost of each other stone decreased by 1.
 2024-05-27 23:58:48  snail pays 7 spendies to transfer Radiance Stone to self.
 2024-05-27 10:00:45  [juniper attempts to wield Minty Stone, specifying self.]
 2024-05-27 10:00:45  [juniper attempts to wield Soul Stone, specifying Minty Stone.]
