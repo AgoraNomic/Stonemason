@@ -1,18 +1,18 @@
 THE BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
-Stone            Owner            Last Wielded  Stone Cost  Immune?
----------------  ---------------  ------------  ----------  -------
-Power            nix              2024-05-27             6
-Soul             Agora            2024-04-21             4
-Sabotage         snail            2023-10-25             6
-Minty            snail            2024-05-27             8
-Protection       nix              2024-05-27             4  Protection
-Recursion        nix              2024-05-27             6
-Hot Potato       snail            2024-06-04             5
-Blank            snail            2024-06-04             2
-Anti-Equatorial  snail            2024-05-05             2
-Radiance         snail            2024-06-03             8
-Loud             snail                                   5
+Stone            Owner               Last Wielded  Stone Cost  Immune?
+---------------  ------------------  ------------  ----------  -------
+Power            nix                 2024-05-27             6
+Soul             Agora               2024-04-21             4
+Sabotage         snail               2023-10-25             6
+Minty            snail               2024-05-27             8
+Protection       nix                 2024-05-27             4  Protection
+Recursion        nix                 2024-05-27             6
+Hot Potato       snail               2024-06-04             5
+Blank            snail               2024-06-04             2
+Anti-Equatorial  snail               2024-05-05             2
+Radiance         snail               2024-06-03             8
+Loud             snail                                      5
 
 Summary of stone functions:
 
