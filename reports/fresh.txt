@@ -12,7 +12,7 @@ Hot Potato       Agora            2024-04-28             5
 Blank            snail            2024-04-01             2
 Anti-Equatorial  snail            2024-05-05             2
 Radiance         snail            2024-06-03             8
-Loud             Agora                                   5
+Loud             snail                                   5
 
 Summary of stone functions:
 
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-04 11:20:01  snail pays 5 spendies to transfer Loud Stone to self.
 2024-06-04 11:20:01  snail pays 2 spendies to transfer Anti-Equatorial Stone to self.
 2024-06-04 11:20:01  snail pays 2 spendies to transfer Blank Stone to self.
 2024-06-04 02:21:59  [literallyAmbiguous attempts to wield Minty Stone.]
