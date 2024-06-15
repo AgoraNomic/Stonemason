@@ -8,7 +8,7 @@ Sabotage         snail               2023-10-25             7
 Minty            literallyAmbiguous  2024-06-04             9
 Protection       nix                 2024-05-27             3  Protection
 Recursion        nix                 2024-05-27             5
-Hot Potato       Mischief            2024-06-04             6
+Hot Potato       Mischief            2024-06-04             6  Hot Potato
 Blank            snail               2024-06-04             3
 Anti-Equatorial  snail               2024-05-05             3
 Radiance         snail               2024-06-03             7
@@ -49,7 +49,7 @@ History:
 2024-06-04 14:43:04  literallyAmbiguous wields Minty Stone, specifying self.
 2024-06-04 14:43:04  literallyAmbiguous pays 8 spendies to transfer Minty Stone to self.
 2024-06-04 11:27:48  Hot Potato Stone transferred from snail to Mischief with Hot Potato stone.
-2024-06-04 11:27:48  snail wields Hot Potato Stone, specifying Mischief.
+2024-06-04 11:27:48  snail wields Hot Potato Stone, specifying Mischief; Hot Potato Stone becomes immune.
 2024-06-04 11:27:48  [snail attempts to wield Power Stone.]
 2024-06-04 11:27:48  snail wields Blank Stone.
 2024-06-04 11:20:01  [snail attempts to Notice the Rock Garden.]
