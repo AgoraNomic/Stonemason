@@ -8,7 +8,7 @@ Sabotage         snail            2023-10-25             6
 Minty            snail            2024-05-27             8
 Protection       nix              2024-05-27             4  Protection
 Recursion        nix              2024-05-27             6
-Hot Potato       snail            2024-04-28             5
+Hot Potato       snail            2024-06-04             5
 Blank            snail            2024-06-04             2
 Anti-Equatorial  snail            2024-05-05             2
 Radiance         snail            2024-06-03             8
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-04 11:27:48  snail wields Hot Potato Stone, specifying Mischief.
 2024-06-04 11:27:48  [snail attempts to wield Power Stone.]
 2024-06-04 11:27:48  snail wields Blank Stone.
 2024-06-04 11:20:01  [snail attempts to Notice the Rock Garden.]
