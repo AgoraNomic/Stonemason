@@ -4,7 +4,7 @@ Stone            Owner            Last Wielded  Stone Cost  Immune?
 ---------------  ---------------  ------------  ----------  -------
 Power            nix              2024-05-27             6
 Soul             Agora            2024-04-21             4
-Sabotage         Agora            2023-10-25             6
+Sabotage         snail            2023-10-25             6
 Minty            snail            2024-05-27             8
 Protection       nix              2024-05-27             4  Protection
 Recursion        nix              2024-05-27             6
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-04 11:20:01  snail pays 6 spendies to transfer Sabotage Stone to self.
 2024-06-04 11:20:01  [snail attempts to pay 5 spendies to transfer Power Stone to self.]
 2024-06-04 11:20:01  snail pays 5 spendies to transfer Hot Potato Stone to self.
 2024-06-04 11:20:01  snail pays 5 spendies to transfer Loud Stone to self.
