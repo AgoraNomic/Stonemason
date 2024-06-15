@@ -45,6 +45,8 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-04 02:21:59  [literallyAmbiguous attempts to wield Minty Stone.]
+2024-06-04 02:21:59  [literallyAmbiguous attempts to pay 7 spendies to transfer Minty Stone to self.]
 2024-06-03 22:29:41  snail wields Radiance Stone, specifying self.
 2024-06-03 00:00:00  Stone Cost of Minty, Power, Protection, Radiance, Recursion Stones increased by 1; Stone Cost of each other stone decreased by 1.
 2024-05-27 23:58:48  snail pays 7 spendies to transfer Radiance Stone to self.
