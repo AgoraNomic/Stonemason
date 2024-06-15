@@ -45,6 +45,9 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-05-27 10:00:45  [juniper attempts to wield Minty Stone, specifying self.]
+2024-05-27 10:00:45  [juniper attempts to wield Soul Stone, specifying Minty Stone.]
+2024-05-27 10:00:45  [juniper attempts to pays 6 spendies to transfer Soul Stone to self.]
 2024-05-27 03:00:03  snail wields Minty Stone, specifying self.
 2024-05-27 03:00:03  snail pays 7 spendies to transfer Minty Stone to self.
 2024-05-27 00:45:40  nix wields Recursion Stone, specifying Protection Stone, specifying Recursion Stone.
