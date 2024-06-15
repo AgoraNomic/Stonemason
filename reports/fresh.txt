@@ -5,7 +5,7 @@ Stone            Owner               Last Wielded  Stone Cost  Immune?
 Power            nix                 2024-05-27             6
 Soul             Agora               2024-04-21             4
 Sabotage         snail               2023-10-25             6
-Minty            literallyAmbiguous  2024-05-27             8
+Minty            literallyAmbiguous  2024-06-04             8
 Protection       nix                 2024-05-27             4  Protection
 Recursion        nix                 2024-05-27             6
 Hot Potato       snail               2024-06-04             5
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-04 14:43:04  literallyAmbiguous wields Minty Stone, specifying self.
 2024-06-04 14:43:04  literallyAmbiguous pays 8 spendies to transfer Minty Stone to self.
 2024-06-04 11:27:48  snail wields Hot Potato Stone, specifying Mischief.
 2024-06-04 11:27:48  [snail attempts to wield Power Stone.]
