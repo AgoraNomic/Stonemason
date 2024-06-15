@@ -6,7 +6,7 @@ Power            Agora            2024-04-01             5
 Soul             Agora            2024-04-21             5
 Sabotage         Agora            2023-10-25             7
 Minty            Agora            2024-04-28             7
-Protection       Agora            2024-04-01             3
+Protection       nix              2024-04-01             3
 Recursion        Agora            2024-04-01             5  Protection
 Hot Potato       Agora            2024-04-28             6
 Blank            Agora            2024-04-01             3
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-05-27 00:45:40  nix pays 3 spendies to transfer Protection Stone to self.
 2024-05-27 00:00:00  Stone Cost of each Stone reduced by 1.
 2024-05-20 00:00:00  Stone Cost of each Stone reduced by 1.
 2024-05-13 00:00:00  Stone Cost of each Stone reduced by 1.
