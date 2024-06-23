@@ -9,7 +9,7 @@ Minty            literallyAmbiguous  2024-06-04             7
 Protection       nix                 2024-05-27             2  Protection
 Recursion        nix                 2024-05-27             4
 Hot Potato       Murphy              2024-06-15             6  Hot Potato
-Blank            snail               2024-06-15             2
+Blank            Janet               2024-06-15             2
 Anti-Equatorial  snail               2024-05-05             2
 Radiance         Janet               2024-06-15             7
 Loud             snail                                      5
