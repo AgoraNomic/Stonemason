@@ -11,7 +11,7 @@ Recursion        nix                 2024-05-27             4
 Hot Potato       Mischief            2024-06-04             6  Hot Potato
 Blank            snail               2024-06-04             2
 Anti-Equatorial  snail               2024-05-05             2
-Radiance         snail               2024-06-03             7
+Radiance         Janet               2024-06-03             7
 Loud             snail                                      5
 
 Summary of stone functions:
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-15 05:51:36  Janet pays 7 spendies to transfer Radiance Stone to self.
 2024-06-15 05:51:36  [Janet attempts to pay 3 spendies to transfer Blank Stone to self.]
 2024-06-10 00:00:00  Stone Cost of Hot Potato Stone increased by 1; Stone Cost of Soul, Protection, Recursion, Radiance Stones decreased by 1.
 2024-06-04 14:43:04  [literallyAmbiguous attempts to wield Minty Stone, specifying self.]
