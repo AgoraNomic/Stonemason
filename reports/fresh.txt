@@ -10,7 +10,7 @@ Protection       nix                 2024-05-27             1  Protection
 Recursion        nix                 2024-05-27             3
 Hot Potato       Murphy              2024-06-15             6  Hot Potato
 Blank            Janet               2024-06-15             2
-Anti-Equatorial  snail               2024-05-05             1
+Grind            Agora                                     10
 Radiance         Janet               2024-06-15             7
 Loud             snail                                      4
 
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-21 02:19:57  P9114 takes effect, removing Anti-Equatorial Stone and adding Grind Stone.
 2024-06-17 00:00:00  Stone Cost of Power, Soul, Sabotage, Minty, Protection, Recursion Anti-Equatorial, Loud Stones decreased by 1.
 2024-06-16 19:07:28  [Murphy attempts to wield Hot Potato Stone, specifying literallyAmbiguous.]
 2024-06-15 23:10:34  Hot Potato Stone transferred from Mischief to Murphy with Hot Potato Stone.
