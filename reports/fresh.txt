@@ -2,17 +2,17 @@ BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Owner               Last Wielded  Stone Cost  Immune?
 ---------------  ------------------  ------------  ----------  -------
-Power            snail               2024-06-04             5
-Soul             Agora               2024-04-21             3
-Sabotage         snail               2023-10-25             6
-Minty            literallyAmbiguous  2024-06-04             7
-Protection       nix                 2024-05-27             2  Protection
-Recursion        nix                 2024-05-27             4
+Power            snail               2024-06-04             4
+Soul             Agora               2024-04-21             2
+Sabotage         snail               2023-10-25             5
+Minty            literallyAmbiguous  2024-06-04             6
+Protection       nix                 2024-05-27             1  Protection
+Recursion        nix                 2024-05-27             3
 Hot Potato       Murphy              2024-06-15             6  Hot Potato
 Blank            Janet               2024-06-15             2
-Anti-Equatorial  snail               2024-05-05             2
+Anti-Equatorial  snail               2024-05-05             1
 Radiance         Janet               2024-06-15             7
-Loud             snail                                      5
+Loud             snail                                      4
 
 Summary of stone functions:
 
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-17 00:00:00  Stone Cost of Power, Soul, Sabotage, Minty, Protection, Recursion Anti-Equatorial, Loud Stones decreased by 1.
 2024-06-16 19:07:28  [Murphy attempts to wield Hot Potato Stone, specifying literallyAmbiguous.]
 2024-06-15 23:10:34  Hot Potato Stone transferred from Mischief to Murphy with Hot Potato Stone.
 2024-06-15 23:10:34  Mischief wields Hot Potato Stone, specifying Murphy.
