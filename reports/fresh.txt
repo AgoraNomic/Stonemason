@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-15 05:51:36  [Janet attempts to pay 3 spendies to transfer Blank Stone to self.]
 2024-06-10 00:00:00  Stone Cost of Hot Potato Stone increased by 1; Stone Cost of Soul, Protection, Recursion, Radiance Stones decreased by 1.
 2024-06-04 14:43:04  [literallyAmbiguous attempts to wield Minty Stone, specifying self.]
 2024-06-04 14:43:04  [literallyAmbiguous attempts to pay 8 spendies to transfer Minty Stone to self.]
