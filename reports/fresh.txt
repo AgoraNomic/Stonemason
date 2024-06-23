@@ -9,7 +9,7 @@ Minty            literallyAmbiguous  2024-06-04             7
 Protection       nix                 2024-05-27             2  Protection
 Recursion        nix                 2024-05-27             4
 Hot Potato       Mischief            2024-06-04             6  Hot Potato
-Blank            snail               2024-06-04             2
+Blank            snail               2024-06-15             2
 Anti-Equatorial  snail               2024-05-05             2
 Radiance         Janet               2024-06-15             7
 Loud             snail                                      5
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-15 22:22:32  Janet pays 2 spendies to transfer Blank Stone to self.
 2024-06-15 05:51:36  Janet wields Radiance Stone, specifying self.
 2024-06-15 05:51:36  Janet pays 7 spendies to transfer Radiance Stone to self.
 2024-06-15 05:51:36  [Janet attempts to pay 3 spendies to transfer Blank Stone to self.]
