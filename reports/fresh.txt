@@ -7,7 +7,7 @@ Soul             Janet               2024-04-21             2
 Sabotage         snail               2023-10-25             5
 Minty            literallyAmbiguous  2024-06-04             6
 Protection       nix                 2024-05-27             1  Protection
-Recursion        nix                 2024-05-27             3
+Recursion        Janet               2024-05-27             3
 Hot Potato       Murphy              2024-06-15             6  Hot Potato
 Blank            Janet               2024-06-15             2
 Grind            Agora                                     10
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-23 04:09:16  Janet pays 3 to transfer Recursion Stone to self.
 2024-06-23 04:09:16  Janet pays 2 to transfer Soul Stone to self.
 2024-06-21 02:19:57  P9114 takes effect, removing Anti-Equatorial Stone and adding Grind Stone.
 2024-06-17 00:00:00  Stone Cost of Power, Soul, Sabotage, Minty, Protection, Recursion Anti-Equatorial, Loud Stones decreased by 1.
