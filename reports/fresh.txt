@@ -5,7 +5,7 @@ Stone            Owner               Last Wielded  Stone Cost  Immune?
 Power            Janet               2024-06-04             4
 Soul             Janet               2024-04-21             2
 Sabotage         Janet               2023-10-25             5
-Minty            literallyAmbiguous  2024-06-04             6
+Minty            Janet               2024-06-04             6
 Protection       nix                 2024-05-27             1  Protection
 Recursion        Janet               2024-05-27             3
 Hot Potato       Murphy              2024-06-15             6  Hot Potato
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-23 04:09:16  Janet pays 6 to transfer Minty Stone to self.
 2024-06-23 04:09:16  Janet pays 5 to transfer Sabotage Stone to self.
 2024-06-23 04:09:16  Janet pays 4 to transfer Loud Stone to self.
 2024-06-23 04:09:16  Janet pays 4 to transfer Power Stone to self.
