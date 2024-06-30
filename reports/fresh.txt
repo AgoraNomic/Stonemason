@@ -2,7 +2,7 @@ BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Owner               Last Wielded  Stone Cost  Immune?
 ---------------  ------------------  ------------  ----------  -------
-Power            snail               2024-06-04             4
+Power            Janet               2024-06-04             4
 Soul             Janet               2024-04-21             2
 Sabotage         snail               2023-10-25             5
 Minty            literallyAmbiguous  2024-06-04             6
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-23 04:09:16  Janet pays 4 to transfer Power Stone to self.
 2024-06-23 04:09:16  Janet pays 3 to transfer Recursion Stone to self.
 2024-06-23 04:09:16  Janet pays 2 to transfer Soul Stone to self.
 2024-06-21 02:19:57  P9114 takes effect, removing Anti-Equatorial Stone and adding Grind Stone.
