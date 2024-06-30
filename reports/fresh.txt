@@ -2,17 +2,17 @@ BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Owner               Last Wielded  Stone Cost  Immune?
 ---------------  ------------------  ------------  ----------  -------
-Power            Janet               2024-06-04             4
-Soul             Janet               2024-04-21             2
-Sabotage         Janet               2023-10-25             5
-Minty            Janet               2024-06-04             6
-Protection       nix                 2024-05-27             1  Protection
-Recursion        Janet               2024-05-27             3
-Hot Potato       Murphy              2024-06-15             5  Hot Potato
-Blank            Janet               2024-06-15             1
-Grind            Janet                                     10
-Radiance         Janet               2024-06-15             6
-Loud             Janet                                      4
+Power            Agora               2024-06-04             4
+Soul             Agora               2024-04-21             2
+Sabotage         Agora               2023-10-25             5
+Minty            Agora               2024-06-04             6
+Protection       Agora               2024-05-27             1  Protection
+Recursion        Agora               2024-05-27             3
+Hot Potato       Agora               2024-06-15             5  Hot Potato
+Blank            Agora               2024-06-15             1
+Grind            Agora                                     10
+Radiance         Agora               2024-06-15             6
+Loud             Agora                                      4
 
 Summary of stone functions:
 
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-27 04:09:16  All Stones transferred to Agora after Rock Garden Noticing.
 2024-06-24 00:00:00  Stone Cost of Hot Potato, Blank, Radiance Stones decreased by 1.
 2024-06-23 05:59:34  [Janet attempts to Notice the Rock Garden.]
 2024-06-23 05:59:34  Janet pays 10 spendies to transfer Grind Stone to self.
