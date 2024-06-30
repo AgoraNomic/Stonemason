@@ -10,7 +10,7 @@ Protection       nix                 2024-05-27             1  Protection
 Recursion        Janet               2024-05-27             3
 Hot Potato       Murphy              2024-06-15             6  Hot Potato
 Blank            Janet               2024-06-15             2
-Grind            Agora                                     10
+Grind            Janet                                     10
 Radiance         Janet               2024-06-15             7
 Loud             Janet                                      4
 
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-23 05:59:34  Janet pays 10 spendies to transfer Grind Stone to self.
 2024-06-23 04:09:16  Janet Notices the Rock Garden.
 2024-06-23 04:09:16  Janet pays 6 to transfer Minty Stone to self.
 2024-06-23 04:09:16  Janet pays 5 to transfer Sabotage Stone to self.
