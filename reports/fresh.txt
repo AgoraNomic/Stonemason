@@ -47,12 +47,12 @@ History:
 =======
 2024-06-23 05:59:34  Janet pays 10 spendies to transfer Grind Stone to self.
 2024-06-23 04:09:16  Janet Notices the Rock Garden.
-2024-06-23 04:09:16  Janet pays 6 to transfer Minty Stone to self.
-2024-06-23 04:09:16  Janet pays 5 to transfer Sabotage Stone to self.
-2024-06-23 04:09:16  Janet pays 4 to transfer Loud Stone to self.
-2024-06-23 04:09:16  Janet pays 4 to transfer Power Stone to self.
-2024-06-23 04:09:16  Janet pays 3 to transfer Recursion Stone to self.
-2024-06-23 04:09:16  Janet pays 2 to transfer Soul Stone to self.
+2024-06-23 04:09:16  Janet pays 6 spendies to transfer Minty Stone to self.
+2024-06-23 04:09:16  Janet pays 5 spendies to transfer Sabotage Stone to self.
+2024-06-23 04:09:16  Janet pays 4 spendies to transfer Loud Stone to self.
+2024-06-23 04:09:16  Janet pays 4 spendies to transfer Power Stone to self.
+2024-06-23 04:09:16  Janet pays 3 spendies to transfer Recursion Stone to self.
+2024-06-23 04:09:16  Janet pays 2 spendies to transfer Soul Stone to self.
 2024-06-21 02:19:57  P9114 takes effect, removing Anti-Equatorial Stone and adding Grind Stone.
 2024-06-17 00:00:00  Stone Cost of Power, Soul, Sabotage, Minty, Protection, Recursion Anti-Equatorial, Loud Stones decreased by 1.
 2024-06-16 19:07:28  [Murphy attempts to wield Hot Potato Stone, specifying literallyAmbiguous.]
