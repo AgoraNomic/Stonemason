@@ -70,7 +70,7 @@ History:
 2024-06-04 11:27:48  snail wields Hot Potato Stone, specifying Mischief; Hot Potato Stone becomes immune.
 2024-06-04 11:27:48  snail wields Power Stone.
 2024-06-04 11:27:48  snail wields Blank Stone.
-2024-06-04 11:20:01  snail Notices the Rock Garden. [Does not win because ais523 won by Noticing in the past 30 days, so no transfer 4 days later.]
+2024-06-04 11:20:01  [snail attempts to Notice the Rock Garden. (Fails because ais523 won by doing so within the past 30 days.)]
 2024-06-04 11:20:01  snail pays 6 spendies to transfer Sabotage Stone to self.
 2024-06-04 11:20:01  snail pays 5 spendies to transfer Power Stone to self.
 2024-06-04 11:20:01  snail pays 5 spendies to transfer Hot Potato Stone to self.
