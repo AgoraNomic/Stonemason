@@ -8,10 +8,10 @@ Sabotage         Janet               2023-10-25             5
 Minty            Janet               2024-06-04             6
 Protection       nix                 2024-05-27             1  Protection
 Recursion        Janet               2024-05-27             3
-Hot Potato       Murphy              2024-06-15             6  Hot Potato
-Blank            Janet               2024-06-15             2
+Hot Potato       Murphy              2024-06-15             5  Hot Potato
+Blank            Janet               2024-06-15             1
 Grind            Janet                                     10
-Radiance         Janet               2024-06-15             7
+Radiance         Janet               2024-06-15             6
 Loud             Janet                                      4
 
 Summary of stone functions:
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-24 00:00:00  Stone Cost of Hot Potato, Blank, Radiance Stones decreased by 1.
 2024-06-23 05:59:34  [Janet attempts to Notice the Rock Garden.]
 2024-06-23 05:59:34  Janet pays 10 spendies to transfer Grind Stone to self.
 2024-06-23 04:09:16  Janet Notices the Rock Garden.
