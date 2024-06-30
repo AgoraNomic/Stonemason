@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-23 05:59:34  [Janet attempts to Notice the Rock Garden.]
 2024-06-23 05:59:34  Janet pays 10 spendies to transfer Grind Stone to self.
 2024-06-23 04:09:16  Janet Notices the Rock Garden.
 2024-06-23 04:09:16  Janet pays 6 spendies to transfer Minty Stone to self.
