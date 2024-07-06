@@ -2,16 +2,16 @@ BILLBOARD ROCK CHART (STONEMASON'S WEEKLY REPORT)
 
 Stone            Owner               Last Wielded  Stone Cost  Immune?
 ---------------  ------------------  ------------  ----------  -------
-Power            Agora               2024-06-04             5
-Soul             Agora               2024-04-21             3
-Sabotage         Agora               2023-10-25             6
-Minty            ais523              2024-06-30             7
-Protection       Agora               2024-05-27             1  Protection
-Recursion        Agora               2024-05-27             4
-Hot Potato       Agora               2024-06-15             5  Hot Potato
-Blank            ais523              2024-06-15             2
+Power            Agora               2024-06-04            10
+Soul             Agora               2024-04-21            10
+Sabotage         Agora               2023-10-25            10
+Minty            ais523              2024-06-30            10
+Protection       Agora               2024-05-27            10  Protection
+Recursion        Agora               2024-05-27            10
+Hot Potato       Agora               2024-06-15            10  Hot Potato
+Blank            ais523              2024-06-15            10
 Grind            Agora                                     11
-Radiance         ais523              2024-06-30             7
+Radiance         ais523              2024-06-30            10
 
 Summary of stone functions:
 
@@ -44,6 +44,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-07-06 03:42:43  P9128 resets Stone Cost of Power, Soul, Sabotage, Minty, Protection, Recursion, Hot Potato, Blank, Radiance Stones.
 2024-07-06 03:42:43  Loud Stone removed after P9126 takes effect.
 2024-07-01 00:00:00  Stone Cost of Power, Soul, Sabotage, Minty, Recursion, Blank, Grind, Radiance, Loud Stones increased by 1.
 2024-06-30 23:10:48  ais523 pays 1 spendy to transfer Blank Stone to self.
