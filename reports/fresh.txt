@@ -5,7 +5,7 @@ Stone            Owner               Last Wielded  Stone Cost  Immune?
 Power            Agora               2024-06-04             4
 Soul             Agora               2024-04-21             2
 Sabotage         Agora               2023-10-25             5
-Minty            Agora               2024-06-04             6
+Minty            ais523              2024-06-04             6
 Protection       Agora               2024-05-27             1  Protection
 Recursion        Agora               2024-05-27             3
 Hot Potato       Agora               2024-06-15             5  Hot Potato
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-30 23:08:09  ais523 pays 6 spendies to transfer Minty Stone to self.
 2024-06-27 04:09:16  All Stones transferred to Agora after Rock Garden Noticing.
 2024-06-24 00:00:00  Stone Cost of Hot Potato, Blank, Radiance Stones decreased by 1.
 2024-06-23 05:59:34  [Janet attempts to Notice the Rock Garden.]
