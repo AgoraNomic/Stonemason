@@ -9,7 +9,7 @@ Minty            ais523              2024-06-30             6
 Protection       Agora               2024-05-27             1  Protection
 Recursion        Agora               2024-05-27             3
 Hot Potato       Agora               2024-06-15             5  Hot Potato
-Blank            Agora               2024-06-15             1
+Blank            ais523              2024-06-15             1
 Grind            Agora                                     10
 Radiance         ais523              2024-06-30             6
 Loud             Agora                                      4
@@ -45,6 +45,7 @@ Score            A specified player's radiance is increased by 3.
 
 History:
 =======
+2024-06-30 23:10:48  ais523 pays 1 spendy to transfer Blank Stone to self.
 2024-06-30 23:08:09  ais523 wields Minty Stone, specifying self.
 2024-06-30 23:08:09  ais523 wields Radiance Stone, specifying self.
 2024-06-30 23:08:09  ais523 pays 6 spendies to transfer Radiance Stone to self.
